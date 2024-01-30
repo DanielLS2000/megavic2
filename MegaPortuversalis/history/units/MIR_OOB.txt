@@ -1,0 +1,22 @@
+#Sphere of Influence
+
+ENG = {
+	value = 0
+	level = 2
+}
+GLC = {
+	value = 0
+	level = 2
+}
+GYN = {
+	value = 0
+	level = 2
+}
+MIR = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+
+#Armies

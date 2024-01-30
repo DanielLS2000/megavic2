@@ -1,0 +1,192 @@
+vassal=
+{
+	first="EGY"
+	second="X21"
+	start_date="1517.3.22"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="EGY"
+	second="SUD"
+	start_date="1547.2.25"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="GLC"
+	second="CUB"
+	start_date="1517.11.23"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="GLC"
+	second="PEU"
+	start_date="1547.5.15"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="GLC"
+	second="BRZ"
+	start_date="1555.4.23"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="GLC"
+	second="X29"
+	start_date="1563.7.1"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="GYN"
+	second="ARG"
+	start_date="1561.5.20"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="GYN"
+	second="NEW"
+	start_date="1562.6.20"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="GYN"
+	second="LOU"
+	start_date="1579.5.17"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="GYN"
+	second="ALD"
+	start_date="1689.5.24"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="ITA"
+	second="SWI"
+	start_date="1593.6.20"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="ITA"
+	second="GRE"
+	start_date="1742.5.5"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="ITA"
+	second="BUL"
+	start_date="1775.9.3"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="ITA"
+	second="DLM"
+	start_date="1791.4.14"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="PER"
+	second="OMA"
+	start_date="1512.12.7"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="PER"
+	second="X06"
+	start_date="1798.6.14"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="PRU"
+	second="POL"
+	start_date="1607.1.8"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="PRU"
+	second="LIT"
+	start_date="1755.9.21"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="PRU"
+	second="X05"
+	start_date="1797.5.22"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="SCA"
+	second="X08"
+	start_date="1518.12.27"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="UKR"
+	second="X02"
+	start_date="1741.7.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="UKR"
+	second="X04"
+	start_date="1741.7.3"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="UKR"
+	second="X03"
+	start_date="1806.8.21"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="X24"
+	second="HUN"
+	start_date="1761.1.11"
+	end_date="1936.1.1"
+}
+

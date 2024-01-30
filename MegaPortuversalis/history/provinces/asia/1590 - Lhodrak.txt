@@ -1,0 +1,9 @@
+owner=MNX
+controller=MNX
+add_core=MDO
+add_core=MNX
+add_core=TIB
+add_core=UTS
+trade_goods = wool
+life_rating = 25
+fort = 1

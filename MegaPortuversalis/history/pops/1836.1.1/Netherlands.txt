@@ -1,0 +1,1543 @@
+375 = {
+	soldiers=
+	{
+		culture = dutch
+		religion = catholic
+		size= 1573
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = catholic
+		size= 444
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = catholic
+		size= 55
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = catholic
+		size= 46
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = catholic
+		size= 57542
+	}
+
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size= 110
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size= 506
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size= 63
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size= 8
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size= 52
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = protestant
+		size= 3329
+	}
+
+	soldiers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 1392
+	}
+
+	artisans=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 12916
+	}
+
+	clergymen=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 1591
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 202
+	}
+
+	officers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 143
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 1321
+	}
+
+	farmers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 35885
+	}
+
+}
+376 = {
+	soldiers=
+	{
+		culture = dutch
+		religion = catholic
+		size= 2995
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = catholic
+		size= 1044
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = catholic
+		size= 119
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = catholic
+		size= 15
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = catholic
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = catholic
+		size= 104
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = catholic
+		size= 61075
+	}
+
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size= 3633
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size= 17430
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size= 1976
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size= 249
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size= 401
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size= 1739
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = protestant
+		size= 60865
+	}
+
+}
+377 = {
+	soldiers=
+	{
+		culture = dutch
+		religion = catholic
+		size= 328
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = catholic
+		size= 302
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = catholic
+		size= 32
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = catholic
+		size= 27
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = catholic
+		size= 16586
+	}
+
+	soldiers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 55
+	}
+
+	artisans=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 403
+	}
+
+	clergymen=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 43
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 36
+	}
+
+	farmers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 2325
+	}
+
+	soldiers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 352
+	}
+
+	artisans=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 4713
+	}
+
+	clergymen=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 505
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 88
+	}
+
+	officers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 57
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 425
+	}
+
+	farmers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 14642
+	}
+
+}
+378 = {
+	soldiers=
+	{
+		culture = flemish
+		religion = catholic
+		size= 997
+	}
+
+	artisans=
+	{
+		culture = flemish
+		religion = catholic
+		size= 758
+	}
+
+	clergymen=
+	{
+		culture = flemish
+		religion = catholic
+		size= 81
+	}
+
+	bureaucrats=
+	{
+		culture = flemish
+		religion = catholic
+		size= 14
+	}
+
+	officers=
+	{
+		culture = flemish
+		religion = catholic
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = flemish
+		religion = catholic
+		size= 68
+	}
+
+	farmers=
+	{
+		culture = flemish
+		religion = catholic
+		size= 19730
+	}
+
+	soldiers=
+	{
+		culture = flemish
+		religion = protestant
+		size= 976
+	}
+
+	artisans=
+	{
+		culture = flemish
+		religion = protestant
+		size= 5245
+	}
+
+	clergymen=
+	{
+		culture = flemish
+		religion = protestant
+		size= 562
+	}
+
+	bureaucrats=
+	{
+		culture = flemish
+		religion = protestant
+		size= 97
+	}
+
+	officers=
+	{
+		culture = flemish
+		religion = protestant
+		size= 109
+	}
+
+	aristocrats=
+	{
+		culture = flemish
+		religion = protestant
+		size= 473
+	}
+
+	farmers=
+	{
+		culture = flemish
+		religion = protestant
+		size= 16449
+	}
+
+}
+379 = {
+	soldiers=
+	{
+		culture = dutch
+		religion = catholic
+		size= 1157
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = catholic
+		size= 891
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = catholic
+		size= 39
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = catholic
+		size= 12
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = catholic
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = catholic
+		size= 63
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = catholic
+		size= 23667
+	}
+
+	soldiers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 305
+	}
+
+	artisans=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 1359
+	}
+
+	clergymen=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 59
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 18
+	}
+
+	officers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 96
+	}
+
+	farmers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 4897
+	}
+
+	soldiers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 1369
+	}
+
+	artisans=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 6462
+	}
+
+	clergymen=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 280
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 85
+	}
+
+	officers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 137
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 455
+	}
+
+	farmers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 21583
+	}
+
+}
+380 = {
+	soldiers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 595
+	}
+
+	artisans=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 743
+	}
+
+	clergymen=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 80
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 10
+	}
+
+	officers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 67
+	}
+
+	farmers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 19733
+	}
+
+	soldiers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 554
+	}
+
+	artisans=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 4998
+	}
+
+	clergymen=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 536
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 64
+	}
+
+	officers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 75
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 450
+	}
+
+	farmers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 13096
+	}
+
+}
+381 = {
+	soldiers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 1927
+	}
+
+	clergymen=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 161
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 39
+	}
+
+	officers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 62
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 240
+	}
+
+	farmers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 33161
+	}
+
+	soldiers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 1908
+	}
+
+	artisans=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 5660
+	}
+
+	clergymen=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 472
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 113
+	}
+
+	officers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 182
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 704
+	}
+
+	farmers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 32433
+	}
+
+}
+382 = {
+	soldiers=
+	{
+		culture = dutch
+		religion = catholic
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = catholic
+		size= 696
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = catholic
+		size= 52
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = catholic
+		size= 17
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = catholic
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = catholic
+		size= 98
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = catholic
+		size= 54172
+	}
+
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size= 101
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size= 941
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size= 71
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size= 23
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size= 133
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = protestant
+		size= 9679
+	}
+
+	soldiers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 435
+	}
+
+	artisans=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 9134
+	}
+
+	clergymen=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 684
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 225
+	}
+
+	officers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 134
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 1291
+	}
+
+	farmers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 36163
+	}
+
+}
+383 = {
+	soldiers=
+	{
+		culture = dutch
+		religion = catholic
+		size= 423
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = catholic
+		size= 429
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = catholic
+		size= 47
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = catholic
+		size= 39
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = catholic
+		size= 23798
+	}
+
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size= 424
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size= 6447
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size= 700
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size= 102
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size= 80
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size= 588
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = protestant
+		size= 17826
+	}
+
+}
+384 = {
+	soldiers=
+	{
+		culture = dutch
+		religion = catholic
+		size= 704
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = catholic
+		size= 251
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = catholic
+		size= 47
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = catholic
+		size= 14
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = catholic
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = catholic
+		size= 70
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = catholic
+		size= 24043
+	}
+
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size= 181
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size= 380
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size= 71
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size= 21
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size= 107
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = protestant
+		size= 5673
+	}
+
+	soldiers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 484
+	}
+
+	artisans=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 1324
+	}
+
+	clergymen=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 248
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 73
+	}
+
+	officers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 70
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 371
+	}
+
+	farmers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 14731
+	}
+
+}
+385 = {
+	soldiers=
+	{
+		culture = dutch
+		religion = catholic
+		size= 994
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = catholic
+		size= 778
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = catholic
+		size= 74
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = catholic
+		size= 12
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = catholic
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = catholic
+		size= 61
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = catholic
+		size= 20465
+	}
+
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size= 1081
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size= 2468
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size= 235
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size= 39
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size= 52
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size= 192
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = protestant
+		size= 20210
+	}
+
+	soldiers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 277
+	}
+
+	artisans=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 4109
+	}
+
+	clergymen=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 391
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 65
+	}
+
+	officers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 86
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 320
+	}
+
+	farmers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 826
+	}
+
+}
+386 = {
+	soldiers=
+	{
+		culture = dutch
+		religion = catholic
+		size= 287
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = catholic
+		size= 102
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = catholic
+		size= 19
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = catholic
+		size= 29
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = catholic
+		size= 9801
+	}
+
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size= 74
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size= 155
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size= 29
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size= 9
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size= 43
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = protestant
+		size= 2313
+	}
+
+	soldiers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 197
+	}
+
+	artisans=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 540
+	}
+
+	clergymen=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 101
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 30
+	}
+
+	officers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 151
+	}
+
+	farmers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 6006
+	}
+
+}

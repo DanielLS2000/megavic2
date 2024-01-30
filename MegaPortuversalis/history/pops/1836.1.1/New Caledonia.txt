@@ -1,0 +1,79 @@
+1097 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 22
+	}
+
+	craftsmen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 1682
+	}
+
+	craftsmen=
+	{
+		culture = dynamic-anglosaxon-norse-welsh-culture-num1
+		religion = protestant
+		size= 6486
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglosaxon-norse-welsh-culture-num1
+		religion = protestant
+		size= 485
+	}
+
+	clerks=
+	{
+		culture = dynamic-anglosaxon-norse-welsh-culture-num1
+		religion = protestant
+		size= 492
+	}
+
+	capitalists=
+	{
+		culture = dynamic-anglosaxon-norse-welsh-culture-num1
+		religion = protestant
+		size= 42
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglosaxon-norse-welsh-culture-num1
+		religion = protestant
+		size= 45
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglosaxon-norse-welsh-culture-num1
+		religion = protestant
+		size= 34
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglosaxon-norse-welsh-culture-num1
+		religion = protestant
+		size= 15
+	}
+
+	soldiers=
+	{
+		culture = dynamic-anglosaxon-norse-welsh-culture-num1
+		religion = protestant
+		size= 85
+	}
+
+	officers=
+	{
+		culture = dynamic-anglosaxon-norse-welsh-culture-num1
+		religion = protestant
+		size= 4
+	}
+
+}

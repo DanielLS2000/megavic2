@@ -1,0 +1,7 @@
+owner=PER
+controller=PER
+add_core=DLH
+add_core=HND
+trade_goods = wool
+life_rating = 32
+fort = 1

@@ -1,0 +1,130 @@
+2454 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 82
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 4060
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglosaxon-norse-welsh-culture-num1
+		religion = protestant
+		size= 13366
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglosaxon-norse-welsh-culture-num1
+		religion = protestant
+		size= 1777
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglosaxon-norse-welsh-culture-num1
+		religion = protestant
+		size= 128
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglosaxon-norse-welsh-culture-num1
+		religion = protestant
+		size= 165
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglosaxon-norse-welsh-culture-num1
+		religion = protestant
+		size= 53
+	}
+
+	soldiers=
+	{
+		culture = dynamic-anglosaxon-norse-welsh-culture-num1
+		religion = protestant
+		size= 310
+	}
+
+	officers=
+	{
+		culture = dynamic-anglosaxon-norse-welsh-culture-num1
+		religion = protestant
+		size= 14
+	}
+
+}
+2520 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 369
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglosaxon-norse-welsh-culture-num1
+		religion = protestant
+		size= 160
+	}
+
+	soldiers=
+	{
+		culture = dynamic-anglosaxon-norse-welsh-culture-num1
+		religion = protestant
+		size= 28
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglosaxon-norse-welsh-culture-num1
+		religion = protestant
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglosaxon-norse-welsh-culture-num1
+		religion = protestant
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglosaxon-norse-welsh-culture-num1
+		religion = protestant
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglosaxon-norse-welsh-culture-num1
+		religion = protestant
+		size= 1208
+	}
+
+	officers=
+	{
+		culture = dynamic-anglosaxon-norse-welsh-culture-num1
+		religion = protestant
+		size= 1
+	}
+
+}

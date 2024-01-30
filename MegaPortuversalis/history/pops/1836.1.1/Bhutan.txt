@@ -1,0 +1,282 @@
+1329 = {
+	slaves=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = gelugpa
+		size= 2331
+	}
+
+	soldiers=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = gelugpa
+		size= 365
+	}
+
+	artisans=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = gelugpa
+		size= 32
+	}
+
+	clergymen=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = gelugpa
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = gelugpa
+		size= 2
+	}
+
+	officers=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = gelugpa
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = gelugpa
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = gelugpa
+		size= 10288
+	}
+
+	slaves=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = hindu
+		size= 1204
+	}
+
+	soldiers=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = hindu
+		size= 189
+	}
+
+	artisans=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = hindu
+		size= 66
+	}
+
+	clergymen=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = hindu
+		size= 25
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = hindu
+		size= 3
+	}
+
+	officers=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = hindu
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = hindu
+		size= 14
+	}
+
+	farmers=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = hindu
+		size= 5230
+	}
+
+	slaves=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = jain
+		size= 2061
+	}
+
+	soldiers=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = jain
+		size= 323
+	}
+
+	artisans=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = jain
+		size= 214
+	}
+
+	clergymen=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = jain
+		size= 80
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = jain
+		size= 9
+	}
+
+	officers=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = jain
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = jain
+		size= 45
+	}
+
+	farmers=
+	{
+		culture = dynamic-nepali-culture-num1
+		religion = jain
+		size= 8786
+	}
+
+	slaves=
+	{
+		culture = tibetan
+		religion = jain
+		size= 1032
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = jain
+		size= 162
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = jain
+		size= 429
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = jain
+		size= 161
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = jain
+		size= 18
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = jain
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = jain
+		size= 90
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = jain
+		size= 3855
+	}
+
+	slaves=
+	{
+		culture = tibetan
+		religion = zoroastrian
+		size= 365
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = zoroastrian
+		size= 57
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = zoroastrian
+		size= 823
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = zoroastrian
+		size= 309
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = zoroastrian
+		size= 35
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = zoroastrian
+		size= 43
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = zoroastrian
+		size= 173
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = zoroastrian
+		size= 237
+	}
+
+}

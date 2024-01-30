@@ -1,0 +1,172 @@
+251 = {
+	soldiers=
+	{
+		culture = inuit
+		religion = totemism
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = inuit
+		religion = totemism
+		size= 142
+	}
+
+	artisans=
+	{
+		culture = scandinavian_north_america_superregion_culture
+		religion = catholic
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = scandinavian_north_america_superregion_culture
+		religion = catholic
+		size= 34
+	}
+
+	soldiers=
+	{
+		culture = scandinavian_north_america_superregion_culture
+		religion = protestant
+		size= 32
+	}
+
+	artisans=
+	{
+		culture = scandinavian_north_america_superregion_culture
+		religion = protestant
+		size= 49
+	}
+
+	clergymen=
+	{
+		culture = scandinavian_north_america_superregion_culture
+		religion = protestant
+		size= 18
+	}
+
+	bureaucrats=
+	{
+		culture = scandinavian_north_america_superregion_culture
+		religion = protestant
+		size= 3
+	}
+
+	officers=
+	{
+		culture = scandinavian_north_america_superregion_culture
+		religion = protestant
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = scandinavian_north_america_superregion_culture
+		religion = protestant
+		size= 20
+	}
+
+	farmers=
+	{
+		culture = scandinavian_north_america_superregion_culture
+		religion = protestant
+		size= 1001
+	}
+
+	soldiers=
+	{
+		culture = scandinavian_north_america_superregion_culture
+		religion = catholic
+		size= 1
+	}
+
+	clergymen=
+	{
+		culture = scandinavian_north_america_superregion_culture
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = scandinavian_north_america_superregion_culture
+		religion = catholic
+		size= 1
+	}
+
+}
+2636 = {
+	soldiers=
+	{
+		culture = inuit
+		religion = totemism
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = inuit
+		religion = totemism
+		size= 49
+	}
+
+	farmers=
+	{
+		culture = scandinavian_north_america_superregion_culture
+		religion = catholic
+		size= 14
+	}
+
+	soldiers=
+	{
+		culture = scandinavian_north_america_superregion_culture
+		religion = protestant
+		size= 11
+	}
+
+	artisans=
+	{
+		culture = scandinavian_north_america_superregion_culture
+		religion = protestant
+		size= 17
+	}
+
+	clergymen=
+	{
+		culture = scandinavian_north_america_superregion_culture
+		religion = protestant
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = scandinavian_north_america_superregion_culture
+		religion = protestant
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = scandinavian_north_america_superregion_culture
+		religion = protestant
+		size= 342
+	}
+
+	bureaucrats=
+	{
+		culture = scandinavian_north_america_superregion_culture
+		religion = protestant
+		size= 1
+	}
+
+	officers=
+	{
+		culture = scandinavian_north_america_superregion_culture
+		religion = protestant
+		size= 1
+	}
+
+}

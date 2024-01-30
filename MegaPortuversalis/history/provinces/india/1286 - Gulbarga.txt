@@ -1,0 +1,6 @@
+owner=TLG
+controller=TLG
+add_core=HND
+add_core=TLG
+trade_goods = cotton
+life_rating = 32

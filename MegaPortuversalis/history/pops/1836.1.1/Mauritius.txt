@@ -1,0 +1,102 @@
+2125 = {
+	soldiers=
+	{
+		culture = morado
+		religion = catholic
+		size= 251
+	}
+
+	farmers=
+	{
+		culture = morado
+		religion = catholic
+		size= 23163
+	}
+
+	artisans=
+	{
+		culture = morado
+		religion = catholic
+		size= 1009
+	}
+
+	aristocrats=
+	{
+		culture = morado
+		religion = catholic
+		size= 635
+	}
+
+	clergymen=
+	{
+		culture = morado
+		religion = catholic
+		size= 328
+	}
+
+	bureaucrats=
+	{
+		culture = morado
+		religion = catholic
+		size= 45
+	}
+
+	officers=
+	{
+		culture = morado
+		religion = catholic
+		size= 32
+	}
+
+}
+2128 = {
+	soldiers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 152
+	}
+
+	artisans=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 14
+	}
+
+	clergymen=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 1
+	}
+
+}

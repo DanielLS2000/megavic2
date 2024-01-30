@@ -1,0 +1,483 @@
+2337 = {
+	soldiers=
+	{
+		culture = chacoan
+		religion = animist
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = chacoan
+		religion = animist
+		size= 379
+	}
+
+	farmers=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 1189
+	}
+
+	artisans=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 265
+	}
+
+	clergymen=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 15
+	}
+
+	soldiers=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 42
+	}
+
+	bureaucrats=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 4
+	}
+
+}
+2338 = {
+	soldiers=
+	{
+		culture = chacoan
+		religion = animist
+		size= 17
+	}
+
+	farmers=
+	{
+		culture = chacoan
+		religion = animist
+		size= 420
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1073
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 257
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 30
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 11
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 53
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 2
+	}
+
+}
+2339 = {
+	slaves=
+	{
+		culture = guarani
+		religion = animist
+		size= 2239
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 363
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 33719
+	}
+
+	slaves=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 8214
+	}
+
+	soldiers=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 1330
+	}
+
+	farmers=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 99372
+	}
+
+	artisans=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 23744
+	}
+
+	aristocrats=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 1424
+	}
+
+	clergymen=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 1102
+	}
+
+	bureaucrats=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 441
+	}
+
+	officers=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 220
+	}
+
+}
+2340 = {
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 36
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 3542
+	}
+
+	farmers=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 11218
+	}
+
+	artisans=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 2445
+	}
+
+	clergymen=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 113
+	}
+
+	aristocrats=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 146
+	}
+
+	bureaucrats=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 45
+	}
+
+	officers=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 22
+	}
+
+	soldiers=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 137
+	}
+
+}
+2341 = {
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 207
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 7173
+	}
+
+	farmers=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 21248
+	}
+
+	soldiers=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 751
+	}
+
+	artisans=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 4803
+	}
+
+	aristocrats=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 288
+	}
+
+	clergymen=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 222
+	}
+
+	bureaucrats=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 88
+	}
+
+	officers=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 72
+	}
+
+}
+2342 = {
+	slaves=
+	{
+		culture = guarani
+		religion = animist
+		size= 538
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 49
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 4279
+	}
+
+	slaves=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 1974
+	}
+
+	farmers=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 12442
+	}
+
+	artisans=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 3179
+	}
+
+	clergymen=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 147
+	}
+
+	aristocrats=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 191
+	}
+
+	bureaucrats=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 58
+	}
+
+	officers=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 29
+	}
+
+	soldiers=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 177
+	}
+
+}
+2343 = {
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 18
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 906
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 2435
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 560
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 34
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 26
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 17
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 61
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 3
+	}
+
+}

@@ -1,0 +1,7 @@
+owner=X29
+controller=X29
+add_core=X09
+add_core=X29
+trade_goods = tropical_wood
+life_rating = 10
+naval_base = 2

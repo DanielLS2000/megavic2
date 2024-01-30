@@ -1,0 +1,8 @@
+owner=UKR
+controller=UKR
+add_core=TUR
+add_core=X10
+trade_goods = fish
+life_rating = 25
+terrain = semidesert
+fort = 1

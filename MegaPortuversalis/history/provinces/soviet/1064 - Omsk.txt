@@ -1,0 +1,5 @@
+owner=UKR
+controller=UKR
+trade_goods = sulphur
+life_rating = 40
+fort = 1

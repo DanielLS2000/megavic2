@@ -1,0 +1,420 @@
+#Sphere of Influence
+
+AJU = {
+	value = 0
+	level = 2
+}
+ALD = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+ARM = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BIA = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BUL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 5
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DLM = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = -4
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+GDW = {
+	value = 0
+	level = 2
+}
+GLC = {
+	value = 0
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+GYN = {
+	value = -9
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 64
+	military_access = yes
+	influence_value = 3
+	level = 3
+}
+JAP = {
+	value = -10
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+LIT = {
+	value = -15
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LUW = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MRT = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = 0
+	level = 2
+}
+OMA = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+POL = {
+	value = -15
+	level = 2
+}
+PRU = {
+	value = -15
+	level = 2
+}
+SCA = {
+	value = -15
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+SUD = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TLG = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = -12
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = -11
+	level = 2
+}
+X03 = {
+	value = -12
+	level = 2
+}
+X04 = {
+	value = -11
+	level = 2
+}
+X05 = {
+	value = -15
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = -15
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 35
+	level = 2
+}
+X21 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X27 = {
+	value = 0
+	level = 2
+}
+X29 = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Konstantinos III Machairas"
+	date="1808.3.2"
+	type=land
+	personality="chivalrous"
+	background="bootlicker"
+}
+
+leader = {
+	name="Dionysos Stamatelopoulos"
+	date="1811.10.19"
+	type=land
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Chrysanthos Mavrokordatos"
+	date="1819.2.4"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Tasos Mavrokordatos"
+	date="1819.8.11"
+	type=sea
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Skantarios Makris"
+	date="1820.6.20"
+	type=sea
+	personality="disciplined"
+	background="bootlicker"
+}
+
+
+#Armies
+army = {
+	name="3rd Army"
+	location=745
+	regiment = {
+		name="1st Corinth Infantry"
+		type=infantry
+		home=840
+	}
+	regiment = {
+		name="1st Nafplion Cavalry"
+		type=cavalry
+		home=839
+	}
+	regiment = {
+		name="1st Athens Artillery"
+		type=artillery
+		home=834
+	}
+	regiment = {
+		name="1st Bitola Artillery"
+		type=artillery
+		home=807
+	}
+	regiment = {
+		name="1st Zante Artillery"
+		type=artillery
+		home=827
+	}
+	regiment = {
+		name="1st Patras Infantry"
+		type=infantry
+		home=842
+	}
+	regiment = {
+		name="1st Khalkis Cavalry"
+		type=cavalry
+		home=838
+	}
+	regiment = {
+		name="2nd Athens Artillery"
+		type=artillery
+		home=834
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2765
+	ship = {
+		name="Hellas"
+		type=frigate
+	}
+	ship = {
+		name="Navarino"
+		type=frigate
+	}
+	ship = {
+		name="Maxamillianos"
+		type=frigate
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=839
+	ship = {
+		name="Nikolis Apostolis"
+		type=manowar
+	}
+	ship = {
+		name="Tombazis"
+		type=manowar
+	}
+	ship = {
+		name="Poros"
+		type=manowar
+	}
+	ship = {
+		name="Andreas Vokos"
+		type=manowar
+	}
+	ship = {
+		name="Laskarina Bouboulina"
+		type=manowar
+	}
+	ship = {
+		name="Constantine Kanaris"
+		type=manowar
+	}
+	ship = {
+		name="1st Nafplion Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Arta Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Nafplion Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Nafplion Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Janina Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Janina Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="Plixavra"
+		type=manowar
+	}
+	ship = {
+		name="4th Nafplion Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=839
+	ship = {
+		name="Psara"
+		type=frigate
+	}
+	ship = {
+		name="Prinkips Maximilianos"
+		type=frigate
+	}
+	ship = {
+		name="Mount Othrys"
+		type=frigate
+	}
+}
+

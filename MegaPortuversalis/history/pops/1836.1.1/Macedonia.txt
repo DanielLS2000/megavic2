@@ -1,0 +1,594 @@
+806 = {
+	soldiers=
+	{
+		culture = dynamic-bulgarian-culture-num1
+		religion = orthodox
+		size= 458
+	}
+
+	artisans=
+	{
+		culture = dynamic-bulgarian-culture-num1
+		religion = orthodox
+		size= 839
+	}
+
+	clergymen=
+	{
+		culture = dynamic-bulgarian-culture-num1
+		religion = orthodox
+		size= 89
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-bulgarian-culture-num1
+		religion = orthodox
+		size= 16
+	}
+
+	officers=
+	{
+		culture = dynamic-bulgarian-culture-num1
+		religion = orthodox
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-bulgarian-culture-num1
+		religion = orthodox
+		size= 153
+	}
+
+	farmers=
+	{
+		culture = dynamic-bulgarian-culture-num1
+		religion = orthodox
+		size= 48321
+	}
+
+	soldiers=
+	{
+		culture = dynamic-bulgarian-culture-num1
+		religion = hellenic_pagan
+		size= 153
+	}
+
+	artisans=
+	{
+		culture = dynamic-bulgarian-culture-num1
+		religion = hellenic_pagan
+		size= 1399
+	}
+
+	clergymen=
+	{
+		culture = dynamic-bulgarian-culture-num1
+		religion = hellenic_pagan
+		size= 148
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-bulgarian-culture-num1
+		religion = hellenic_pagan
+		size= 27
+	}
+
+	officers=
+	{
+		culture = dynamic-bulgarian-culture-num1
+		religion = hellenic_pagan
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-bulgarian-culture-num1
+		religion = hellenic_pagan
+		size= 254
+	}
+
+	farmers=
+	{
+		culture = dynamic-bulgarian-culture-num1
+		religion = hellenic_pagan
+		size= 14599
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 219
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 3835
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 405
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 74
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 37
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 697
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 18283
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = catholic
+		size= 214
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = catholic
+		size= 9210
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = catholic
+		size= 972
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = catholic
+		size= 179
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = catholic
+		size= 89
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = catholic
+		size= 1674
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = catholic
+		size= 10499
+	}
+
+}
+807 = {
+	soldiers=
+	{
+		culture = dynamic-bulgarian-culture-num1
+		religion = orthodox
+		size= 1143
+	}
+
+	artisans=
+	{
+		culture = dynamic-bulgarian-culture-num1
+		religion = orthodox
+		size= 424
+	}
+
+	clergymen=
+	{
+		culture = dynamic-bulgarian-culture-num1
+		religion = orthodox
+		size= 43
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-bulgarian-culture-num1
+		religion = orthodox
+		size= 8
+	}
+
+	officers=
+	{
+		culture = dynamic-bulgarian-culture-num1
+		religion = orthodox
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-bulgarian-culture-num1
+		religion = orthodox
+		size= 54
+	}
+
+	farmers=
+	{
+		culture = dynamic-bulgarian-culture-num1
+		religion = orthodox
+		size= 23896
+	}
+
+	soldiers=
+	{
+		culture = dynamic-bulgarian-culture-num1
+		religion = hellenic_pagan
+		size= 381
+	}
+
+	artisans=
+	{
+		culture = dynamic-bulgarian-culture-num1
+		religion = hellenic_pagan
+		size= 707
+	}
+
+	clergymen=
+	{
+		culture = dynamic-bulgarian-culture-num1
+		religion = hellenic_pagan
+		size= 72
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-bulgarian-culture-num1
+		religion = hellenic_pagan
+		size= 14
+	}
+
+	officers=
+	{
+		culture = dynamic-bulgarian-culture-num1
+		religion = hellenic_pagan
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-bulgarian-culture-num1
+		religion = hellenic_pagan
+		size= 90
+	}
+
+	farmers=
+	{
+		culture = dynamic-bulgarian-culture-num1
+		religion = hellenic_pagan
+		size= 7214
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 487
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 1852
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 188
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 37
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 41
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 237
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 7932
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = catholic
+		size= 530
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = catholic
+		size= 4551
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = catholic
+		size= 460
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = catholic
+		size= 90
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = catholic
+		size= 101
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = catholic
+		size= 582
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = catholic
+		size= 5226
+	}
+
+}
+1780 = {
+	soldiers=
+	{
+		culture = dynamic-bulgarian-culture-num1
+		religion = orthodox
+		size= 588
+	}
+
+	artisans=
+	{
+		culture = dynamic-bulgarian-culture-num1
+		religion = orthodox
+		size= 224
+	}
+
+	clergymen=
+	{
+		culture = dynamic-bulgarian-culture-num1
+		religion = orthodox
+		size= 24
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-bulgarian-culture-num1
+		religion = orthodox
+		size= 4
+	}
+
+	officers=
+	{
+		culture = dynamic-bulgarian-culture-num1
+		religion = orthodox
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-bulgarian-culture-num1
+		religion = orthodox
+		size= 27
+	}
+
+	farmers=
+	{
+		culture = dynamic-bulgarian-culture-num1
+		religion = orthodox
+		size= 11902
+	}
+
+	soldiers=
+	{
+		culture = dynamic-bulgarian-culture-num1
+		religion = hellenic_pagan
+		size= 196
+	}
+
+	artisans=
+	{
+		culture = dynamic-bulgarian-culture-num1
+		religion = hellenic_pagan
+		size= 373
+	}
+
+	clergymen=
+	{
+		culture = dynamic-bulgarian-culture-num1
+		religion = hellenic_pagan
+		size= 40
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-bulgarian-culture-num1
+		religion = hellenic_pagan
+		size= 7
+	}
+
+	officers=
+	{
+		culture = dynamic-bulgarian-culture-num1
+		religion = hellenic_pagan
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-bulgarian-culture-num1
+		religion = hellenic_pagan
+		size= 45
+	}
+
+	farmers=
+	{
+		culture = dynamic-bulgarian-culture-num1
+		religion = hellenic_pagan
+		size= 3592
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 250
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 977
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 105
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 18
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 117
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 3952
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = catholic
+		size= 272
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = catholic
+		size= 2402
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = catholic
+		size= 257
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = catholic
+		size= 45
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = catholic
+		size= 50
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = catholic
+		size= 288
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = catholic
+		size= 2603
+	}
+
+}

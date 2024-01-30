@@ -1,0 +1,8 @@
+owner=UKR
+controller=UKR
+add_core=HOD
+add_core=YAK
+trade_goods = fish
+life_rating = 15
+terrain = montane_tundra
+colonial=2

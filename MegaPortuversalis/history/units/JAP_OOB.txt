@@ -1,0 +1,1227 @@
+#Sphere of Influence
+
+AJU = {
+	value = 0
+	level = 2
+}
+ALD = {
+	value = -15
+	level = 2
+}
+ARG = {
+	value = -15
+	level = 2
+}
+ARM = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BIA = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = -15
+	level = 2
+}
+BUL = {
+	value = -6
+	level = 2
+}
+CAM = {
+	value = 49
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = -15
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DLM = {
+	value = -7
+	level = 2
+}
+EGY = {
+	value = 55
+	influence_value = 1
+	level = 3
+}
+ENG = {
+	value = -34
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+GDW = {
+	value = 0
+	level = 2
+}
+GLC = {
+	value = -51
+	level = 2
+}
+GRE = {
+	value = -7
+	level = 2
+}
+GYN = {
+	value = -15
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = -8
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+LIT = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = -15
+	level = 2
+}
+LUW = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 141
+	influence_value = 22
+	level = 3
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = -130
+	level = 2
+}
+MRT = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+NEW = {
+	value = -15
+	level = 2
+}
+NVK = {
+	value = 0
+	level = 2
+}
+OMA = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 115
+	influence_value = 16
+	level = 4
+}
+PEU = {
+	value = -15
+	level = 2
+}
+POL = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 50
+	level = 3
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+SUD = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = -8
+	level = 2
+}
+TLG = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = -99
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 38
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X21 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X27 = {
+	value = 0
+	level = 2
+}
+X29 = {
+	value = -15
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Ienari Akechi"
+	date="1784.9.18"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Ieyoshi Maeda"
+	date="1795.10.13"
+	type=land
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Hideyori Ashikaga"
+	date="1803.3.1"
+	type=sea
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Yoshiakira Shoni"
+	date="1811.3.28"
+	type=land
+	personality="intuitive"
+	background="war_college"
+}
+
+leader = {
+	name="Yoshihide Shibata"
+	date="1812.7.1"
+	type=land
+	personality="resolute"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Ieyoshi Matsunaga"
+	date="1813.2.10"
+	type=land
+	personality="resolute"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Morohito Hatakeyama"
+	date="1813.8.16"
+	type=sea
+	personality="chivalrous"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Ieyasu Ashikaga"
+	date="1813.8.22"
+	type=sea
+	personality="chivalrous"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Yoshiteru Toki"
+	date="1814.7.17"
+	type=land
+	personality="resolute"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Hideyoshi Mimura"
+	date="1815.5.13"
+	type=land
+	personality="stalwart"
+	background="bootlicker"
+}
+
+leader = {
+	name="Ieyoshi Hojo"
+	date="1815.5.21"
+	type=sea
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+
+#Armies
+army = {
+	name="Yinmahe Dan"
+	location=1461
+	regiment = {
+		name="1st Kyoto Irregulars"
+		type=irregular
+		home=1657
+	}
+	regiment = {
+		name="1st Nara Irregulars"
+		type=irregular
+		home=1658
+	}
+	regiment = {
+		name="1st Nagoya Irregulars"
+		type=irregular
+		home=1675
+	}
+	regiment = {
+		name="2nd Nara Irregulars"
+		type=irregular
+		home=1658
+	}
+	regiment = {
+		name="1st Kochi Irregulars"
+		type=irregular
+		home=1665
+	}
+	regiment = {
+		name="1st Nagano Irregulars"
+		type=irregular
+		home=1677
+	}
+	regiment = {
+		name="3rd Nara Irregulars"
+		type=irregular
+		home=1658
+	}
+	regiment = {
+		name="2nd Utsunomiya Irregulars"
+		type=irregular
+		home=1674
+	}
+}
+
+army = {
+	name="Mongol Mercenaries"
+	location=1458
+	regiment = {
+		name="2nd Kyoto Irregulars"
+		type=irregular
+		home=1657
+	}
+	regiment = {
+		name="3rd Kyoto Irregulars"
+		type=irregular
+		home=1657
+	}
+	regiment = {
+		name="1st Yamaguchi Irregulars"
+		type=irregular
+		home=1640
+	}
+}
+
+army = {
+	name="Iyo Dan"
+	location=1461
+	regiment = {
+		name="1st Hiroshima Artillery"
+		type=artillery
+		home=1638
+	}
+	regiment = {
+		name="1st Yamaguchi Artillery"
+		type=artillery
+		home=1640
+	}
+	regiment = {
+		name="1st Nagano Artillery"
+		type=artillery
+		home=1677
+	}
+	regiment = {
+		name="1st Nara Artillery"
+		type=artillery
+		home=1658
+	}
+	regiment = {
+		name="2nd Yamaguchi Artillery"
+		type=artillery
+		home=1640
+	}
+	regiment = {
+		name="1st Kochi Artillery"
+		type=artillery
+		home=1665
+	}
+	regiment = {
+		name="1st Kumamoto Artillery"
+		type=artillery
+		home=1664
+	}
+	regiment = {
+		name="1st Mukden Artillery"
+		type=artillery
+		home=1479
+	}
+	regiment = {
+		name="1st Matsuyama Artillery"
+		type=artillery
+		home=1666
+	}
+	regiment = {
+		name="3rd Yamaguchi Artillery"
+		type=artillery
+		home=1640
+	}
+}
+
+army = {
+	name="Etchu Dan"
+	location=1461
+	regiment = {
+		name="1st Niigata Irregulars"
+		type=irregular
+		home=1645
+	}
+	regiment = {
+		name="1st Aomori Irregulars"
+		type=irregular
+		home=1672
+	}
+	regiment = {
+		name="1st Chiba Irregulars"
+		type=irregular
+		home=1650
+	}
+	regiment = {
+		name="1st Edo Artillery"
+		type=artillery
+		home=1649
+	}
+	regiment = {
+		name="2nd Nagano Artillery"
+		type=artillery
+		home=1677
+	}
+	regiment = {
+		name="3rd Nagano Artillery"
+		type=artillery
+		home=1677
+	}
+	regiment = {
+		name="1st Utsunomiya Artillery"
+		type=artillery
+		home=1674
+	}
+	regiment = {
+		name="1st Mito Irregulars"
+		type=irregular
+		home=1653
+	}
+	regiment = {
+		name="3rd Utsunomiya Artillery"
+		type=artillery
+		home=1674
+	}
+}
+
+army = {
+	name="Mitsusei Dan"
+	location=1461
+	regiment = {
+		name="1st Ninguta Artillery"
+		type=artillery
+		home=1554
+	}
+	regiment = {
+		name="1st Jilin Artillery"
+		type=artillery
+		home=1555
+	}
+	regiment = {
+		name="2nd Jilin Artillery"
+		type=artillery
+		home=1555
+	}
+	regiment = {
+		name="3rd Jilin Artillery"
+		type=artillery
+		home=1555
+	}
+	regiment = {
+		name="1st Jirim Chuulgan Artillery"
+		type=artillery
+		home=1533
+	}
+	regiment = {
+		name="4th Jilin Artillery"
+		type=artillery
+		home=1555
+	}
+}
+
+army = {
+	name="Musashi Dan"
+	location=1455
+	regiment = {
+		name="1st Yamagata Irregulars"
+		type=irregular
+		home=1673
+	}
+	regiment = {
+		name="1st Akita Irregulars"
+		type=irregular
+		home=1671
+	}
+	regiment = {
+		name="1st Fukushima Irregulars"
+		type=irregular
+		home=1669
+	}
+	regiment = {
+		name="4th Nagano Artillery"
+		type=artillery
+		home=1677
+	}
+	regiment = {
+		name="1st Shizuoka Artillery"
+		type=artillery
+		home=1676
+	}
+	regiment = {
+		name="1st Nagoya Artillery"
+		type=artillery
+		home=1675
+	}
+	regiment = {
+		name="2nd Nagoya Artillery"
+		type=artillery
+		home=1675
+	}
+	regiment = {
+		name="1st Urawa Artillery"
+		type=artillery
+		home=1652
+	}
+}
+
+army = {
+	name="Grand Company"
+	location=1461
+	regiment = {
+		name="1st Jilin Irregulars"
+		type=irregular
+		home=1555
+	}
+	regiment = {
+		name="2nd Jilin Irregulars"
+		type=irregular
+		home=1555
+	}
+	regiment = {
+		name="3rd Jilin Irregulars"
+		type=irregular
+		home=1555
+	}
+	regiment = {
+		name="4th Jilin Irregulars"
+		type=irregular
+		home=1555
+	}
+}
+
+navy = {
+	name="Settsu Sendan"
+	location=1456
+	ship = {
+		name="1st Nara Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Nagoya Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Zhaoqing Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Osaka Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Nara Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Shizuoka Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Osaka Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Hiroshima Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Mito Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Mito Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Shizuoka Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tokushima Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Wakayama Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Chaozhou Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Shizuoka Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Shizuoka Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="Free Company"
+	location=1461
+	regiment = {
+		name="4th Kyoto Irregulars"
+		type=irregular
+		home=1657
+	}
+	regiment = {
+		name="1st Pyongyang Irregulars"
+		type=irregular
+		home=1619
+	}
+}
+
+army = {
+	name="Shikoku Yojimbo"
+	location=1456
+	regiment = {
+		name="1st Mukden Irregulars"
+		type=irregular
+		home=1479
+	}
+	regiment = {
+		name="2nd Mukden Irregulars"
+		type=irregular
+		home=1479
+	}
+	regiment = {
+		name="3rd Mukden Irregulars"
+		type=irregular
+		home=1479
+	}
+}
+
+army = {
+	name="Buryat Band"
+	location=1615
+	regiment = {
+		name="2nd Nagoya Irregulars"
+		type=irregular
+		home=1675
+	}
+	regiment = {
+		name="1st Pohang Irregulars"
+		type=irregular
+		home=1634
+	}
+}
+
+army = {
+	name="Kanto Ronin"
+	location=1461
+	regiment = {
+		name="1st Jinzhou Irregulars"
+		type=irregular
+		home=1480
+	}
+	regiment = {
+		name="2nd Jinzhou Irregulars"
+		type=irregular
+		home=1480
+	}
+}
+
+army = {
+	name="Xiang Army"
+	location=1461
+	regiment = {
+		name="1st Pusan Irregulars"
+		type=irregular
+		home=1632
+	}
+	regiment = {
+		name="2nd Pyongyang Irregulars"
+		type=irregular
+		home=1619
+	}
+	regiment = {
+		name="1st Kyoto Artillery"
+		type=artillery
+		home=1657
+	}
+	regiment = {
+		name="2nd Kwangju Irregulars"
+		type=irregular
+		home=1635
+	}
+	regiment = {
+		name="1st Pyongyang Artillery"
+		type=artillery
+		home=1619
+	}
+}
+
+army = {
+	name="Huai Army"
+	location=1461
+	regiment = {
+		name="2nd Pusan Irregulars"
+		type=irregular
+		home=1632
+	}
+	regiment = {
+		name="1st Kwangju Irregulars"
+		type=irregular
+		home=1635
+	}
+	regiment = {
+		name="1st Pohang Artillery"
+		type=artillery
+		home=1634
+	}
+	regiment = {
+		name="3rd Nagoya Irregulars"
+		type=irregular
+		home=1675
+	}
+	regiment = {
+		name="1st Taipei Artillery"
+		type=artillery
+		home=2681
+	}
+}
+
+navy = {
+	name="Amakusa Sea Suigun"
+	location=1461
+	ship = {
+		name="Shohei Maru"
+		type=manowar
+	}
+	ship = {
+		name="Kaiyo Maru"
+		type=manowar
+	}
+	ship = {
+		name="Un'yo"
+		type=manowar
+	}
+	ship = {
+		name="Hoo Maru"
+		type=manowar
+	}
+	ship = {
+		name="Asahi Maru"
+		type=manowar
+	}
+	ship = {
+		name="Banryu"
+		type=manowar
+	}
+	ship = {
+		name="Fujisan"
+		type=manowar
+	}
+	ship = {
+		name="Yari"
+		type=manowar
+	}
+	ship = {
+		name="Ibaraki"
+		type=manowar
+	}
+	ship = {
+		name="Mie"
+		type=manowar
+	}
+	ship = {
+		name="Ehime"
+		type=manowar
+	}
+	ship = {
+		name="Wakayama"
+		type=manowar
+	}
+	ship = {
+		name="Gifu"
+		type=manowar
+	}
+	ship = {
+		name="Awa"
+		type=manowar
+	}
+	ship = {
+		name="Tamba"
+		type=manowar
+	}
+	ship = {
+		name="1st Hiroshima Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Yamaguchi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Fukuoka Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Vigo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Okayama Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Lisbon Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Yamaguchi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Oporto Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Yamaguchi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Kobe Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Kobe Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Fukui Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Kobe Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Matsue Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Canton Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Shizuoka Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Fukui Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Málaga Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Fukui Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Yamaguchi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Fukui Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Canton Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Matsue Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Hiroshima Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Málaga Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Wuding Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Kochi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="8th Fukui Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Fukuoka Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Matsue Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Yamaguchi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Matsuyama Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="8th Yamaguchi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="9th Fukui Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="10th Fukui Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Fukuoka Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Kobe Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Lisbon Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Esmeraldas Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Japanese Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tokushima Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Quibdó Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="Haussonville Dan"
+	location=1457
+	regiment = {
+		name="1st Utsunomiya Irregulars"
+		type=irregular
+		home=1674
+	}
+	regiment = {
+		name="2nd Yamagata Irregulars"
+		type=irregular
+		home=1673
+	}
+	regiment = {
+		name="2nd Akita Irregulars"
+		type=irregular
+		home=1671
+	}
+	regiment = {
+		name="2nd Edo Artillery"
+		type=artillery
+		home=1649
+	}
+	regiment = {
+		name="2nd Kyoto Artillery"
+		type=artillery
+		home=1657
+	}
+	regiment = {
+		name="2nd Utsunomiya Artillery"
+		type=artillery
+		home=1674
+	}
+	regiment = {
+		name="2nd Shizuoka Artillery"
+		type=artillery
+		home=1676
+	}
+	regiment = {
+		name="2nd Urawa Artillery"
+		type=artillery
+		home=1652
+	}
+}
+
+navy = {
+	name="Haussonville Sendan"
+	location=1455
+	ship = {
+		name="Takao"
+		type=frigate
+	}
+	ship = {
+		name="1st Boli Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Meakan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Shizuoka Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Boli Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Boli Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kochi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Osaka Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kobe Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Osaka Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Kobe Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Niigata Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Inchon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Inchon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Haishenwai Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Niigata Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Kobe Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="Aviso"
+		type=frigate
+	}
+	ship = {
+		name="Momo"
+		type=frigate
+	}
+}
+
+army = {
+	name="Independent Army"
+	location=1457
+	regiment = {
+		name="1st Vigan Irregulars"
+		type=irregular
+		home=1456
+	}
+	regiment = {
+		name="2nd Vigan Irregulars"
+		type=irregular
+		home=1456
+	}
+	regiment = {
+		name="3rd Vigan Irregulars"
+		type=irregular
+		home=1456
+	}
+	regiment = {
+		name="4th Vigan Irregulars"
+		type=irregular
+		home=1456
+	}
+	regiment = {
+		name="5th Vigan Irregulars"
+		type=irregular
+		home=1456
+	}
+	regiment = {
+		name="6th Vigan Irregulars"
+		type=irregular
+		home=1456
+	}
+}
+
+army = {
+	name="Wolf Troops"
+	location=1457
+	regiment = {
+		name="7th Vigan Irregulars"
+		type=irregular
+		home=1456
+	}
+	regiment = {
+		name="10th Vigan Irregulars"
+		type=irregular
+		home=1456
+	}
+}
+
+army = {
+	name="Kyushu Wokou"
+	location=1461
+	regiment = {
+		name="8th Vigan Irregulars"
+		type=irregular
+		home=1456
+	}
+	regiment = {
+		name="9th Vigan Irregulars"
+		type=irregular
+		home=1456
+	}
+}
+

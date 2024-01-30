@@ -1,0 +1,7 @@
+owner=UKR
+controller=UKR
+add_core=FIN
+add_core=SCA
+add_core=UKR
+trade_goods = grain
+life_rating = 35

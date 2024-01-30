@@ -1,0 +1,514 @@
+#Sphere of Influence
+
+AIN = {
+	value = 0
+	level = 2
+}
+AJU = {
+	value = 0
+	level = 2
+}
+ALD = {
+	value = 80
+	influence_value = 7
+	level = 3
+}
+ARG = {
+	value = 19
+	level = 2
+}
+ARM = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BIA = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BUL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CTI = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DLM = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = -13
+	level = 2
+}
+ENG = {
+	value = 23
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+FRI = {
+	value = 0
+	level = 2
+}
+GDW = {
+	value = 0
+	level = 2
+}
+GLC = {
+	value = 0
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+GYN = {
+	value = 0
+	military_access = yes
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 3
+	level = 2
+}
+JAP = {
+	value = -16
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+LIT = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 68
+	influence_value = 4
+	level = 3
+}
+LUW = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = -51
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MRT = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = 0
+	level = 2
+}
+OMA = {
+	value = 0
+	level = 2
+}
+PCH = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+POL = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 5
+	level = 2
+}
+SAX = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+SUD = {
+	value = -13
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TLG = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = 8
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+WOL = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 35
+	level = 2
+}
+X21 = {
+	value = -13
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X27 = {
+	value = 0
+	level = 2
+}
+X29 = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = -2
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Audoïn Hildesheim"
+	date="1802.5.9"
+	type=sea
+	personality="inspiring"
+	background="aristocrat"
+}
+
+leader = {
+	name="Karl Werden"
+	date="1809.11.29"
+	type=land
+	personality="disciplined"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Audoïn Werden"
+	date="1817.6.30"
+	type=land
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Audoïn Hildesheim"
+	date="1817.9.24"
+	type=land
+	personality="coolminded"
+	background="cavalry_school"
+}
+
+
+#Armies
+army = {
+	name="4th Army"
+	location=2597
+	regiment = {
+		name="1st Toronto Infantry"
+		type=infantry
+		home=46
+	}
+	regiment = {
+		name="1st Chicoutimi Cavalry"
+		type=cavalry
+		home=61
+	}
+	regiment = {
+		name="1st Sherbrooke Artillery"
+		type=artillery
+		home=66
+	}
+	regiment = {
+		name="1st Toronto Artillery"
+		type=artillery
+		home=46
+	}
+	regiment = {
+		name="1st Truro Infantry"
+		type=infantry
+		home=72
+	}
+	regiment = {
+		name="1st Hamilton Cavalry"
+		type=cavalry
+		home=55
+	}
+	regiment = {
+		name="1st Fredericton Cavalry"
+		type=cavalry
+		home=68
+	}
+	regiment = {
+		name="2nd Quebec City Artillery"
+		type=artillery
+		home=65
+	}
+}
+
+army = {
+	name="1st Army"
+	location=50
+	regiment = {
+		name="1st Orillia Infantry"
+		type=infantry
+		home=52
+	}
+	regiment = {
+		name="1st Sault Ste Marie Infantry"
+		type=infantry
+		home=51
+	}
+	regiment = {
+		name="1st Kingston Artillery"
+		type=artillery
+		home=56
+	}
+	regiment = {
+		name="1st Montreal Artillery"
+		type=artillery
+		home=58
+	}
+	regiment = {
+		name="1st Halifax Artillery"
+		type=artillery
+		home=71
+	}
+	regiment = {
+		name="1st Temiscaming Infantry"
+		type=infantry
+		home=63
+	}
+	regiment = {
+		name="1st Saint Johns Artillery"
+		type=artillery
+		home=74
+	}
+}
+
+army = {
+	name="8th Army"
+	location=74
+	regiment = {
+		name="1st Trois-Rivières Infantry"
+		type=infantry
+		home=64
+	}
+	regiment = {
+		name="1st Port-Aux-Basques Artillery"
+		type=artillery
+		home=75
+	}
+	regiment = {
+		name="1st Quebec City Artillery"
+		type=artillery
+		home=65
+	}
+	regiment = {
+		name="1st Bytown Infantry"
+		type=infantry
+		home=57
+	}
+	regiment = {
+		name="2nd Sherbrooke Artillery"
+		type=artillery
+		home=66
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=77
+	ship = {
+		name="Newfoundland"
+		type=manowar
+	}
+	ship = {
+		name="Labrador"
+		type=manowar
+	}
+	ship = {
+		name="1st Fort Severn Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Petit-Sault Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Sept-Îles Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Hopedale Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Chicoutimi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Sept-Îles Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Sept-Îles Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Quebec City Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Rimouski Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Chicoutimi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Ungava Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Port-Aux-Basques Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Port-Aux-Basques Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Hopedale Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Sept-Îles Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=5
+	ship = {
+		name="John Cabot"
+		type=frigate
+	}
+	ship = {
+		name="Hudson"
+		type=frigate
+	}
+	ship = {
+		name="Kirke"
+		type=frigate
+	}
+	ship = {
+		name="Bristol"
+		type=frigate
+	}
+	ship = {
+		name="Prince Edward"
+		type=frigate
+	}
+}
+

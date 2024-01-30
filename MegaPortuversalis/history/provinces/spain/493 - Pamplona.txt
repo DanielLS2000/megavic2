@@ -1,0 +1,14 @@
+owner=GLC
+controller=GLC
+add_core=BSQ
+add_core=GLC
+add_core=SPA
+trade_goods = fruit
+life_rating = 35
+fort = 1
+state_building=
+{
+	level=1
+	building = furniture_factory
+	upgrade = yes
+}

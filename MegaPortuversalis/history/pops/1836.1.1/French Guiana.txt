@@ -1,0 +1,144 @@
+2241 = {
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 644
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 43
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 73
+	}
+
+	slaves=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 3129
+	}
+
+	farmers=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 117
+	}
+
+	artisans=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 177
+	}
+
+	clergymen=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 37
+	}
+
+	bureaucrats=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 16
+	}
+
+	soldiers=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 205
+	}
+
+	officers=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 6
+	}
+
+}
+2246 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 124
+	}
+
+	farmers=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 557
+	}
+
+	artisans=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 30
+	}
+
+	soldiers=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 35
+	}
+
+	clergymen=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 6
+	}
+
+}

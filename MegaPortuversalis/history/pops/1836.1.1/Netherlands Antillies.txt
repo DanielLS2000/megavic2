@@ -1,0 +1,321 @@
+2234 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 88
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 218
+	}
+
+	farmers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 12
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 7
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 863
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 30
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = catholic
+		size= 128
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = catholic
+		size= 21
+	}
+
+	bureaucrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 8
+	}
+
+	officers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 27
+	}
+
+	farmers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 1953
+	}
+
+}
+2235 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 17
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 41
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 168
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = catholic
+		size= 24
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = catholic
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 365
+	}
+
+}
+2236 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 14
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 38
+	}
+
+	farmers=
+	{
+		culture = french_central_america_superregion_culture
+		religion = catholic
+		size= 58
+	}
+
+	artisans=
+	{
+		culture = french_central_america_superregion_culture
+		religion = catholic
+		size= 10
+	}
+
+	slaves=
+	{
+		culture = french_central_america_superregion_culture
+		religion = catholic
+		size= 23
+	}
+
+	soldiers=
+	{
+		culture = french_central_america_superregion_culture
+		religion = catholic
+		size= 1
+	}
+
+	clergymen=
+	{
+		culture = french_central_america_superregion_culture
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = french_central_america_superregion_culture
+		religion = catholic
+		size= 1
+	}
+
+	slaves=
+	{
+		culture = scandinavian_central_america_superregion_culture
+		religion = catholic
+		size= 124
+	}
+
+	soldiers=
+	{
+		culture = scandinavian_central_america_superregion_culture
+		religion = catholic
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = scandinavian_central_america_superregion_culture
+		religion = catholic
+		size= 76
+	}
+
+	clergymen=
+	{
+		culture = scandinavian_central_america_superregion_culture
+		religion = catholic
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = scandinavian_central_america_superregion_culture
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = scandinavian_central_america_superregion_culture
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = scandinavian_central_america_superregion_culture
+		religion = catholic
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = scandinavian_central_america_superregion_culture
+		religion = catholic
+		size= 251
+	}
+
+}

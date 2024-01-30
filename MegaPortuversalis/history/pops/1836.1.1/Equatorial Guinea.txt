@@ -1,0 +1,193 @@
+1955 = {
+	slaves=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 172
+	}
+
+	soldiers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 451
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglosaxon-norse-welsh-culture-num1
+		religion = protestant
+		size= 724
+	}
+
+	slaves=
+	{
+		culture = dynamic-anglosaxon-norse-welsh-culture-num1
+		religion = protestant
+		size= 291
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglosaxon-norse-welsh-culture-num1
+		religion = protestant
+		size= 34
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglosaxon-norse-welsh-culture-num1
+		religion = protestant
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglosaxon-norse-welsh-culture-num1
+		religion = protestant
+		size= 7
+	}
+
+	soldiers=
+	{
+		culture = dynamic-anglosaxon-norse-welsh-culture-num1
+		religion = protestant
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglosaxon-norse-welsh-culture-num1
+		religion = protestant
+		size= 1
+	}
+
+	officers=
+	{
+		culture = dynamic-anglosaxon-norse-welsh-culture-num1
+		religion = protestant
+		size= 1
+	}
+
+	slaves=
+	{
+		culture = dynamic-anglosaxon-norse-welsh-culture-num1
+		religion = catholic
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = dynamic-anglosaxon-norse-welsh-culture-num1
+		religion = catholic
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglosaxon-norse-welsh-culture-num1
+		religion = catholic
+		size= 49
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglosaxon-norse-welsh-culture-num1
+		religion = catholic
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglosaxon-norse-welsh-culture-num1
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = dynamic-anglosaxon-norse-welsh-culture-num1
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglosaxon-norse-welsh-culture-num1
+		religion = catholic
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglosaxon-norse-welsh-culture-num1
+		religion = catholic
+		size= 191
+	}
+
+}
+1973 = {
+	slaves=
+	{
+		culture = fang
+		religion = shamanism
+		size= 436
+	}
+
+	soldiers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 313
+	}
+
+	artisans=
+	{
+		culture = fang
+		religion = shamanism
+		size= 4387
+	}
+
+	clergymen=
+	{
+		culture = fang
+		religion = shamanism
+		size= 235
+	}
+
+	bureaucrats=
+	{
+		culture = fang
+		religion = shamanism
+		size= 100
+	}
+
+	officers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 41
+	}
+
+	aristocrats=
+	{
+		culture = fang
+		religion = shamanism
+		size= 526
+	}
+
+	farmers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 25295
+	}
+
+}

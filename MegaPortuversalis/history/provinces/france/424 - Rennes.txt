@@ -1,0 +1,6 @@
+owner=GYN
+controller=REB
+add_core=GYN
+trade_goods = grain
+life_rating = 33
+fort = 1

@@ -1,0 +1,9 @@
+owner=LIT
+controller=LIT
+add_core=EST
+add_core=LIT
+add_core=UBD
+trade_goods = grain
+life_rating = 35
+naval_base = 1
+fort = 1

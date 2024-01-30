@@ -1,0 +1,7 @@
+owner=X06
+controller=X06
+add_core=AVA
+add_core=BUR
+add_core=IDO
+trade_goods = wool
+life_rating = 35

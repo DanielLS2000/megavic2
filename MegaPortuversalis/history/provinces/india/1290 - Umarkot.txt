@@ -1,0 +1,5 @@
+owner=GDW
+controller=GDW
+add_core=GDW
+trade_goods = cattle
+life_rating = 32

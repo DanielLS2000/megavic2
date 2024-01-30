@@ -1,0 +1,2769 @@
+1465 = {
+	slaves=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 2933
+	}
+
+	soldiers=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 1918
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 907
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 97
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 17
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 54
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 45873
+	}
+
+	slaves=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 356
+	}
+
+	soldiers=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 233
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 486
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 52
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 9
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 29
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 5114
+	}
+
+	slaves=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 1985
+	}
+
+	soldiers=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 1297
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 3223
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 346
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 59
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 58
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 193
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 27898
+	}
+
+	slaves=
+	{
+		culture = mongol
+		religion = orthodox
+		size= 75
+	}
+
+	soldiers=
+	{
+		culture = mongol
+		religion = orthodox
+		size= 49
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = orthodox
+		size= 2893
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = orthodox
+		size= 310
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = orthodox
+		size= 54
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = orthodox
+		size= 52
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = orthodox
+		size= 174
+	}
+
+	slaves=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 885
+	}
+
+	soldiers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 579
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 3001
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 322
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 55
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 53
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 180
+	}
+
+	farmers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 10565
+	}
+
+	slaves=
+	{
+		culture = beifaren
+		religion = orthodox
+		size= 123
+	}
+
+	soldiers=
+	{
+		culture = beifaren
+		religion = orthodox
+		size= 80
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = orthodox
+		size= 5210
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = orthodox
+		size= 558
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = orthodox
+		size= 97
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = orthodox
+		size= 93
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = orthodox
+		size= 313
+	}
+
+}
+1466 = {
+	slaves=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 1971
+	}
+
+	soldiers=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 809
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 477
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 22
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 9
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 114
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 17884
+	}
+
+	slaves=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 135
+	}
+
+	soldiers=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 55
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 228
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 4
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 54
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 960
+	}
+
+	slaves=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 1158
+	}
+
+	soldiers=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 474
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 1568
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 73
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 30
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 376
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 8804
+	}
+
+	slaves=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 1883
+	}
+
+	soldiers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 773
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 4638
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 215
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 90
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 40
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 1113
+	}
+
+	farmers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 12179
+	}
+
+	slaves=
+	{
+		culture = beifaren
+		religion = orthodox
+		size= 35
+	}
+
+	soldiers=
+	{
+		culture = beifaren
+		religion = orthodox
+		size= 14
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = orthodox
+		size= 924
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = orthodox
+		size= 43
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = orthodox
+		size= 18
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = orthodox
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = orthodox
+		size= 222
+	}
+
+}
+1467 = {
+	slaves=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 1036
+	}
+
+	soldiers=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 565
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 234
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 25
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 42
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 13373
+	}
+
+	slaves=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 425
+	}
+
+	soldiers=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 232
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 441
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 48
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 6
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 79
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 5044
+	}
+
+	slaves=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 1052
+	}
+
+	soldiers=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 574
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 2467
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 264
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 31
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 44
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 445
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 10643
+	}
+
+	slaves=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 253
+	}
+
+	soldiers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 138
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 1137
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 122
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 14
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 205
+	}
+
+	farmers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 2391
+	}
+
+	slaves=
+	{
+		culture = beifaren
+		religion = orthodox
+		size= 29
+	}
+
+	soldiers=
+	{
+		culture = beifaren
+		religion = orthodox
+		size= 16
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = orthodox
+		size= 831
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = orthodox
+		size= 89
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = orthodox
+		size= 10
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = orthodox
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = orthodox
+		size= 150
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 3
+	}
+
+	slaves=
+	{
+		culture = mongol
+		religion = shinto
+		size= 123
+	}
+
+	soldiers=
+	{
+		culture = mongol
+		religion = shinto
+		size= 67
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = shinto
+		size= 598
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = shinto
+		size= 64
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = shinto
+		size= 7
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = shinto
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = shinto
+		size= 107
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = shinto
+		size= 835
+	}
+
+	slaves=
+	{
+		culture = manchu
+		religion = shinto
+		size= 201
+	}
+
+	soldiers=
+	{
+		culture = manchu
+		religion = shinto
+		size= 110
+	}
+
+	artisans=
+	{
+		culture = manchu
+		religion = shinto
+		size= 737
+	}
+
+	clergymen=
+	{
+		culture = manchu
+		religion = shinto
+		size= 79
+	}
+
+	bureaucrats=
+	{
+		culture = manchu
+		religion = shinto
+		size= 9
+	}
+
+	officers=
+	{
+		culture = manchu
+		religion = shinto
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = manchu
+		religion = shinto
+		size= 133
+	}
+
+	farmers=
+	{
+		culture = manchu
+		religion = shinto
+		size= 1689
+	}
+
+}
+1468 = {
+	slaves=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 1131
+	}
+
+	soldiers=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 775
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 83
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 14
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 141
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 14637
+	}
+
+	slaves=
+	{
+		culture = mongol
+		religion = gnostic
+		size= 51
+	}
+
+	soldiers=
+	{
+		culture = mongol
+		religion = gnostic
+		size= 35
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = gnostic
+		size= 59
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = gnostic
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = gnostic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = gnostic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = gnostic
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = gnostic
+		size= 777
+	}
+
+	slaves=
+	{
+		culture = dynamic-tocharian-uyghur-culture-num1
+		religion = gnostic
+		size= 94
+	}
+
+	soldiers=
+	{
+		culture = dynamic-tocharian-uyghur-culture-num1
+		religion = gnostic
+		size= 64
+	}
+
+	artisans=
+	{
+		culture = dynamic-tocharian-uyghur-culture-num1
+		religion = gnostic
+		size= 163
+	}
+
+	clergymen=
+	{
+		culture = dynamic-tocharian-uyghur-culture-num1
+		religion = gnostic
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-tocharian-uyghur-culture-num1
+		religion = gnostic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = dynamic-tocharian-uyghur-culture-num1
+		religion = gnostic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-tocharian-uyghur-culture-num1
+		religion = gnostic
+		size= 29
+	}
+
+	farmers=
+	{
+		culture = dynamic-tocharian-uyghur-culture-num1
+		religion = gnostic
+		size= 1363
+	}
+
+	slaves=
+	{
+		culture = dynamic-tocharian-uyghur-culture-num1
+		religion = mahayana
+		size= 170
+	}
+
+	soldiers=
+	{
+		culture = dynamic-tocharian-uyghur-culture-num1
+		religion = mahayana
+		size= 116
+	}
+
+	artisans=
+	{
+		culture = dynamic-tocharian-uyghur-culture-num1
+		religion = mahayana
+		size= 485
+	}
+
+	clergymen=
+	{
+		culture = dynamic-tocharian-uyghur-culture-num1
+		religion = mahayana
+		size= 52
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-tocharian-uyghur-culture-num1
+		religion = mahayana
+		size= 9
+	}
+
+	officers=
+	{
+		culture = dynamic-tocharian-uyghur-culture-num1
+		religion = mahayana
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-tocharian-uyghur-culture-num1
+		religion = mahayana
+		size= 87
+	}
+
+	farmers=
+	{
+		culture = dynamic-tocharian-uyghur-culture-num1
+		religion = mahayana
+		size= 2214
+	}
+
+	slaves=
+	{
+		culture = dynamic-tocharian-uyghur-culture-num1
+		religion = orthodox
+		size= 26
+	}
+
+	soldiers=
+	{
+		culture = dynamic-tocharian-uyghur-culture-num1
+		religion = orthodox
+		size= 18
+	}
+
+	artisans=
+	{
+		culture = dynamic-tocharian-uyghur-culture-num1
+		religion = orthodox
+		size= 818
+	}
+
+	clergymen=
+	{
+		culture = dynamic-tocharian-uyghur-culture-num1
+		religion = orthodox
+		size= 88
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-tocharian-uyghur-culture-num1
+		religion = orthodox
+		size= 15
+	}
+
+	officers=
+	{
+		culture = dynamic-tocharian-uyghur-culture-num1
+		religion = orthodox
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-tocharian-uyghur-culture-num1
+		religion = orthodox
+		size= 147
+	}
+
+	slaves=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 147
+	}
+
+	soldiers=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 329
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 35
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 6
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 60
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 2038
+	}
+
+	slaves=
+	{
+		culture = mongol
+		religion = orthodox
+		size= 83
+	}
+
+	soldiers=
+	{
+		culture = mongol
+		religion = orthodox
+		size= 57
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = orthodox
+		size= 1026
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = orthodox
+		size= 110
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = orthodox
+		size= 19
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = orthodox
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = orthodox
+		size= 185
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = orthodox
+		size= 42
+	}
+
+	slaves=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 362
+	}
+
+	soldiers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 248
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 721
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 77
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 13
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 130
+	}
+
+	farmers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 5139
+	}
+
+	slaves=
+	{
+		culture = beifaren
+		religion = orthodox
+		size= 28
+	}
+
+	soldiers=
+	{
+		culture = beifaren
+		religion = orthodox
+		size= 19
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = orthodox
+		size= 1044
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = orthodox
+		size= 112
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = orthodox
+		size= 19
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = orthodox
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = orthodox
+		size= 188
+	}
+
+}
+1469 = {
+	slaves=
+	{
+		culture = dynamic-buryat-culture-num1
+		religion = tengri_pagan_reformed
+		size= 726
+	}
+
+	soldiers=
+	{
+		culture = dynamic-buryat-culture-num1
+		religion = tengri_pagan_reformed
+		size= 186
+	}
+
+	artisans=
+	{
+		culture = dynamic-buryat-culture-num1
+		religion = tengri_pagan_reformed
+		size= 66
+	}
+
+	clergymen=
+	{
+		culture = dynamic-buryat-culture-num1
+		religion = tengri_pagan_reformed
+		size= 25
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-buryat-culture-num1
+		religion = tengri_pagan_reformed
+		size= 3
+	}
+
+	officers=
+	{
+		culture = dynamic-buryat-culture-num1
+		religion = tengri_pagan_reformed
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-buryat-culture-num1
+		religion = tengri_pagan_reformed
+		size= 28
+	}
+
+	farmers=
+	{
+		culture = dynamic-buryat-culture-num1
+		religion = tengri_pagan_reformed
+		size= 5607
+	}
+
+	slaves=
+	{
+		culture = dynamic-buryat-culture-num1
+		religion = orthodox
+		size= 310
+	}
+
+	soldiers=
+	{
+		culture = dynamic-buryat-culture-num1
+		religion = orthodox
+		size= 79
+	}
+
+	artisans=
+	{
+		culture = dynamic-buryat-culture-num1
+		religion = orthodox
+		size= 123
+	}
+
+	clergymen=
+	{
+		culture = dynamic-buryat-culture-num1
+		religion = orthodox
+		size= 46
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-buryat-culture-num1
+		religion = orthodox
+		size= 6
+	}
+
+	officers=
+	{
+		culture = dynamic-buryat-culture-num1
+		religion = orthodox
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-buryat-culture-num1
+		religion = orthodox
+		size= 52
+	}
+
+	farmers=
+	{
+		culture = dynamic-buryat-culture-num1
+		religion = orthodox
+		size= 2216
+	}
+
+	slaves=
+	{
+		culture = dynamic-hungarian-russian_culture-culture-num1
+		religion = orthodox
+		size= 25
+	}
+
+	soldiers=
+	{
+		culture = dynamic-hungarian-russian_culture-culture-num1
+		religion = orthodox
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = dynamic-hungarian-russian_culture-culture-num1
+		religion = orthodox
+		size= 199
+	}
+
+	clergymen=
+	{
+		culture = dynamic-hungarian-russian_culture-culture-num1
+		religion = orthodox
+		size= 75
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-hungarian-russian_culture-culture-num1
+		religion = orthodox
+		size= 9
+	}
+
+	officers=
+	{
+		culture = dynamic-hungarian-russian_culture-culture-num1
+		religion = orthodox
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-hungarian-russian_culture-culture-num1
+		religion = orthodox
+		size= 83
+	}
+
+}
+2207 = {
+	soldiers=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 236
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 109
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 2
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 26
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 5835
+	}
+
+	soldiers=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 47
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 153
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 14
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 3
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 37
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 992
+	}
+
+	soldiers=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 137
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 514
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 48
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 11
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 123
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 2776
+	}
+
+	soldiers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 294
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 1857
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 172
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 41
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 446
+	}
+
+	farmers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 4898
+	}
+
+}
+2608 = {
+	soldiers=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 1314
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 141
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 24
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 118
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 9911
+	}
+
+	soldiers=
+	{
+		culture = mongol
+		religion = orthodox
+		size= 118
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = orthodox
+		size= 1673
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = orthodox
+		size= 179
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = orthodox
+		size= 31
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = orthodox
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = orthodox
+		size= 151
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = orthodox
+		size= 380
+	}
+
+	soldiers=
+	{
+		culture = kazak
+		religion = tengri_pagan_reformed
+		size= 794
+	}
+
+	artisans=
+	{
+		culture = kazak
+		religion = tengri_pagan_reformed
+		size= 1208
+	}
+
+	clergymen=
+	{
+		culture = kazak
+		religion = tengri_pagan_reformed
+		size= 129
+	}
+
+	bureaucrats=
+	{
+		culture = kazak
+		religion = tengri_pagan_reformed
+		size= 22
+	}
+
+	officers=
+	{
+		culture = kazak
+		religion = tengri_pagan_reformed
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = kazak
+		religion = tengri_pagan_reformed
+		size= 109
+	}
+
+	farmers=
+	{
+		culture = kazak
+		religion = tengri_pagan_reformed
+		size= 14973
+	}
+
+	soldiers=
+	{
+		culture = kazak
+		religion = orthodox
+		size= 89
+	}
+
+	artisans=
+	{
+		culture = kazak
+		religion = orthodox
+		size= 1478
+	}
+
+	clergymen=
+	{
+		culture = kazak
+		religion = orthodox
+		size= 158
+	}
+
+	bureaucrats=
+	{
+		culture = kazak
+		religion = orthodox
+		size= 27
+	}
+
+	officers=
+	{
+		culture = kazak
+		religion = orthodox
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = kazak
+		religion = orthodox
+		size= 133
+	}
+
+	farmers=
+	{
+		culture = kazak
+		religion = orthodox
+		size= 11
+	}
+
+}
+2678 = {
+	soldiers=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 905
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 97
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 17
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 54
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 7698
+	}
+
+	soldiers=
+	{
+		culture = mongol
+		religion = orthodox
+		size= 79
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = orthodox
+		size= 1146
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = orthodox
+		size= 123
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = orthodox
+		size= 21
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = orthodox
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = orthodox
+		size= 69
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = orthodox
+		size= 266
+	}
+
+	soldiers=
+	{
+		culture = dynamic-kirgiz-culture-num1
+		religion = tengri_pagan_reformed
+		size= 154
+	}
+
+	artisans=
+	{
+		culture = dynamic-kirgiz-culture-num1
+		religion = tengri_pagan_reformed
+		size= 98
+	}
+
+	clergymen=
+	{
+		culture = dynamic-kirgiz-culture-num1
+		religion = tengri_pagan_reformed
+		size= 11
+	}
+
+	officers=
+	{
+		culture = dynamic-kirgiz-culture-num1
+		religion = tengri_pagan_reformed
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-kirgiz-culture-num1
+		religion = tengri_pagan_reformed
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = dynamic-kirgiz-culture-num1
+		religion = tengri_pagan_reformed
+		size= 3078
+	}
+
+	soldiers=
+	{
+		culture = dynamic-kirgiz-culture-num1
+		religion = mahayana
+		size= 20
+	}
+
+	artisans=
+	{
+		culture = dynamic-kirgiz-culture-num1
+		religion = mahayana
+		size= 34
+	}
+
+	clergymen=
+	{
+		culture = dynamic-kirgiz-culture-num1
+		religion = mahayana
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-kirgiz-culture-num1
+		religion = mahayana
+		size= 1
+	}
+
+	officers=
+	{
+		culture = dynamic-kirgiz-culture-num1
+		religion = mahayana
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-kirgiz-culture-num1
+		religion = mahayana
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = dynamic-kirgiz-culture-num1
+		religion = mahayana
+		size= 366
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-kirgiz-culture-num1
+		religion = tengri_pagan_reformed
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = dynamic-kirgiz-culture-num1
+		religion = orthodox
+		size= 53
+	}
+
+	artisans=
+	{
+		culture = dynamic-kirgiz-culture-num1
+		religion = orthodox
+		size= 213
+	}
+
+	clergymen=
+	{
+		culture = dynamic-kirgiz-culture-num1
+		religion = orthodox
+		size= 23
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-kirgiz-culture-num1
+		religion = orthodox
+		size= 4
+	}
+
+	officers=
+	{
+		culture = dynamic-kirgiz-culture-num1
+		religion = orthodox
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-kirgiz-culture-num1
+		religion = orthodox
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = dynamic-kirgiz-culture-num1
+		religion = orthodox
+		size= 847
+	}
+
+	soldiers=
+	{
+		culture = dynamic-hungarian-russian_culture-culture-num1
+		religion = orthodox
+		size= 8
+	}
+
+	artisans=
+	{
+		culture = dynamic-hungarian-russian_culture-culture-num1
+		religion = orthodox
+		size= 369
+	}
+
+	clergymen=
+	{
+		culture = dynamic-hungarian-russian_culture-culture-num1
+		religion = orthodox
+		size= 40
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-hungarian-russian_culture-culture-num1
+		religion = orthodox
+		size= 7
+	}
+
+	officers=
+	{
+		culture = dynamic-hungarian-russian_culture-culture-num1
+		religion = orthodox
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-hungarian-russian_culture-culture-num1
+		religion = orthodox
+		size= 22
+	}
+
+}
+2679 = {
+	slaves=
+	{
+		culture = kazak
+		religion = tengri_pagan_reformed
+		size= 986
+	}
+
+	soldiers=
+	{
+		culture = kazak
+		religion = tengri_pagan_reformed
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = kazak
+		religion = tengri_pagan_reformed
+		size= 883
+	}
+
+	clergymen=
+	{
+		culture = kazak
+		religion = tengri_pagan_reformed
+		size= 95
+	}
+
+	bureaucrats=
+	{
+		culture = kazak
+		religion = tengri_pagan_reformed
+		size= 16
+	}
+
+	officers=
+	{
+		culture = kazak
+		religion = tengri_pagan_reformed
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = kazak
+		religion = tengri_pagan_reformed
+		size= 159
+	}
+
+	farmers=
+	{
+		culture = kazak
+		religion = tengri_pagan_reformed
+		size= 9491
+	}
+
+	slaves=
+	{
+		culture = kazak
+		religion = orthodox
+		size= 108
+	}
+
+	soldiers=
+	{
+		culture = kazak
+		religion = orthodox
+		size= 64
+	}
+
+	artisans=
+	{
+		culture = kazak
+		religion = orthodox
+		size= 1081
+	}
+
+	clergymen=
+	{
+		culture = kazak
+		religion = orthodox
+		size= 115
+	}
+
+	bureaucrats=
+	{
+		culture = kazak
+		religion = orthodox
+		size= 20
+	}
+
+	officers=
+	{
+		culture = kazak
+		religion = orthodox
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = kazak
+		religion = orthodox
+		size= 195
+	}
+
+	farmers=
+	{
+		culture = kazak
+		religion = orthodox
+		size= 213
+	}
+
+	slaves=
+	{
+		culture = mongol
+		religion = orthodox
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = mongol
+		religion = orthodox
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = orthodox
+		size= 499
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = orthodox
+		size= 53
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = orthodox
+		size= 9
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = orthodox
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = orthodox
+		size= 90
+	}
+
+	slaves=
+	{
+		culture = kirgiz
+		religion = gnostic
+		size= 434
+	}
+
+	soldiers=
+	{
+		culture = kirgiz
+		religion = gnostic
+		size= 257
+	}
+
+	artisans=
+	{
+		culture = kirgiz
+		religion = gnostic
+		size= 122
+	}
+
+	clergymen=
+	{
+		culture = kirgiz
+		religion = gnostic
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = kirgiz
+		religion = gnostic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = kirgiz
+		religion = gnostic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = kirgiz
+		religion = gnostic
+		size= 22
+	}
+
+	farmers=
+	{
+		culture = kirgiz
+		religion = gnostic
+		size= 6097
+	}
+
+	slaves=
+	{
+		culture = uighur
+		religion = gnostic
+		size= 48
+	}
+
+	soldiers=
+	{
+		culture = uighur
+		religion = gnostic
+		size= 29
+	}
+
+	artisans=
+	{
+		culture = uighur
+		religion = gnostic
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = uighur
+		religion = gnostic
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = uighur
+		religion = gnostic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = uighur
+		religion = gnostic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = uighur
+		religion = gnostic
+		size= 18
+	}
+
+	farmers=
+	{
+		culture = uighur
+		religion = gnostic
+		size= 562
+	}
+
+	slaves=
+	{
+		culture = dynamic-tocharian-uyghur-culture-num1
+		religion = gnostic
+		size= 220
+	}
+
+	soldiers=
+	{
+		culture = dynamic-tocharian-uyghur-culture-num1
+		religion = gnostic
+		size= 130
+	}
+
+	artisans=
+	{
+		culture = dynamic-tocharian-uyghur-culture-num1
+		religion = gnostic
+		size= 396
+	}
+
+	clergymen=
+	{
+		culture = dynamic-tocharian-uyghur-culture-num1
+		religion = gnostic
+		size= 42
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-tocharian-uyghur-culture-num1
+		religion = gnostic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = dynamic-tocharian-uyghur-culture-num1
+		religion = gnostic
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-tocharian-uyghur-culture-num1
+		religion = gnostic
+		size= 71
+	}
+
+	farmers=
+	{
+		culture = dynamic-tocharian-uyghur-culture-num1
+		religion = gnostic
+		size= 2647
+	}
+
+	slaves=
+	{
+		culture = dynamic-tocharian-uyghur-culture-num1
+		religion = orthodox
+		size= 199
+	}
+
+	soldiers=
+	{
+		culture = dynamic-tocharian-uyghur-culture-num1
+		religion = orthodox
+		size= 118
+	}
+
+	artisans=
+	{
+		culture = dynamic-tocharian-uyghur-culture-num1
+		religion = orthodox
+		size= 1355
+	}
+
+	clergymen=
+	{
+		culture = dynamic-tocharian-uyghur-culture-num1
+		religion = orthodox
+		size= 145
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-tocharian-uyghur-culture-num1
+		religion = orthodox
+		size= 25
+	}
+
+	officers=
+	{
+		culture = dynamic-tocharian-uyghur-culture-num1
+		religion = orthodox
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-tocharian-uyghur-culture-num1
+		religion = orthodox
+		size= 244
+	}
+
+	farmers=
+	{
+		culture = dynamic-tocharian-uyghur-culture-num1
+		religion = orthodox
+		size= 1491
+	}
+
+	slaves=
+	{
+		culture = dynamic-tocharian-uyghur-culture-num1
+		religion = mahayana
+		size= 110
+	}
+
+	soldiers=
+	{
+		culture = dynamic-tocharian-uyghur-culture-num1
+		religion = mahayana
+		size= 65
+	}
+
+	artisans=
+	{
+		culture = dynamic-tocharian-uyghur-culture-num1
+		religion = mahayana
+		size= 293
+	}
+
+	clergymen=
+	{
+		culture = dynamic-tocharian-uyghur-culture-num1
+		religion = mahayana
+		size= 31
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-tocharian-uyghur-culture-num1
+		religion = mahayana
+		size= 5
+	}
+
+	officers=
+	{
+		culture = dynamic-tocharian-uyghur-culture-num1
+		religion = mahayana
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-tocharian-uyghur-culture-num1
+		religion = mahayana
+		size= 53
+	}
+
+	farmers=
+	{
+		culture = dynamic-tocharian-uyghur-culture-num1
+		religion = mahayana
+		size= 1190
+	}
+
+}

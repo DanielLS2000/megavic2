@@ -1,0 +1,10 @@
+owner=EGY
+controller=EGY
+add_core=ADE
+add_core=ARA
+add_core=X20
+trade_goods = fish
+life_rating = 20
+terrain = semidesert
+colonial=2
+fort = 1

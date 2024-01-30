@@ -1,0 +1,8 @@
+owner=UKR
+controller=UKR
+add_core=SHY
+add_core=TKS
+add_core=X15
+trade_goods = grain
+life_rating = 35
+colonial=2

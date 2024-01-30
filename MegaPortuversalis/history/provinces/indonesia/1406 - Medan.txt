@@ -1,0 +1,8 @@
+owner=EGY
+controller=EGY
+add_core=DLI
+add_core=MLY
+trade_goods = fruit
+life_rating = 38
+colonial=2
+fort = 1

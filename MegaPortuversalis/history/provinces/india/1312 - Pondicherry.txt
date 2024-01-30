@@ -1,0 +1,9 @@
+owner=TLG
+controller=TLG
+add_core=HND
+add_core=TLG
+add_core=X22
+add_core=XMA
+trade_goods = fish
+life_rating = 32
+fort = 1

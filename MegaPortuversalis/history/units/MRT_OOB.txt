@@ -1,0 +1,573 @@
+#Sphere of Influence
+
+AIN = {
+	value = 0
+	level = 2
+}
+AJU = {
+	value = 0
+	level = 2
+}
+ALD = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+ARM = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BIA = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BUL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRS = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DLM = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 9
+	level = 2
+}
+ENG = {
+	value = -10
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+FRI = {
+	value = 0
+	level = 2
+}
+GDW = {
+	value = 209
+	influence_value = 39
+	level = 4
+}
+GLC = {
+	value = 0
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+GYN = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 24
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+LIT = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LUW = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = -7
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MRT = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = 0
+	level = 2
+}
+OMA = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 142
+	influence_value = 23
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+POL = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 17
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+SUD = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TLG = {
+	value = 103
+	influence_value = 13
+	level = 4
+}
+UKR = {
+	value = -8
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+WOL = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = -6
+	level = 2
+}
+X03 = {
+	value = -8
+	level = 2
+}
+X04 = {
+	value = -6
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X21 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X27 = {
+	value = 0
+	level = 2
+}
+X29 = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Jhanjha Palkar"
+	date="1792.8.21"
+	type=land
+	personality="coolminded"
+	background="brownnoser"
+}
+
+leader = {
+	name="Indraraja Shinde"
+	date="1803.3.14"
+	type=land
+	personality="stalwart"
+	background="bootlicker"
+}
+
+leader = {
+	name="Kirtiraja Moray"
+	date="1816.3.1"
+	type=land
+	personality="coolminded"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Rajaraja Holkar"
+	date="1816.4.15"
+	type=land
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Asaga Kaushal"
+	date="1817.11.10"
+	type=sea
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+
+#Armies
+navy = {
+	name="3rd Fleet"
+	location=2790
+	ship = {
+		name="1st Mandvi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Madurai Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Mandvi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Bombay Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2790
+	ship = {
+		name="1st Cochin Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Maldives Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=1284
+	regiment = {
+		name="1st Kolhapur Irregulars"
+		type=irregular
+		home=1301
+	}
+	regiment = {
+		name="2nd Kolhapur Irregulars"
+		type=irregular
+		home=1301
+	}
+	regiment = {
+		name="3rd Kolhapur Irregulars"
+		type=irregular
+		home=1301
+	}
+	regiment = {
+		name="1st Jubbulpore Irregulars"
+		type=irregular
+		home=1275
+	}
+	regiment = {
+		name="1st Poona Artillery"
+		type=artillery
+		home=1299
+	}
+	regiment = {
+		name="1st Kolhapur Artillery"
+		type=artillery
+		home=1301
+	}
+	regiment = {
+		name="2nd Kolhapur Artillery"
+		type=artillery
+		home=1301
+	}
+	regiment = {
+		name="2nd Poona Artillery"
+		type=artillery
+		home=1299
+	}
+	regiment = {
+		name="5th Kolhapur Irregulars"
+		type=irregular
+		home=1301
+	}
+	regiment = {
+		name="4th Poona Artillery"
+		type=artillery
+		home=1299
+	}
+}
+
+army = {
+	name="4th Army"
+	location=1318
+	regiment = {
+		name="3rd Poona Artillery"
+		type=artillery
+		home=1299
+	}
+	regiment = {
+		name="6th Kolhapur Artillery"
+		type=artillery
+		home=1301
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=1297
+	ship = {
+		name="1st Kolhapur Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bombay Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Kolhapur Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Bombay Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Madurai Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Belgaum Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Madurai Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Madurai Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Cochin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Bombay Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Mandvi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Madurai Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Bombay Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Mandvi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Madurai Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kolhapur Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Maharastran Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Maharastran Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Kolhapur Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Bombay Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Maharastran Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Bombay Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Cochin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Bombay Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Belgaum Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Madurai Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Belgaum Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=1289
+	regiment = {
+		name="4th Kolhapur Irregulars"
+		type=irregular
+		home=1301
+	}
+	regiment = {
+		name="1st Poona Irregulars"
+		type=irregular
+		home=1299
+	}
+	regiment = {
+		name="1st Kolhapur Cavalry"
+		type=cavalry
+		home=1301
+	}
+	regiment = {
+		name="3rd Kolhapur Artillery"
+		type=artillery
+		home=1301
+	}
+	regiment = {
+		name="4th Kolhapur Artillery"
+		type=artillery
+		home=1301
+	}
+	regiment = {
+		name="1st Chhatarpur Irregulars"
+		type=irregular
+		home=1273
+	}
+	regiment = {
+		name="1st Aurangabad Cavalry"
+		type=cavalry
+		home=1284
+	}
+	regiment = {
+		name="1st Nizamabad Cavalry"
+		type=cavalry
+		home=1285
+	}
+	regiment = {
+		name="1st Poona Cavalry"
+		type=cavalry
+		home=1299
+	}
+	regiment = {
+		name="5th Kolhapur Artillery"
+		type=artillery
+		home=1301
+	}
+}
+

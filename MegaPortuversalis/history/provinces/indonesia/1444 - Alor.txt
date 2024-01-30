@@ -1,0 +1,5 @@
+owner=GYN
+controller=GYN
+trade_goods = tropical_wood
+life_rating = 31
+colonial=2

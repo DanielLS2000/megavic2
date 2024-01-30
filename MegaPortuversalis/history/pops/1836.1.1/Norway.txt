@@ -1,0 +1,1445 @@
+305 = {
+	soldiers=
+	{
+		culture = norwegian
+		religion = catholic
+		size= 559
+	}
+
+	artisans=
+	{
+		culture = norwegian
+		religion = catholic
+		size= 425
+	}
+
+	clergymen=
+	{
+		culture = norwegian
+		religion = catholic
+		size= 46
+	}
+
+	bureaucrats=
+	{
+		culture = norwegian
+		religion = catholic
+		size= 11
+	}
+
+	officers=
+	{
+		culture = norwegian
+		religion = catholic
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = norwegian
+		religion = catholic
+		size= 76
+	}
+
+	farmers=
+	{
+		culture = norwegian
+		religion = catholic
+		size= 11016
+	}
+
+	soldiers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 219
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 758
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 81
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 19
+	}
+
+	officers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 136
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 3522
+	}
+
+	soldiers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 4079
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 437
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 105
+	}
+
+	officers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 84
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 734
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 11116
+	}
+
+}
+306 = {
+	soldiers=
+	{
+		culture = norwegian
+		religion = catholic
+		size= 194
+	}
+
+	artisans=
+	{
+		culture = norwegian
+		religion = catholic
+		size= 183
+	}
+
+	clergymen=
+	{
+		culture = norwegian
+		religion = catholic
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = norwegian
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = norwegian
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = norwegian
+		religion = catholic
+		size= 22
+	}
+
+	farmers=
+	{
+		culture = norwegian
+		religion = catholic
+		size= 4809
+	}
+
+	soldiers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 49
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 276
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 30
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 33
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 931
+	}
+
+	soldiers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 312
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 1639
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 176
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 37
+	}
+
+	officers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 197
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 6034
+	}
+
+}
+307 = {
+	soldiers=
+	{
+		culture = sami
+		religion = catholic
+		size= 61
+	}
+
+	artisans=
+	{
+		culture = sami
+		religion = catholic
+		size= 57
+	}
+
+	clergymen=
+	{
+		culture = sami
+		religion = catholic
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = sami
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = sami
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = sami
+		religion = catholic
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = sami
+		religion = catholic
+		size= 3096
+	}
+
+	soldiers=
+	{
+		culture = sami
+		religion = animist
+		size= 29
+	}
+
+	artisans=
+	{
+		culture = sami
+		religion = animist
+		size= 110
+	}
+
+	clergymen=
+	{
+		culture = sami
+		religion = animist
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = sami
+		religion = animist
+		size= 3
+	}
+
+	officers=
+	{
+		culture = sami
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = sami
+		religion = animist
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = sami
+		religion = animist
+		size= 1361
+	}
+
+	soldiers=
+	{
+		culture = sami
+		religion = protestant
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = sami
+		religion = protestant
+		size= 259
+	}
+
+	clergymen=
+	{
+		culture = sami
+		religion = protestant
+		size= 28
+	}
+
+	bureaucrats=
+	{
+		culture = sami
+		religion = protestant
+		size= 6
+	}
+
+	officers=
+	{
+		culture = sami
+		religion = protestant
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = sami
+		religion = protestant
+		size= 31
+	}
+
+	farmers=
+	{
+		culture = sami
+		religion = protestant
+		size= 971
+	}
+
+	soldiers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 64
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 895
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 96
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 20
+	}
+
+	officers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 107
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 2158
+	}
+
+}
+308 = {
+	soldiers=
+	{
+		culture = norwegian
+		religion = catholic
+		size= 287
+	}
+
+	artisans=
+	{
+		culture = norwegian
+		religion = catholic
+		size= 62
+	}
+
+	clergymen=
+	{
+		culture = norwegian
+		religion = catholic
+		size= 23
+	}
+
+	bureaucrats=
+	{
+		culture = norwegian
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = norwegian
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = norwegian
+		religion = catholic
+		size= 26
+	}
+
+	farmers=
+	{
+		culture = norwegian
+		religion = catholic
+		size= 5841
+	}
+
+	soldiers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 95
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 104
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 39
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 9
+	}
+
+	officers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 44
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 1774
+	}
+
+	soldiers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 495
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 597
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 224
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 54
+	}
+
+	officers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 43
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 251
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 9105
+	}
+
+}
+309 = {
+	soldiers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 593
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 1481
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 159
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 38
+	}
+
+	officers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 267
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 18603
+	}
+
+	soldiers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 739
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 5178
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 555
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 133
+	}
+
+	officers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 78
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 932
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 18786
+	}
+
+}
+310 = {
+	soldiers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 937
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 1426
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 153
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 36
+	}
+
+	officers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 171
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 17614
+	}
+
+	soldiers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 4972
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 533
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 128
+	}
+
+	officers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 103
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 597
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 14867
+	}
+
+}
+311 = {
+	soldiers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 384
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 584
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 63
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 12
+	}
+
+	officers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 70
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 7223
+	}
+
+	soldiers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 499
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 2102
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 225
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 42
+	}
+
+	officers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 44
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 252
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 7675
+	}
+
+}
+312 = {
+	soldiers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 738
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 1123
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 120
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 22
+	}
+
+	officers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 135
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 13889
+	}
+
+	soldiers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 4041
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 433
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 81
+	}
+
+	officers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 84
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 485
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 14684
+	}
+
+}
+313 = {
+	soldiers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 684
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 297
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 112
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 21
+	}
+
+	officers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 187
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 13545
+	}
+
+	soldiers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 1000
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 375
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 70
+	}
+
+	officers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 73
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 630
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 14388
+	}
+
+}
+314 = {
+	soldiers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 418
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 636
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 68
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 13
+	}
+
+	officers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 76
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 7861
+	}
+
+	soldiers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 2307
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 247
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 46
+	}
+
+	officers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 48
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 277
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 7978
+	}
+
+}
+315 = {
+	soldiers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 535
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 233
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 87
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 16
+	}
+
+	officers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 147
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 10595
+	}
+
+	soldiers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 782
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 293
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 55
+	}
+
+	officers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 57
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 493
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 11030
+	}
+
+}
+316 = {
+	soldiers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 394
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 600
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 64
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 12
+	}
+
+	officers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 72
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = catholic
+		size= 7413
+	}
+
+	soldiers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 494
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 2105
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 225
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 42
+	}
+
+	officers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 44
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 253
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglosaxon-danish-norse-culture-num1
+		religion = protestant
+		size= 7586
+	}
+
+}

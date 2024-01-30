@@ -1,0 +1,8 @@
+owner=X06
+controller=X06
+add_core=AVA
+add_core=HSE
+add_core=X06
+trade_goods = grain
+life_rating = 33
+fort = 2

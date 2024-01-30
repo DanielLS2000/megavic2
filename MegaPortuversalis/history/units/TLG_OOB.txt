@@ -1,0 +1,637 @@
+#Sphere of Influence
+
+AIN = {
+	value = 0
+	level = 2
+}
+AJU = {
+	value = 0
+	level = 2
+}
+ALD = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+ARM = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BIA = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BUL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRS = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = -19
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DLM = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 8
+	level = 2
+}
+ENG = {
+	value = -6
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+FRI = {
+	value = 0
+	level = 2
+}
+GDW = {
+	value = 100
+	influence_value = 12
+	level = 4
+}
+GLC = {
+	value = 0
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+GYN = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+LIT = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LUW = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = -7
+	level = 2
+}
+MLC = {
+	value = -17
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MRT = {
+	value = 100
+	influence_value = 12
+	level = 4
+}
+NEW = {
+	value = 0
+	level = 2
+}
+OMA = {
+	value = 0
+	level = 2
+}
+PCH = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 148
+	influence_value = 24
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+POL = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 23
+	level = 2
+}
+SAX = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = 100
+	influence_value = 12
+	level = 4
+}
+SUD = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TLG = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = -8
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+UTS = {
+	value = 0
+	level = 2
+}
+WOL = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = -6
+	level = 2
+}
+X03 = {
+	value = -8
+	level = 2
+}
+X04 = {
+	value = -6
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X21 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X27 = {
+	value = 0
+	level = 2
+}
+X29 = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Venkatadri Damerla"
+	date="1812.8.13"
+	type=sea
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Ramaraya Malraju"
+	date="1815.9.4"
+	type=land
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Ekoji Gona"
+	date="1815.9.7"
+	type=land
+	personality="disciplined"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Venkatadri Malraju"
+	date="1815.9.9"
+	type=land
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Venkatadri Suryavamsa"
+	date="1820.3.11"
+	type=sea
+	personality="soldierly"
+	background="war_college"
+}
+
+
+#Armies
+army = {
+	name="2nd Army"
+	location=1304
+	regiment = {
+		name="1st Gulbarga Irregulars"
+		type=irregular
+		home=1286
+	}
+	regiment = {
+		name="1st Hyderabad Artillery"
+		type=artillery
+		home=1283
+	}
+	regiment = {
+		name="1st Masulipatnam Artillery"
+		type=artillery
+		home=1306
+	}
+	regiment = {
+		name="3rd Hyderabad Irregulars"
+		type=irregular
+		home=1283
+	}
+}
+
+army = {
+	name="5th Army"
+	location=1315
+	regiment = {
+		name="1st Hyderabad Irregulars"
+		type=irregular
+		home=1283
+	}
+	regiment = {
+		name="1st Gulbarga Artillery"
+		type=artillery
+		home=1286
+	}
+	regiment = {
+		name="2nd Hyderabad Artillery"
+		type=artillery
+		home=1283
+	}
+	regiment = {
+		name="1st Chitaldroog Irregulars"
+		type=irregular
+		home=1315
+	}
+	regiment = {
+		name="5th Gulbarga Artillery"
+		type=artillery
+		home=1286
+	}
+}
+
+army = {
+	name="8th Army"
+	location=1283
+	regiment = {
+		name="1st Masulipatnam Irregulars"
+		type=irregular
+		home=1306
+	}
+	regiment = {
+		name="1st Kurnool Irregulars"
+		type=irregular
+		home=1308
+	}
+	regiment = {
+		name="1st Gulbarga Cavalry"
+		type=cavalry
+		home=1286
+	}
+	regiment = {
+		name="2nd Gulbarga Cavalry"
+		type=cavalry
+		home=1286
+	}
+	regiment = {
+		name="3rd Hyderabad Artillery"
+		type=artillery
+		home=1283
+	}
+	regiment = {
+		name="2nd Masulipatnam Artillery"
+		type=artillery
+		home=1306
+	}
+	regiment = {
+		name="4th Hyderabad Artillery"
+		type=artillery
+		home=1283
+	}
+	regiment = {
+		name="1st Kurnool Cavalry"
+		type=cavalry
+		home=1308
+	}
+	regiment = {
+		name="1st Masulipatnam Cavalry"
+		type=cavalry
+		home=1306
+	}
+	regiment = {
+		name="1st Kurnool Artillery"
+		type=artillery
+		home=1308
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=1306
+	ship = {
+		name="1st Vizagapatnam Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Nellore Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Vizagapatnam Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Masulipatnam Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Nellore Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Madras Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Nellore Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Pondicherry Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Belgaum Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Peking Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Telinganan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Telinganan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Madras Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Fuzhou Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Telinganan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Telinganan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Telinganan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Telinganan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Hainan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Pondicherry Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Masulipatnam Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1306
+	regiment = {
+		name="2nd Kurnool Irregulars"
+		type=irregular
+		home=1308
+	}
+	regiment = {
+		name="2nd Hyderabad Irregulars"
+		type=irregular
+		home=1283
+	}
+	regiment = {
+		name="3rd Gulbarga Cavalry"
+		type=cavalry
+		home=1286
+	}
+	regiment = {
+		name="3rd Masulipatnam Artillery"
+		type=artillery
+		home=1306
+	}
+	regiment = {
+		name="2nd Gulbarga Artillery"
+		type=artillery
+		home=1286
+	}
+	regiment = {
+		name="5th Hyderabad Artillery"
+		type=artillery
+		home=1283
+	}
+	regiment = {
+		name="3rd Gulbarga Artillery"
+		type=artillery
+		home=1286
+	}
+	regiment = {
+		name="1st Madras Artillery"
+		type=artillery
+		home=1304
+	}
+	regiment = {
+		name="4th Gulbarga Artillery"
+		type=artillery
+		home=1286
+	}
+	regiment = {
+		name="1st Nellore Irregulars"
+		type=irregular
+		home=1307
+	}
+	regiment = {
+		name="4th Gulbarga Cavalry"
+		type=cavalry
+		home=1286
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2906
+	ship = {
+		name="2nd Cochin Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Cochin Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=3068
+	ship = {
+		name="1st Qingzhou Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Mangalore Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2795
+	ship = {
+		name="1st Masulipatnam Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Pegu Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Pondicherry Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Rangoon Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=1306
+	ship = {
+		name="4th Mangalore Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Sittwe Frigate"
+		type=frigate
+	}
+}
+

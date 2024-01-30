@@ -1,0 +1,6 @@
+owner=X21
+controller=X21
+add_core=X21
+trade_goods = wool
+life_rating = 32
+fort = 1

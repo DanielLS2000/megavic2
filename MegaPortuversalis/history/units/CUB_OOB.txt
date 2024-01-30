@@ -1,0 +1,442 @@
+#Sphere of Influence
+
+AIN = {
+	value = 0
+	level = 2
+}
+AJU = {
+	value = 0
+	level = 2
+}
+ALD = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+ARM = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = -7
+	level = 2
+}
+BIA = {
+	value = 1
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BUL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRS = {
+	value = 0
+	level = 2
+}
+CTI = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = -6
+	level = 2
+}
+DLM = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = -13
+	level = 2
+}
+ENG = {
+	value = -18
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+FRI = {
+	value = 0
+	level = 2
+}
+GDW = {
+	value = 0
+	level = 2
+}
+GLC = {
+	value = -11
+	military_access = yes
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+GYN = {
+	value = 7
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = -15
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+LIT = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LUW = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = -123
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MRT = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = 0
+	level = 2
+}
+OMA = {
+	value = 0
+	level = 2
+}
+PCH = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+POL = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+SAX = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+SUD = {
+	value = -13
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TLG = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+UTS = {
+	value = 0
+	level = 2
+}
+WOL = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 35
+	level = 2
+}
+X21 = {
+	value = -13
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X27 = {
+	value = 0
+	level = 2
+}
+X29 = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Niccolò de Leiva"
+	date="1795.3.14"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Nuñu Orellana"
+	date="1811.1.6"
+	type=land
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Alfonsu de Toledo"
+	date="1816.1.5"
+	type=sea
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Niccolò de Ayala"
+	date="1818.6.18"
+	type=sea
+	personality="disciplined"
+	background="war_college"
+}
+
+
+#Armies
+army = {
+	name="1st Army"
+	location=2209
+	regiment = {
+		name="1st Jagua Infantry"
+		type=infantry
+		home=2210
+	}
+	regiment = {
+		name="1st Havana Cavalry"
+		type=cavalry
+		home=2209
+	}
+	regiment = {
+		name="1st Havana Artillery"
+		type=artillery
+		home=2209
+	}
+	regiment = {
+		name="2nd Havana Artillery"
+		type=artillery
+		home=2209
+	}
+	regiment = {
+		name="2nd Jagua Infantry"
+		type=infantry
+		home=2210
+	}
+	regiment = {
+		name="2nd Havana Cavalry"
+		type=cavalry
+		home=2209
+	}
+	regiment = {
+		name="3rd Havana Artillery"
+		type=artillery
+		home=2209
+	}
+}
+
+navy = {
+	name="8th Fleet"
+	location=2209
+	ship = {
+		name="Alísio"
+		type=manowar
+	}
+	ship = {
+		name="Estrella de los Mares"
+		type=manowar
+	}
+	ship = {
+		name="Guerrera"
+		type=manowar
+	}
+	ship = {
+		name="San Carlos"
+		type=manowar
+	}
+	ship = {
+		name="Ambición"
+		type=clipper_transport
+	}
+	ship = {
+		name="Baltasar"
+		type=clipper_transport
+	}
+	ship = {
+		name="Caoba"
+		type=clipper_transport
+	}
+	ship = {
+		name="Cocodrilo"
+		type=clipper_transport
+	}
+	ship = {
+		name="Coral"
+		type=clipper_transport
+	}
+	ship = {
+		name="Defensora"
+		type=clipper_transport
+	}
+	ship = {
+		name="San Fernando"
+		type=manowar
+	}
+	ship = {
+		name="Deseada"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2217
+	ship = {
+		name="Calixto García"
+		type=frigate
+	}
+	ship = {
+		name="Constitución"
+		type=frigate
+	}
+	ship = {
+		name="Félix Varela"
+		type=frigate
+	}
+	ship = {
+		name="Joaquín Infante"
+		type=frigate
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2850
+	ship = {
+		name="Grito de Yara"
+		type=frigate
+	}
+	ship = {
+		name="Independencia"
+		type=frigate
+	}
+	ship = {
+		name="José F. Lemus"
+		type=frigate
+	}
+}
+

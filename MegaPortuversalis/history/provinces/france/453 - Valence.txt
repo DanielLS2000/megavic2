@@ -1,0 +1,5 @@
+owner=GYN
+controller=GYN
+add_core=GYN
+trade_goods = fruit
+life_rating = 31

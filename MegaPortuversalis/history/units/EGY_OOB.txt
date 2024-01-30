@@ -1,0 +1,1525 @@
+#Sphere of Influence
+
+AJU = {
+	value = 1
+	level = 2
+}
+ALD = {
+	value = 72
+	influence_value = 5
+	level = 2
+}
+ARG = {
+	value = 54
+	influence_value = 1
+	level = 2
+}
+ARM = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+BIA = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+BRZ = {
+	value = 63
+	influence_value = 3
+	level = 2
+}
+BUL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+CLM = {
+	value = 56
+	influence_value = 1
+	level = 2
+}
+CUB = {
+	value = -13
+	level = 2
+}
+DAI = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+DLM = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = -116
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+GDW = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+GLC = {
+	value = -14
+	level = 2
+}
+GRE = {
+	value = 9
+	level = 2
+}
+GYN = {
+	value = -14
+	level = 2
+}
+HUN = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 43
+	level = 3
+}
+KON = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+LIT = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 54
+	influence_value = 1
+	level = 2
+}
+LUW = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+MLC = {
+	value = -37
+	level = 2
+}
+MLI = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+MNX = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+MRT = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+NEW = {
+	value = 63
+	influence_value = 3
+	level = 2
+}
+OMA = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 116
+	influence_value = 16
+	level = 3
+}
+PEU = {
+	value = 66
+	influence_value = 4
+	level = 2
+}
+POL = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 64
+	influence_value = 3
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+SUD = {
+	value = 164
+	military_access = yes
+	influence_value = 78
+	level = 5
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TLG = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+UKR = {
+	value = -4
+	level = 2
+}
+USA = {
+	value = 75
+	influence_value = 6
+	level = 2
+}
+X02 = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 35
+	level = 2
+}
+X21 = {
+	value = 231
+	military_access = yes
+	influence_value = 95
+	level = 5
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X27 = {
+	value = 0
+	level = 2
+}
+X29 = {
+	value = 54
+	influence_value = 1
+	level = 2
+}
+ZIM = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Yazid Bay"
+	date="1804.1.21"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Hussayn Inâl"
+	date="1804.1.22"
+	type=land
+	personality="coolminded"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Ahmad Sayfuddin"
+	date="1808.1.9"
+	type=land
+	personality="resolute"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Abdul-Lateef Zangi"
+	date="1810.9.22"
+	type=land
+	personality="coolminded"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Ya'qub Sayfuddin"
+	date="1811.9.19"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Biktor Kansur"
+	date="1814.3.21"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Fortun Bey"
+	date="1814.3.31"
+	type=land
+	personality="chivalrous"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Yazid Inâl"
+	date="1819.1.24"
+	type=sea
+	personality="disciplined"
+	background="uncommonly_young"
+}
+
+
+#Armies
+navy = {
+	name="1st Fleet"
+	location=2771
+	ship = {
+		name="1st Beirut Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Alexandria Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Adana Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Salalah Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Mersin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Alexandria Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Jaffa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Salalah Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Port Macquarie Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Salalah Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Mersin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Adana Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Adana Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Jeddah Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Salalah Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="9th Army"
+	location=1408
+	regiment = {
+		name="1st Jeddah Infantry"
+		type=infantry
+		home=1152
+	}
+	regiment = {
+		name="1st Mecca Infantry"
+		type=infantry
+		home=1151
+	}
+	regiment = {
+		name="2nd Mecca Infantry"
+		type=infantry
+		home=1151
+	}
+	regiment = {
+		name="1st Bani Suwayf Artillery"
+		type=artillery
+		home=1763
+	}
+	regiment = {
+		name="1st Cairo Artillery"
+		type=artillery
+		home=1745
+	}
+	regiment = {
+		name="1st Konya Artillery"
+		type=artillery
+		home=873
+	}
+	regiment = {
+		name="3rd Mecca Infantry"
+		type=infantry
+		home=1151
+	}
+	regiment = {
+		name="1st Izmir Artillery"
+		type=artillery
+		home=869
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=1833
+	regiment = {
+		name="1st Chios Infantry"
+		type=infantry
+		home=843
+	}
+	regiment = {
+		name="1st Marash Infantry"
+		type=infantry
+		home=896
+	}
+	regiment = {
+		name="1st Hail Infantry"
+		type=infantry
+		home=1160
+	}
+	regiment = {
+		name="1st Ankara Artillery"
+		type=artillery
+		home=876
+	}
+	regiment = {
+		name="1st Mugla Artillery"
+		type=artillery
+		home=872
+	}
+	regiment = {
+		name="1st Burdur Artillery"
+		type=artillery
+		home=874
+	}
+	regiment = {
+		name="1st Urfa Infantry"
+		type=infantry
+		home=899
+	}
+	regiment = {
+		name="1st Mersin Artillery"
+		type=artillery
+		home=895
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1406
+	regiment = {
+		name="1st Suhaj Infantry"
+		type=infantry
+		home=2559
+	}
+	regiment = {
+		name="1st Socotra Infantry"
+		type=infantry
+		home=1177
+	}
+	regiment = {
+		name="1st Alexandria Infantry"
+		type=infantry
+		home=1751
+	}
+	regiment = {
+		name="1st Suez Infantry"
+		type=infantry
+		home=1755
+	}
+	regiment = {
+		name="1st Cairo Infantry"
+		type=infantry
+		home=1745
+	}
+	regiment = {
+		name="1st Bani Suwayf Infantry"
+		type=infantry
+		home=1763
+	}
+	regiment = {
+		name="1st Medina Artillery"
+		type=artillery
+		home=1153
+	}
+	regiment = {
+		name="1st Gaza Artillery"
+		type=artillery
+		home=920
+	}
+	regiment = {
+		name="1st Idfu Artillery"
+		type=artillery
+		home=1768
+	}
+	regiment = {
+		name="1st Sharm al-Shaykh Artillery"
+		type=artillery
+		home=1757
+	}
+	regiment = {
+		name="2nd Cairo Artillery"
+		type=artillery
+		home=1745
+	}
+	regiment = {
+		name="1st Amman Artillery"
+		type=artillery
+		home=908
+	}
+	regiment = {
+		name="1st Ras Gharib Artillery"
+		type=artillery
+		home=1772
+	}
+	regiment = {
+		name="1st Konya Infantry"
+		type=infantry
+		home=873
+	}
+}
+
+army = {
+	name="Corpo São Thiago"
+	location=1870
+	regiment = {
+		name="1st Fayyum Infantry"
+		type=infantry
+		home=1765
+	}
+	regiment = {
+		name="1st Matruh Infantry"
+		type=infantry
+		home=1752
+	}
+	regiment = {
+		name="2nd Bani Suwayf Infantry"
+		type=infantry
+		home=1763
+	}
+	regiment = {
+		name="1st Qusayr Artillery"
+		type=artillery
+		home=1770
+	}
+	regiment = {
+		name="1st Alexandria Artillery"
+		type=artillery
+		home=1751
+	}
+	regiment = {
+		name="1st Matruh Artillery"
+		type=artillery
+		home=1752
+	}
+	regiment = {
+		name="2nd Matruh Infantry"
+		type=infantry
+		home=1752
+	}
+	regiment = {
+		name="1st Taizz Artillery"
+		type=artillery
+		home=1180
+	}
+}
+
+army = {
+	name="Corpo São Sebastião"
+	location=1409
+	regiment = {
+		name="1st Makassar Infantry"
+		type=infantry
+		home=1430
+	}
+	regiment = {
+		name="1st Bolu Infantry"
+		type=infantry
+		home=881
+	}
+	regiment = {
+		name="1st Mut Infantry"
+		type=infantry
+		home=1760
+	}
+	regiment = {
+		name="1st Hail Artillery"
+		type=artillery
+		home=1160
+	}
+	regiment = {
+		name="2nd Ankara Artillery"
+		type=artillery
+		home=876
+	}
+	regiment = {
+		name="1st Amasya Artillery"
+		type=artillery
+		home=877
+	}
+	regiment = {
+		name="2nd Makassar Infantry"
+		type=infantry
+		home=1430
+	}
+	regiment = {
+		name="1st Kayseri Artillery"
+		type=artillery
+		home=878
+	}
+}
+
+army = {
+	name="5th Army"
+	location=1851
+	regiment = {
+		name="2nd Cairo Infantry"
+		type=infantry
+		home=1745
+	}
+	regiment = {
+		name="1st Damascus Infantry"
+		type=infantry
+		home=902
+	}
+	regiment = {
+		name="1st Ma'an Infantry"
+		type=infantry
+		home=911
+	}
+	regiment = {
+		name="1st Tabuk Artillery"
+		type=artillery
+		home=1154
+	}
+	regiment = {
+		name="1st Suez Artillery"
+		type=artillery
+		home=1755
+	}
+	regiment = {
+		name="1st Dumyat Artillery"
+		type=artillery
+		home=1746
+	}
+	regiment = {
+		name="1st Aqaba Infantry"
+		type=infantry
+		home=922
+	}
+	regiment = {
+		name="2nd Acre Artillery"
+		type=artillery
+		home=916
+	}
+}
+
+navy = {
+	name="8th Fleet"
+	location=2781
+	ship = {
+		name="Akram"
+		type=frigate
+	}
+	ship = {
+		name="Atif"
+		type=frigate
+	}
+	ship = {
+		name="Ayman"
+		type=frigate
+	}
+	ship = {
+		name="Bahir"
+		type=frigate
+	}
+	ship = {
+		name="Fadil"
+		type=frigate
+	}
+	ship = {
+		name="Fath"
+		type=frigate
+	}
+	ship = {
+		name="Firas"
+		type=frigate
+	}
+	ship = {
+		name="Fawwaz"
+		type=frigate
+	}
+	ship = {
+		name="Ghalib"
+		type=frigate
+	}
+	ship = {
+		name="Hakim"
+		type=frigate
+	}
+	ship = {
+		name="Humam"
+		type=frigate
+	}
+	ship = {
+		name="Jabbar"
+		type=frigate
+	}
+	ship = {
+		name="Jawhar"
+		type=frigate
+	}
+	ship = {
+		name="Kamal"
+		type=frigate
+	}
+	ship = {
+		name="Khalid"
+		type=frigate
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=1399
+	ship = {
+		name="Al-Qahira"
+		type=manowar
+	}
+	ship = {
+		name="Al-Iskandariyya"
+		type=manowar
+	}
+	ship = {
+		name="Dumyat"
+		type=manowar
+	}
+	ship = {
+		name="Mansura"
+		type=manowar
+	}
+	ship = {
+		name="Tanta"
+		type=manowar
+	}
+	ship = {
+		name="Al-Uqsur"
+		type=manowar
+	}
+	ship = {
+		name="Al-Suyut"
+		type=manowar
+	}
+	ship = {
+		name="Aswan"
+		type=manowar
+	}
+	ship = {
+		name="Al-Fayyum"
+		type=manowar
+	}
+	ship = {
+		name="Khartum"
+		type=manowar
+	}
+	ship = {
+		name="Qusayr"
+		type=manowar
+	}
+	ship = {
+		name="Suways"
+		type=manowar
+	}
+	ship = {
+		name="Minya"
+		type=manowar
+	}
+	ship = {
+		name="2nd Alexandria Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Polygyros Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bolu Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Izmir Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Coimbra Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Limassol Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Adana Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Alexandria Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Dumyat Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Makassar Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Makassar Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Alexandria Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Balikesir Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Dumyat Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Limassol Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Egyptian Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Málaga Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Izmir Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Canakkale Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Balikesir Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Antalya Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Egyptian Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Gaza Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Alexandria Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Darna Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Latakia Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Alexandria Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Tapaktuan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Antalya Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Suez Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Acre Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Dumyat Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Alexandria Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Trablos Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="Masud"
+		type=frigate
+	}
+	ship = {
+		name="Mamun"
+		type=frigate
+	}
+	ship = {
+		name="Majid"
+		type=frigate
+	}
+	ship = {
+		name="Mufid"
+		type=frigate
+	}
+	ship = {
+		name="Mukhtar"
+		type=frigate
+	}
+	ship = {
+		name="Muntasir"
+		type=frigate
+	}
+	ship = {
+		name="Qudamat"
+		type=frigate
+	}
+	ship = {
+		name="Rashad"
+		type=frigate
+	}
+	ship = {
+		name="Sa'ad"
+		type=frigate
+	}
+	ship = {
+		name="Tahir"
+		type=frigate
+	}
+	ship = {
+		name="Thabit"
+		type=frigate
+	}
+	ship = {
+		name="Wafiq"
+		type=frigate
+	}
+	ship = {
+		name="Yusuf"
+		type=frigate
+	}
+	ship = {
+		name="Zahir"
+		type=frigate
+	}
+	ship = {
+		name="Zafir"
+		type=frigate
+	}
+	ship = {
+		name="1st Latakia Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Sidi Barrani Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Djibuti Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Ghayda Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Assab Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Ghayda Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Sidi Barrani Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Tobruk Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Taizz Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Assab Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Abha Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Egyptian Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Egyptian Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Ghayda Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Berbera Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Trablos Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Taizz Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Jeddah Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Ghayda Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Antakya Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Egyptian Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Egyptian Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Giresun Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Acre Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Ghayda Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bursa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Mukalla Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Berbera Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Zeyla Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Egyptian Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Ras Gharib Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bolu Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Phuket Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Hobyo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Taizz Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Coro Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Zeyla Frigate"
+		type=frigate
+	}
+	ship = {
+		name="7th Cartagena de Indias Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=884
+	regiment = {
+		name="3rd Cairo Infantry"
+		type=infantry
+		home=1745
+	}
+	regiment = {
+		name="1st Kayseri Infantry"
+		type=infantry
+		home=878
+	}
+	regiment = {
+		name="1st Dumyat Infantry"
+		type=infantry
+		home=1746
+	}
+	regiment = {
+		name="2nd Dumyat Artillery"
+		type=artillery
+		home=1746
+	}
+	regiment = {
+		name="3rd Cairo Artillery"
+		type=artillery
+		home=1745
+	}
+	regiment = {
+		name="1st Ziqaziq Artillery"
+		type=artillery
+		home=1749
+	}
+	regiment = {
+		name="3rd Fayyum Infantry"
+		type=infantry
+		home=1765
+	}
+	regiment = {
+		name="1st Denizli Artillery"
+		type=artillery
+		home=871
+	}
+}
+
+army = {
+	name="Corpo Baldwin"
+	location=1398
+	regiment = {
+		name="1st Ghayda Infantry"
+		type=infantry
+		home=1175
+	}
+	regiment = {
+		name="2nd Ghayda Infantry"
+		type=infantry
+		home=1175
+	}
+	regiment = {
+		name="1st Burdur Infantry"
+		type=infantry
+		home=874
+	}
+	regiment = {
+		name="1st Ghayda Artillery"
+		type=artillery
+		home=1175
+	}
+	regiment = {
+		name="1st Bursa Artillery"
+		type=artillery
+		home=863
+	}
+	regiment = {
+		name="2nd Ghayda Artillery"
+		type=artillery
+		home=1175
+	}
+	regiment = {
+		name="1st Medan Artillery"
+		type=artillery
+		home=1406
+	}
+}
+
+army = {
+	name="6th Army"
+	location=1416
+	regiment = {
+		name="1st Ankara Infantry"
+		type=infantry
+		home=876
+	}
+	regiment = {
+		name="2nd Kayseri Infantry"
+		type=infantry
+		home=878
+	}
+	regiment = {
+		name="1st Taizz Infantry"
+		type=infantry
+		home=1180
+	}
+	regiment = {
+		name="1st Mansura Artillery"
+		type=artillery
+		home=1748
+	}
+	regiment = {
+		name="1st Acre Artillery"
+		type=artillery
+		home=916
+	}
+	regiment = {
+		name="1st Qina Artillery"
+		type=artillery
+		home=1769
+	}
+	regiment = {
+		name="2nd Alexandria Artillery"
+		type=artillery
+		home=1751
+	}
+}
+
+army = {
+	name="7th Army"
+	location=1431
+	regiment = {
+		name="1st Palu Infantry"
+		type=infantry
+		home=1435
+	}
+	regiment = {
+		name="1st Mamuju Infantry"
+		type=infantry
+		home=1432
+	}
+	regiment = {
+		name="1st Sivas Infantry"
+		type=infantry
+		home=879
+	}
+	regiment = {
+		name="1st Giresun Artillery"
+		type=artillery
+		home=884
+	}
+	regiment = {
+		name="3rd Ankara Artillery"
+		type=artillery
+		home=876
+	}
+	regiment = {
+		name="2nd Mugla Artillery"
+		type=artillery
+		home=872
+	}
+	regiment = {
+		name="2nd Sinop Artillery"
+		type=artillery
+		home=883
+	}
+}
+
+army = {
+	name="8th Army"
+	location=1873
+	regiment = {
+		name="2nd Alexandria Infantry"
+		type=infantry
+		home=1751
+	}
+	regiment = {
+		name="1st Harer Infantry"
+		type=infantry
+		home=1865
+	}
+	regiment = {
+		name="1st Jerusalem Infantry"
+		type=infantry
+		home=917
+	}
+	regiment = {
+		name="1st Tanta Artillery"
+		type=artillery
+		home=1747
+	}
+	regiment = {
+		name="1st Minya Artillery"
+		type=artillery
+		home=1764
+	}
+	regiment = {
+		name="2nd Qina Artillery"
+		type=artillery
+		home=1769
+	}
+	regiment = {
+		name="1st Fayyum Artillery"
+		type=artillery
+		home=1765
+	}
+}
+
+army = {
+	name="18th Army"
+	location=1870
+	regiment = {
+		name="1st Giza Infantry"
+		type=infantry
+		home=1750
+	}
+	regiment = {
+		name="2nd Fayyum Infantry"
+		type=infantry
+		home=1765
+	}
+	regiment = {
+		name="1st Jaffa Infantry"
+		type=infantry
+		home=919
+	}
+	regiment = {
+		name="1st Urfa Artillery"
+		type=artillery
+		home=899
+	}
+	regiment = {
+		name="1st Jeddah Artillery"
+		type=artillery
+		home=1152
+	}
+	regiment = {
+		name="1st Halaban Artillery"
+		type=artillery
+		home=1159
+	}
+}
+
+army = {
+	name="19th Army"
+	location=879
+	regiment = {
+		name="2nd Sivas Infantry"
+		type=infantry
+		home=879
+	}
+	regiment = {
+		name="3rd Sivas Infantry"
+		type=infantry
+		home=879
+	}
+	regiment = {
+		name="2nd Ankara Infantry"
+		type=infantry
+		home=876
+	}
+	regiment = {
+		name="2nd Gaza Artillery"
+		type=artillery
+		home=920
+	}
+	regiment = {
+		name="1st Antalya Artillery"
+		type=artillery
+		home=875
+	}
+	regiment = {
+		name="1st Antakya Artillery"
+		type=artillery
+		home=900
+	}
+}
+
+army = {
+	name="4th Army"
+	location=1870
+	regiment = {
+		name="2nd Chios Infantry"
+		type=infantry
+		home=843
+	}
+	regiment = {
+		name="1st Bursa Infantry"
+		type=infantry
+		home=863
+	}
+	regiment = {
+		name="1st Afyon Infantry"
+		type=infantry
+		home=866
+	}
+	regiment = {
+		name="2nd Hail Artillery"
+		type=artillery
+		home=1160
+	}
+	regiment = {
+		name="1st Beirut Artillery"
+		type=artillery
+		home=913
+	}
+	regiment = {
+		name="1st Nablus Artillery"
+		type=artillery
+		home=918
+	}
+}
+
+army = {
+	name="10th Army"
+	location=895
+	regiment = {
+		name="1st Kastamonu Artillery"
+		type=artillery
+		home=880
+	}
+	regiment = {
+		name="1st Izmit Artillery"
+		type=artillery
+		home=862
+	}
+	regiment = {
+		name="2nd Kastamonu Artillery"
+		type=artillery
+		home=880
+	}
+	regiment = {
+		name="3rd Kastamonu Artillery"
+		type=artillery
+		home=880
+	}
+	regiment = {
+		name="1st Sinop Artillery"
+		type=artillery
+		home=883
+	}
+	regiment = {
+		name="4th Ankara Artillery"
+		type=artillery
+		home=876
+	}
+	regiment = {
+		name="5th Ankara Artillery"
+		type=artillery
+		home=876
+	}
+}
+

@@ -1,0 +1,4 @@
+owner=GYN
+controller=GYN
+trade_goods = fish
+life_rating = 15

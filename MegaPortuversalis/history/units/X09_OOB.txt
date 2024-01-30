@@ -1,0 +1,18 @@
+#Sphere of Influence
+
+FJV = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X29 = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+
+#Armies

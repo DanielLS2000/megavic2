@@ -1,0 +1,5 @@
+owner=GYN
+controller=GYN
+trade_goods = iron
+life_rating = 35
+colonial=2

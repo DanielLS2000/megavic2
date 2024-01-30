@@ -1,0 +1,7 @@
+owner=GYN
+controller=GYN
+add_core=BRU
+trade_goods = fish
+life_rating = 31
+colonial=2
+naval_base = 2

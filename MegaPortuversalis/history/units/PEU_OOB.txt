@@ -1,0 +1,484 @@
+#Sphere of Influence
+
+AIN = {
+	value = 0
+	level = 2
+}
+AJU = {
+	value = 0
+	level = 2
+}
+ALD = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = -100
+	level = 2
+}
+ARM = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = -7
+	level = 2
+}
+BIA = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 31
+	level = 2
+}
+BUL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = -23
+	level = 2
+}
+CTI = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 34
+	level = 2
+}
+DAI = {
+	value = -6
+	level = 2
+}
+DLM = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 16
+	level = 2
+}
+ENG = {
+	value = -3
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+FRI = {
+	value = 0
+	level = 2
+}
+GDW = {
+	value = 0
+	level = 2
+}
+GLC = {
+	value = 11
+	military_access = yes
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+GYN = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = -15
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+LIT = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LUW = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 4
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MRT = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = 0
+	level = 2
+}
+OMA = {
+	value = 0
+	level = 2
+}
+PCH = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+POL = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 29
+	level = 2
+}
+SAX = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 12
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+SUD = {
+	value = -13
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TLG = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+WOL = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 35
+	level = 2
+}
+X21 = {
+	value = -13
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X27 = {
+	value = 0
+	level = 2
+}
+X29 = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Nicholas de Rojas"
+	date="1803.5.14"
+	type=sea
+	personality="coolminded"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Heimrich de Zúñiga"
+	date="1815.2.6"
+	type=land
+	personality="disciplined"
+	background="generals_aide"
+}
+
+leader = {
+	name="Manuel de Castilla"
+	date="1818.6.19"
+	type=sea
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Nuñu de Toledo"
+	date="1818.7.18"
+	type=land
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Sayyid Colón"
+	date="1820.11.28"
+	type=land
+	personality="disciplined"
+	background="cavalry_school"
+}
+
+
+#Armies
+army = {
+	name="5th Army"
+	location=2293
+	regiment = {
+		name="1st Tucumán Infantry"
+		type=infantry
+		home=2373
+	}
+	regiment = {
+		name="1st Iquique Infantry"
+		type=infantry
+		home=2307
+	}
+	regiment = {
+		name="1st Cochabamba Cavalry"
+		type=cavalry
+		home=2311
+	}
+	regiment = {
+		name="1st San Juan Artillery"
+		type=artillery
+		home=2387
+	}
+	regiment = {
+		name="1st La Paz Artillery"
+		type=artillery
+		home=2310
+	}
+	regiment = {
+		name="1st Cauquenes Infantry"
+		type=infantry
+		home=2330
+	}
+	regiment = {
+		name="1st Oruro Cavalry"
+		type=cavalry
+		home=2312
+	}
+}
+
+army = {
+	name="6th Army"
+	location=2314
+	regiment = {
+		name="1st Cochabamba Infantry"
+		type=infantry
+		home=2311
+	}
+	regiment = {
+		name="2nd Cochabamba Infantry"
+		type=infantry
+		home=2311
+	}
+	regiment = {
+		name="2nd La Paz Artillery"
+		type=artillery
+		home=2310
+	}
+	regiment = {
+		name="3rd La Paz Artillery"
+		type=artillery
+		home=2310
+	}
+	regiment = {
+		name="4th La Paz Artillery"
+		type=artillery
+		home=2310
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2298
+	ship = {
+		name="Arequipeño"
+		type=manowar
+	}
+	ship = {
+		name="Balcarce"
+		type=manowar
+	}
+	ship = {
+		name="Belgrano"
+		type=manowar
+	}
+	ship = {
+		name="Coronel Spano"
+		type=manowar
+	}
+	ship = {
+		name="Cruz"
+		type=manowar
+	}
+	ship = {
+		name="Caupolican"
+		type=clipper_transport
+	}
+	ship = {
+		name="Chalaco"
+		type=clipper_transport
+	}
+	ship = {
+		name="Chimbote"
+		type=clipper_transport
+	}
+	ship = {
+		name="Colón"
+		type=clipper_transport
+	}
+	ship = {
+		name="Constitución"
+		type=clipper_transport
+	}
+	ship = {
+		name="Contraalmirante Haza"
+		type=clipper_transport
+	}
+	ship = {
+		name="General Lerzundi"
+		type=clipper_transport
+	}
+	ship = {
+		name="Guardian Ríos"
+		type=clipper_transport
+	}
+	ship = {
+		name="Independencia"
+		type=clipper_transport
+	}
+	ship = {
+		name="Iquitos"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="8th Fleet"
+	location=2334
+	ship = {
+		name="Amazonas"
+		type=frigate
+	}
+	ship = {
+		name="Apurimac"
+		type=frigate
+	}
+	ship = {
+		name="Callao"
+		type=frigate
+	}
+	ship = {
+		name="Mercedes"
+		type=frigate
+	}
+	ship = {
+		name="Meteoro"
+		type=frigate
+	}
+	ship = {
+		name="Monteagudo"
+		type=frigate
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2334
+	ship = {
+		name="Palacios"
+		type=frigate
+	}
+	ship = {
+		name="Presidente"
+		type=frigate
+	}
+}
+

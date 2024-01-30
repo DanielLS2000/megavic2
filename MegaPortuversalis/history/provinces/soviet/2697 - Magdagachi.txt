@@ -1,0 +1,8 @@
+owner=UKR
+controller=UKR
+add_core=CHI
+add_core=MCK
+trade_goods = grain
+life_rating = 35
+colonial=2
+fort = 1

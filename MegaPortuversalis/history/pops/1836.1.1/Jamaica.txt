@@ -1,0 +1,186 @@
+2217 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 8320
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 168
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 357
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 88978
+	}
+
+	farmers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 13
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 26
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 207
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 67
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 65
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 18
+	}
+
+	officers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 8
+	}
+
+	soldiers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 1768
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = catholic
+		size= 3930
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = catholic
+		size= 1277
+	}
+
+	bureaucrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 354
+	}
+
+	officers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 167
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 1238
+	}
+
+}
+2218 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 32
+	}
+
+	slaves=
+	{
+		culture = french_central_america_superregion_culture
+		religion = catholic
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = french_central_america_superregion_culture
+		religion = catholic
+		size= 2
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 280
+	}
+
+	soldiers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = catholic
+		size= 42
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 1
+	}
+
+}

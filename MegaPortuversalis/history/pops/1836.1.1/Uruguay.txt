@@ -1,0 +1,274 @@
+2344 = {
+	slaves=
+	{
+		culture = guarani
+		religion = animist
+		size= 981
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 120
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 3180
+	}
+
+	farmers=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 18709
+	}
+
+	slaves=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 6951
+	}
+
+	artisans=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 3114
+	}
+
+	clergymen=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 450
+	}
+
+	aristocrats=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 290
+	}
+
+	bureaucrats=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 89
+	}
+
+	officers=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 72
+	}
+
+	soldiers=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 846
+	}
+
+}
+2345 = {
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 479
+	}
+
+	farmers=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 1247
+	}
+
+	artisans=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 466
+	}
+
+	aristocrats=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 82
+	}
+
+	clergymen=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 42
+	}
+
+	soldiers=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 1033
+	}
+
+	bureaucrats=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 8
+	}
+
+	officers=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 5
+	}
+
+}
+2346 = {
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 1568
+	}
+
+	farmers=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 7702
+	}
+
+	artisans=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 1581
+	}
+
+	aristocrats=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 284
+	}
+
+	clergymen=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 146
+	}
+
+	bureaucrats=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 24
+	}
+
+	officers=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 15
+	}
+
+	soldiers=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 97
+	}
+
+}
+2347 = {
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 12
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 1163
+	}
+
+	farmers=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 2994
+	}
+
+	artisans=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 1390
+	}
+
+	aristocrats=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 167
+	}
+
+	clergymen=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 128
+	}
+
+	bureaucrats=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 25
+	}
+
+	soldiers=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 4133
+	}
+
+	officers=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 12
+	}
+
+}

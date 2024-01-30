@@ -1,0 +1,381 @@
+#Sphere of Influence
+
+AIN = {
+	value = 0
+	level = 2
+}
+AJU = {
+	value = 0
+	level = 2
+}
+ALD = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+ARM = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BIA = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BUL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRS = {
+	value = 0
+	level = 2
+}
+CTI = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DLM = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = -18
+	level = 2
+}
+ENG = {
+	value = -45
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+FRI = {
+	value = 0
+	level = 2
+}
+GDW = {
+	value = 0
+	level = 2
+}
+GLC = {
+	value = 0
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+GYN = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+LIT = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LUW = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = -7
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MRT = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = 0
+	level = 2
+}
+OMA = {
+	value = 0
+	level = 2
+}
+PCH = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = -6
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+POL = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+SAX = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+SUD = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TLG = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = -8
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+UTS = {
+	value = 0
+	level = 2
+}
+WOL = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = -6
+	level = 2
+}
+X03 = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+X04 = {
+	value = -6
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 35
+	level = 2
+}
+X21 = {
+	value = 0
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = -3
+	level = 2
+}
+X27 = {
+	value = 0
+	level = 2
+}
+X29 = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Davit II Yazidid"
+	date="1812.2.2"
+	type=land
+	personality="resolute"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Amazasp Javanshir"
+	date="1803.1.2"
+	type=land
+	personality="coolminded"
+	background="brownnoser"
+}
+
+
+#Armies
+navy = {
+	name="2nd Fleet"
+	location=1094
+	ship = {
+		name="1st Sukhumi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Poti Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Sukhumi Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1091
+	regiment = {
+		name="1st Tblisi Irregulars"
+		type=irregular
+		home=1090
+	}
+	regiment = {
+		name="2nd Tblisi Irregulars"
+		type=irregular
+		home=1090
+	}
+	regiment = {
+		name="1st Kutaisi Cavalry"
+		type=cavalry
+		home=1092
+	}
+	regiment = {
+		name="1st Pasanauri Artillery"
+		type=artillery
+		home=1091
+	}
+	regiment = {
+		name="3rd Tblisi Irregulars"
+		type=irregular
+		home=1090
+	}
+	regiment = {
+		name="1st Tblisi Cavalry"
+		type=cavalry
+		home=1090
+	}
+	regiment = {
+		name="2nd Pasanauri Artillery"
+		type=artillery
+		home=1091
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2775
+	ship = {
+		name="4th Giresun Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Giresun Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Poti Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Sukhumi Frigate"
+		type=frigate
+	}
+}
+

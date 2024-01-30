@@ -1,0 +1,149 @@
+854 = {
+	soldiers=
+	{
+		culture = magnagreek
+		religion = catholic
+		size= 104
+	}
+
+	artisans=
+	{
+		culture = magnagreek
+		religion = catholic
+		size= 52
+	}
+
+	clergymen=
+	{
+		culture = magnagreek
+		religion = catholic
+		size= 19
+	}
+
+	bureaucrats=
+	{
+		culture = magnagreek
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = magnagreek
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = magnagreek
+		religion = catholic
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = magnagreek
+		religion = catholic
+		size= 10181
+	}
+
+	soldiers=
+	{
+		culture = dynamic-greek-italian-culture-num1
+		religion = catholic
+		size= 169
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-italian-culture-num1
+		religion = catholic
+		size= 950
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-italian-culture-num1
+		religion = catholic
+		size= 356
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-italian-culture-num1
+		religion = catholic
+		size= 33
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-italian-culture-num1
+		religion = catholic
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-italian-culture-num1
+		religion = catholic
+		size= 200
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-italian-culture-num1
+		religion = catholic
+		size= 15171
+	}
+
+	soldiers=
+	{
+		culture = dynamic-greek-italian-culture-num1
+		religion = protestant
+		size= 16
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-italian-culture-num1
+		religion = protestant
+		size= 154
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-italian-culture-num1
+		religion = protestant
+		size= 58
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-italian-culture-num1
+		religion = protestant
+		size= 5
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-italian-culture-num1
+		religion = protestant
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-italian-culture-num1
+		religion = protestant
+		size= 32
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-italian-culture-num1
+		religion = protestant
+		size= 1356
+	}
+
+}

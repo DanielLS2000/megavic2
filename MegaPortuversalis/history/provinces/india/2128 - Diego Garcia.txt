@@ -1,0 +1,7 @@
+owner=GYN
+controller=GYN
+add_core=LOT
+trade_goods = fish
+life_rating = 32
+terrain = small_island
+naval_base = 1

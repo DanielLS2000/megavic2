@@ -1,0 +1,44 @@
+2131 = {
+	farmers=
+	{
+		culture = french_andes_superregion_culture
+		religion = catholic
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = french_andes_superregion_culture
+		religion = protestant
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = french_andes_superregion_culture
+		religion = protestant
+		size= 22
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 40
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 2
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1
+	}
+
+}

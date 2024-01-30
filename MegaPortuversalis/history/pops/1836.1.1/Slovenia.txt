@@ -1,0 +1,447 @@
+767 = {
+	soldiers=
+	{
+		culture = dynamic-slovene-franconian-culture-num1
+		religion = catholic
+		size= 774
+	}
+
+	artisans=
+	{
+		culture = dynamic-slovene-franconian-culture-num1
+		religion = catholic
+		size= 133
+	}
+
+	clergymen=
+	{
+		culture = dynamic-slovene-franconian-culture-num1
+		religion = catholic
+		size= 52
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-slovene-franconian-culture-num1
+		religion = catholic
+		size= 9
+	}
+
+	officers=
+	{
+		culture = dynamic-slovene-franconian-culture-num1
+		religion = catholic
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-slovene-franconian-culture-num1
+		religion = catholic
+		size= 44
+	}
+
+	farmers=
+	{
+		culture = dynamic-slovene-franconian-culture-num1
+		religion = catholic
+		size= 26579
+	}
+
+	soldiers=
+	{
+		culture = dynamic-slovene-franconian-culture-num1
+		religion = protestant
+		size= 14
+	}
+
+	artisans=
+	{
+		culture = dynamic-slovene-franconian-culture-num1
+		religion = protestant
+		size= 137
+	}
+
+	clergymen=
+	{
+		culture = dynamic-slovene-franconian-culture-num1
+		religion = protestant
+		size= 54
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-slovene-franconian-culture-num1
+		religion = protestant
+		size= 9
+	}
+
+	officers=
+	{
+		culture = dynamic-slovene-franconian-culture-num1
+		religion = protestant
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-slovene-franconian-culture-num1
+		religion = protestant
+		size= 45
+	}
+
+	farmers=
+	{
+		culture = dynamic-slovene-franconian-culture-num1
+		religion = protestant
+		size= 226
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 856
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1979
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 775
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 134
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 108
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 652
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 25940
+	}
+
+}
+768 = {
+	soldiers=
+	{
+		culture = slovene
+		religion = catholic
+		size= 1005
+	}
+
+	artisans=
+	{
+		culture = slovene
+		religion = catholic
+		size= 179
+	}
+
+	clergymen=
+	{
+		culture = slovene
+		religion = catholic
+		size= 67
+	}
+
+	bureaucrats=
+	{
+		culture = slovene
+		religion = catholic
+		size= 12
+	}
+
+	officers=
+	{
+		culture = slovene
+		religion = catholic
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = slovene
+		religion = catholic
+		size= 38
+	}
+
+	farmers=
+	{
+		culture = slovene
+		religion = catholic
+		size= 34574
+	}
+
+	soldiers=
+	{
+		culture = slovene
+		religion = protestant
+		size= 367
+	}
+
+	artisans=
+	{
+		culture = slovene
+		religion = protestant
+		size= 801
+	}
+
+	clergymen=
+	{
+		culture = slovene
+		religion = protestant
+		size= 300
+	}
+
+	bureaucrats=
+	{
+		culture = slovene
+		religion = protestant
+		size= 52
+	}
+
+	officers=
+	{
+		culture = slovene
+		religion = protestant
+		size= 42
+	}
+
+	aristocrats=
+	{
+		culture = slovene
+		religion = protestant
+		size= 168
+	}
+
+	farmers=
+	{
+		culture = slovene
+		religion = protestant
+		size= 11407
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 678
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1949
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 731
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 127
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 102
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 409
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 20206
+	}
+
+}
+769 = {
+	soldiers=
+	{
+		culture = dynamic-slovene-franconian-culture-num1
+		religion = catholic
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = dynamic-slovene-franconian-culture-num1
+		religion = catholic
+		size= 109
+	}
+
+	clergymen=
+	{
+		culture = dynamic-slovene-franconian-culture-num1
+		religion = catholic
+		size= 41
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-slovene-franconian-culture-num1
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = dynamic-slovene-franconian-culture-num1
+		religion = catholic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-slovene-franconian-culture-num1
+		religion = catholic
+		size= 23
+	}
+
+	farmers=
+	{
+		culture = dynamic-slovene-franconian-culture-num1
+		religion = catholic
+		size= 14060
+	}
+
+	soldiers=
+	{
+		culture = dynamic-slovene-franconian-culture-num1
+		religion = protestant
+		size= 475
+	}
+
+	artisans=
+	{
+		culture = dynamic-slovene-franconian-culture-num1
+		religion = protestant
+		size= 665
+	}
+
+	clergymen=
+	{
+		culture = dynamic-slovene-franconian-culture-num1
+		religion = protestant
+		size= 250
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-slovene-franconian-culture-num1
+		religion = protestant
+		size= 43
+	}
+
+	officers=
+	{
+		culture = dynamic-slovene-franconian-culture-num1
+		religion = protestant
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-slovene-franconian-culture-num1
+		religion = protestant
+		size= 139
+	}
+
+	farmers=
+	{
+		culture = dynamic-slovene-franconian-culture-num1
+		religion = protestant
+		size= 15153
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 236
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1111
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 417
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 72
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 58
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 233
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 6245
+	}
+
+}

@@ -1,0 +1,8 @@
+owner=TLG
+controller=TLG
+add_core=GOC
+add_core=HND
+add_core=TLG
+trade_goods = grain
+life_rating = 32
+fort = 1

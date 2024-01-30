@@ -1,0 +1,288 @@
+1979 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 142
+	}
+
+	farmers=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 638
+	}
+
+	artisans=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 132
+	}
+
+	aristocrats=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 16
+	}
+
+	soldiers=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 16
+	}
+
+	clergymen=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 1
+	}
+
+}
+2239 = {
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 2252
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 47
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 57
+	}
+
+	slaves=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 12450
+	}
+
+	farmers=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 10
+	}
+
+	soldiers=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 259
+	}
+
+	artisans=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 2154
+	}
+
+	aristocrats=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 258
+	}
+
+	clergymen=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 100
+	}
+
+	bureaucrats=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 55
+	}
+
+	officers=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 11
+	}
+
+}
+2242 = {
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 179
+	}
+
+	farmers=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 659
+	}
+
+	artisans=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 142
+	}
+
+	aristocrats=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 16
+	}
+
+	soldiers=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 17
+	}
+
+	clergymen=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 1
+	}
+
+}
+2243 = {
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1340
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 28
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 9
+	}
+
+	slaves=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 8048
+	}
+
+	farmers=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 1351
+	}
+
+	clergymen=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 62
+	}
+
+	aristocrats=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 81
+	}
+
+	bureaucrats=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 34
+	}
+
+	soldiers=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 163
+	}
+
+	officers=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 7
+	}
+
+}

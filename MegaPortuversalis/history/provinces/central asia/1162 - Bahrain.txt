@@ -1,0 +1,8 @@
+owner=OMA
+controller=OMA
+add_core=ARA
+add_core=OMA
+trade_goods = fruit
+life_rating = 34
+terrain = semidesert
+fort = 1

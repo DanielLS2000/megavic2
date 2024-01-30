@@ -1,0 +1,7 @@
+owner=GYN
+controller=GYN
+add_core=GYN
+trade_goods = wool
+life_rating = 31
+terrain = forest
+fort = 1

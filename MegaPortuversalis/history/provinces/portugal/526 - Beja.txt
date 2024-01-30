@@ -1,0 +1,6 @@
+owner=GLC
+controller=GLC
+add_core=GLC
+trade_goods = iron
+life_rating = 35
+naval_base = 2

@@ -1,0 +1,191 @@
+203 = {
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 819
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 39
+	}
+
+	craftsmen=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 2923
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 15
+	}
+
+	clerks=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 21
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 1
+	}
+
+	capitalists=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 28
+	}
+
+	craftsmen=
+	{
+		culture = mexican
+		religion = catholic
+		size= 1998
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = catholic
+		size= 212
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = catholic
+		size= 20
+	}
+
+	clerks=
+	{
+		culture = mexican
+		religion = catholic
+		size= 303
+	}
+
+	bureaucrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 5
+	}
+
+	capitalists=
+	{
+		culture = mexican
+		religion = catholic
+		size= 26
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 38
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = protestant
+		size= 541
+	}
+
+	soldiers=
+	{
+		culture = mexican
+		religion = protestant
+		size= 45
+	}
+
+	craftsmen=
+	{
+		culture = mexican
+		religion = protestant
+		size= 3247
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = protestant
+		size= 117
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = protestant
+		size= 11
+	}
+
+	clerks=
+	{
+		culture = mexican
+		religion = protestant
+		size= 168
+	}
+
+	bureaucrats=
+	{
+		culture = mexican
+		religion = protestant
+		size= 3
+	}
+
+	officers=
+	{
+		culture = mexican
+		religion = protestant
+		size= 2
+	}
+
+	capitalists=
+	{
+		culture = mexican
+		religion = protestant
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = protestant
+		size= 21
+	}
+
+}

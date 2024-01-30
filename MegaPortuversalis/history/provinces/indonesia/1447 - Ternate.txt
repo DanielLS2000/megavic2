@@ -1,0 +1,7 @@
+owner=MLC
+controller=GLC
+add_core=TID
+trade_goods = fish
+life_rating = 31
+naval_base = 1
+fort = 1

@@ -1,0 +1,242 @@
+2237 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 965
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 59
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 37
+	}
+
+	slaves=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 8640
+	}
+
+	slaves=
+	{
+		culture = afro_slavic
+		religion = catholic
+		size= 1214
+	}
+
+	farmers=
+	{
+		culture = novysvet
+		religion = catholic
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = novysvet
+		religion = catholic
+		size= 73
+	}
+
+	artisans=
+	{
+		culture = novysvet
+		religion = catholic
+		size= 48
+	}
+
+	clergymen=
+	{
+		culture = novysvet
+		religion = catholic
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = novysvet
+		religion = catholic
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = novysvet
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = novysvet
+		religion = catholic
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 532
+	}
+
+	artisans=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 428
+	}
+
+	clergymen=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 139
+	}
+
+	bureaucrats=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 39
+	}
+
+	officers=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 90
+	}
+
+}
+2238 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 352
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 20
+	}
+
+	slaves=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 3154
+	}
+
+	slaves=
+	{
+		culture = afro_slavic
+		religion = catholic
+		size= 440
+	}
+
+	artisans=
+	{
+		culture = novysvet
+		religion = catholic
+		size= 16
+	}
+
+	clergymen=
+	{
+		culture = novysvet
+		religion = catholic
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = novysvet
+		religion = catholic
+		size= 24
+	}
+
+	bureaucrats=
+	{
+		culture = novysvet
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = novysvet
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = novysvet
+		religion = catholic
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 181
+	}
+
+	artisans=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 146
+	}
+
+	clergymen=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 47
+	}
+
+	bureaucrats=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 13
+	}
+
+	officers=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = scandinavian_south_america_superregion_culture
+		religion = catholic
+		size= 31
+	}
+
+}

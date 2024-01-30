@@ -1,0 +1,8 @@
+owner=SUD
+controller=SUD
+add_core=JIM
+add_core=SUD
+trade_goods = cattle
+life_rating = 10
+terrain = dryhills
+fort = 1

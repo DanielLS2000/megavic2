@@ -1,0 +1,5 @@
+owner=LOU
+controller=MEX
+add_core=LOU
+trade_goods = cotton
+life_rating = 35

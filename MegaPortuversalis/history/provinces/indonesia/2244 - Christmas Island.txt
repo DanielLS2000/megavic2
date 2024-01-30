@@ -1,0 +1,7 @@
+owner=GYN
+controller=GYN
+add_core=LOT
+trade_goods = fish
+life_rating = 15
+naval_base = 2
+fort = 1

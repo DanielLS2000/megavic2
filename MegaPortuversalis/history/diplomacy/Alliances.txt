@@ -1,0 +1,192 @@
+alliance=
+{
+	first="ALD"
+	second="LOU"
+	start_date="1797.4.21"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="ALD"
+	second="NEW"
+	start_date="1800.9.29"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="AVA"
+	second="MNX"
+	start_date="1818.7.3"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="SRI"
+	second="TLG"
+	start_date="1446.7.31"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="SRI"
+	second="GDW"
+	start_date="1702.1.18"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="DAI"
+	second="AVA"
+	start_date="1742.8.24"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="EGY"
+	second="JAP"
+	start_date="1810.2.4"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="GLC"
+	second="GYN"
+	start_date="1792.6.23"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="GLC"
+	second="CLM"
+	start_date="1817.5.9"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="ENG"
+	second="UKR"
+	start_date="1810.12.1"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="GDW"
+	second="TLG"
+	start_date="1445.1.25"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="GDW"
+	second="MRT"
+	start_date="1777.6.6"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="ITA"
+	second="X24"
+	start_date="1750.3.29"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="MRT"
+	second="TLG"
+	start_date="1709.3.29"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="MEX"
+	second="ENG"
+	start_date="1772.5.26"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="MEX"
+	second="JAP"
+	start_date="1776.12.27"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="PER"
+	second="EGY"
+	start_date="1769.12.29"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="PER"
+	second="JAP"
+	start_date="1778.7.23"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="PRU"
+	second="JAP"
+	start_date="1807.4.4"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="SCA"
+	second="PRU"
+	start_date="1704.2.22"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="UKR"
+	second="PRU"
+	start_date="1655.4.10"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="UKR"
+	second="SCA"
+	start_date="1700.7.24"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="USA"
+	second="GLC"
+	start_date="1738.2.5"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="LOU"
+	second="NEW"
+	start_date="1776.11.17"
+	end_date="1936.1.1"
+}
+

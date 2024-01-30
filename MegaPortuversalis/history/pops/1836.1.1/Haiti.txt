@@ -1,0 +1,179 @@
+2213 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 7094
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 135
+	}
+
+	slaves=
+	{
+		culture = french_central_america_superregion_culture
+		religion = catholic
+		size= 64076
+	}
+
+	artisans=
+	{
+		culture = french_central_america_superregion_culture
+		religion = catholic
+		size= 6641
+	}
+
+	clergymen=
+	{
+		culture = french_central_america_superregion_culture
+		religion = catholic
+		size= 959
+	}
+
+	aristocrats=
+	{
+		culture = french_central_america_superregion_culture
+		religion = catholic
+		size= 929
+	}
+
+	bureaucrats=
+	{
+		culture = french_central_america_superregion_culture
+		religion = catholic
+		size= 235
+	}
+
+	soldiers=
+	{
+		culture = french_central_america_superregion_culture
+		religion = catholic
+		size= 1213
+	}
+
+	officers=
+	{
+		culture = french_central_america_superregion_culture
+		religion = catholic
+		size= 124
+	}
+
+	slaves=
+	{
+		culture = french_central_america_superregion_culture
+		religion = protestant
+		size= 7712
+	}
+
+	soldiers=
+	{
+		culture = french_central_america_superregion_culture
+		religion = protestant
+		size= 147
+	}
+
+	artisans=
+	{
+		culture = french_central_america_superregion_culture
+		religion = protestant
+		size= 458
+	}
+
+	clergymen=
+	{
+		culture = french_central_america_superregion_culture
+		religion = protestant
+		size= 66
+	}
+
+	bureaucrats=
+	{
+		culture = french_central_america_superregion_culture
+		religion = protestant
+		size= 16
+	}
+
+	officers=
+	{
+		culture = french_central_america_superregion_culture
+		religion = protestant
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = french_central_america_superregion_culture
+		religion = protestant
+		size= 64
+	}
+
+}
+2215 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 5044
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 186
+	}
+
+	slaves=
+	{
+		culture = french_central_america_superregion_culture
+		religion = catholic
+		size= 48852
+	}
+
+	artisans=
+	{
+		culture = french_central_america_superregion_culture
+		religion = catholic
+		size= 4850
+	}
+
+	clergymen=
+	{
+		culture = french_central_america_superregion_culture
+		religion = catholic
+		size= 700
+	}
+
+	aristocrats=
+	{
+		culture = french_central_america_superregion_culture
+		religion = catholic
+		size= 528
+	}
+
+	bureaucrats=
+	{
+		culture = french_central_america_superregion_culture
+		religion = catholic
+		size= 171
+	}
+
+	officers=
+	{
+		culture = french_central_america_superregion_culture
+		religion = catholic
+		size= 133
+	}
+
+	soldiers=
+	{
+		culture = french_central_america_superregion_culture
+		religion = catholic
+		size= 1803
+	}
+
+}

@@ -1,0 +1,5 @@
+owner=GLC
+controller=GLC
+trade_goods = timber
+life_rating = 10
+colonial=2

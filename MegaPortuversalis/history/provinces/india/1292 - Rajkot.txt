@@ -1,0 +1,9 @@
+owner=GDW
+controller=GDW
+add_core=GDW
+add_core=HND
+add_core=X19
+trade_goods = fish
+life_rating = 32
+naval_base = 2
+fort = 1

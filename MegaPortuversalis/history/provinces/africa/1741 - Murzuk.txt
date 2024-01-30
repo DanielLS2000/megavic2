@@ -1,0 +1,4 @@
+owner=X21
+controller=X21
+trade_goods = fruit
+life_rating = 10

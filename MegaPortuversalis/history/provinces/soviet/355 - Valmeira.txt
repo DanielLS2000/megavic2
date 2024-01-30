@@ -1,0 +1,9 @@
+owner=X08
+controller=X08
+add_core=EST
+add_core=UBD
+add_core=X08
+trade_goods = cattle
+life_rating = 35
+naval_base = 2
+fort = 1

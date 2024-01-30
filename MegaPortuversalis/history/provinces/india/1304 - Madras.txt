@@ -1,0 +1,10 @@
+owner=TLG
+controller=TLG
+add_core=HND
+add_core=TLG
+add_core=X22
+add_core=XMA
+trade_goods = cotton
+life_rating = 32
+naval_base = 2
+fort = 1

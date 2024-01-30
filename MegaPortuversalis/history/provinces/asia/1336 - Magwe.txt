@@ -1,0 +1,9 @@
+owner=X06
+controller=X06
+add_core=AVA
+add_core=BUR
+add_core=IDO
+add_core=X06
+trade_goods = cattle
+life_rating = 35
+fort = 1

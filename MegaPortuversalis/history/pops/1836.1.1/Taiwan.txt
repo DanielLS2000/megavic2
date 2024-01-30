@@ -1,0 +1,1009 @@
+1485 = {
+	slaves=
+	{
+		culture = polynesian
+		religion = animist
+		size= 10131
+	}
+
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 4793
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = animist
+		size= 1121
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = animist
+		size= 104
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = animist
+		size= 18
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = animist
+		size= 202
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 154830
+	}
+
+	slaves=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 397
+	}
+
+	soldiers=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 188
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 1235
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 115
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 20
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 222
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 4511
+	}
+
+	slaves=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 7964
+	}
+
+	soldiers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 3770
+	}
+
+	artisans=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 8583
+	}
+
+	clergymen=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 796
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 140
+	}
+
+	officers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 127
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 1544
+	}
+
+	farmers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 112546
+	}
+
+	slaves=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 1914
+	}
+
+	soldiers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 906
+	}
+
+	artisans=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 13203
+	}
+
+	clergymen=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 1226
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 217
+	}
+
+	officers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 199
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 2377
+	}
+
+	farmers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 12312
+	}
+
+	slaves=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = shinto
+		size= 101
+	}
+
+	soldiers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = shinto
+		size= 48
+	}
+
+	artisans=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = shinto
+		size= 24381
+	}
+
+	clergymen=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = shinto
+		size= 2264
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = shinto
+		size= 401
+	}
+
+	officers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = shinto
+		size= 366
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = shinto
+		size= 4389
+	}
+
+}
+2406 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 216
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = animist
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = animist
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = animist
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 7432
+	}
+
+	soldiers=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 8
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 56
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 222
+	}
+
+	soldiers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 169
+	}
+
+	artisans=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 385
+	}
+
+	clergymen=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 35
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 69
+	}
+
+	farmers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 5432
+	}
+
+	soldiers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 40
+	}
+
+	artisans=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 595
+	}
+
+	clergymen=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 56
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 9
+	}
+
+	officers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 107
+	}
+
+	farmers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 641
+	}
+
+	soldiers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = shinto
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = shinto
+		size= 1098
+	}
+
+	clergymen=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = shinto
+		size= 102
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = shinto
+		size= 19
+	}
+
+	officers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = shinto
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = shinto
+		size= 197
+	}
+
+}
+2562 = {
+	slaves=
+	{
+		culture = polynesian
+		religion = animist
+		size= 10131
+	}
+
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 826
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = animist
+		size= 194
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = animist
+		size= 18
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = animist
+		size= 3
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = animist
+		size= 35
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 18284
+	}
+
+	slaves=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 397
+	}
+
+	soldiers=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 33
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 212
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 38
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 450
+	}
+
+	slaves=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 7964
+	}
+
+	soldiers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 648
+	}
+
+	artisans=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 1478
+	}
+
+	clergymen=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 137
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 25
+	}
+
+	officers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 265
+	}
+
+	farmers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 12801
+	}
+
+	slaves=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 1914
+	}
+
+	soldiers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 157
+	}
+
+	artisans=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 2275
+	}
+
+	clergymen=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 211
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 37
+	}
+
+	officers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 410
+	}
+
+	farmers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 535
+	}
+
+	slaves=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = shinto
+		size= 101
+	}
+
+	soldiers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = shinto
+		size= 9
+	}
+
+	artisans=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = shinto
+		size= 4199
+	}
+
+	clergymen=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = shinto
+		size= 390
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = shinto
+		size= 69
+	}
+
+	officers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = shinto
+		size= 63
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = shinto
+		size= 756
+	}
+
+}
+2681 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 5210
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = animist
+		size= 1218
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = animist
+		size= 113
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = animist
+		size= 20
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = animist
+		size= 220
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 179256
+	}
+
+	soldiers=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 204
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 1342
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 125
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 22
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 241
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 5334
+	}
+
+	soldiers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 4096
+	}
+
+	artisans=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 9327
+	}
+
+	clergymen=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 866
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 153
+	}
+
+	officers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 140
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 1679
+	}
+
+	farmers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 130944
+	}
+
+	soldiers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 984
+	}
+
+	artisans=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 14348
+	}
+
+	clergymen=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 1332
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 236
+	}
+
+	officers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 215
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 2583
+	}
+
+	farmers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 15460
+	}
+
+	soldiers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = shinto
+		size= 53
+	}
+
+	artisans=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = shinto
+		size= 26494
+	}
+
+	clergymen=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = shinto
+		size= 2460
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = shinto
+		size= 436
+	}
+
+	officers=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = shinto
+		size= 397
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-franconian-cosmopolitan_french-culture-num2
+		religion = shinto
+		size= 4769
+	}
+
+}

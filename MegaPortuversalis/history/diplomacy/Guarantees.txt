@@ -1,0 +1,8 @@
+guarantee=
+{
+	first="UKR"
+	second="SCA"
+	start_date="1719.1.5"
+	end_date="1936.1.1"
+}
+

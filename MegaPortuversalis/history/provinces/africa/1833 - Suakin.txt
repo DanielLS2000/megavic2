@@ -4,6 +4,6 @@ add_core=SUD
 add_core=X00
 add_core=X17
 trade_goods = fish
-life_rating = 31
+life_rating = 10
 naval_base = 2
 fort = 1

@@ -2,5 +2,5 @@ owner=ITA
 controller=ITA
 add_core=KBA
 trade_goods = wool
-life_rating = 10
+life_rating = 35
 colonial=2

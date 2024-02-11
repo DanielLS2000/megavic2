@@ -2,5 +2,5 @@ owner=X21
 controller=X21
 add_core=X21
 trade_goods = wool
-life_rating = 32
+life_rating = 10
 fort = 1

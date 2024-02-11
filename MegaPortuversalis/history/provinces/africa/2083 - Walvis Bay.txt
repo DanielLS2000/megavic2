@@ -2,6 +2,6 @@ owner=ITA
 controller=ITA
 add_core=X13
 trade_goods = wool
-life_rating = 10
+life_rating = 15
 terrain = semidesert
 colonial=2

@@ -3,6 +3,6 @@ controller=SUD
 add_core=JIM
 add_core=SUD
 trade_goods = cattle
-life_rating = 10
+life_rating = 30
 terrain = dryhills
 fort = 1

@@ -2,5 +2,5 @@ owner=EGY
 controller=EGY
 add_core=X00
 trade_goods = cattle
-life_rating = 35
+life_rating = 30
 colonial=2

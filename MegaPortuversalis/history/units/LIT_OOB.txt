@@ -252,29 +252,20 @@ ZIM = {
 
 #Leaders
 leader = {
-	name="Cirulis VIII kohta Valmiera"
-	date="1809.1.18"
+	name="Kami"
+	date="1795.10.13"
 	type=land
-	personality="resolute"
-	background="uncommonly_young"
+	personality="defence_1.1"
+	background="attack_4.1"
 }
 
 leader = {
-	name="Gedivilas Kesgaila"
-	date="1815.6.11"
-	type=sea
-	personality="stalwart"
-	background="bootlicker"
-}
-
-leader = {
-	name="Ihalemb Kulvietis"
-	date="1815.10.3"
+	name="Flame"
+	date="1795.10.13"
 	type=land
-	personality="resolute"
-	background="school_of_defense"
+	personality="defence_4.1"
+	background="attack_1.1"
 }
-
 
 #Armies
 army = {

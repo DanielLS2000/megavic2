@@ -237,29 +237,20 @@ ZIM = {
 
 #Leaders
 leader = {
-	name="Dragonja Giustinani"
-	date="1803.5.3"
+	name="Kami"
+	date="1795.10.13"
 	type=land
-	personality="stalwart"
-	background="bootlicker"
+	personality="defence_1.1"
+	background="attack_4.1"
 }
 
 leader = {
-	name="Ioustinos Alvise"
-	date="1811.10.18"
+	name="Flame"
+	date="1795.10.13"
 	type=land
-	personality="chivalrous"
-	background="war_college"
+	personality="defence_4.1"
+	background="attack_1.1"
 }
-
-leader = {
-	name="Ioustinos Valieri"
-	date="1817.3.31"
-	type=land
-	personality="intuitive"
-	background="war_college"
-}
-
 
 #Armies
 army = {
@@ -321,7 +312,7 @@ army = {
 		home=804
 	}
 	regiment = {
-		name="1st Niö Cavalry"
+		name="1st Ni≈° Cavalry"
 		type=cavalry
 		home=798
 	}
@@ -360,7 +351,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="Kameönica"
+		name="Kame≈°nica"
 		type=frigate
 	}
 	ship = {
@@ -372,7 +363,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="Pljeöevica"
+		name="Plje≈°evica"
 		type=frigate
 	}
 	ship = {

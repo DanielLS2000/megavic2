@@ -256,45 +256,20 @@ ZIM = {
 
 #Leaders
 leader = {
-	name="Xiongying Dai"
-	date="1785.8.1"
+	name="Kami"
+	date="1795.10.13"
 	type=land
-	personality="stalwart"
-	background="uncommonly_young"
+	personality="defence_1.1"
+	background="attack_4.1"
 }
 
 leader = {
-	name="Zhongming  Chang"
-	date="1798.3.21"
-	type=sea
-	personality="soldierly"
-	background="war_college"
-}
-
-leader = {
-	name="Minzheng Chen"
-	date="1800.12.3"
+	name="Flame"
+	date="1795.10.13"
 	type=land
-	personality="resolute"
-	background="school_of_defense"
+	personality="defence_4.1"
+	background="attack_1.1"
 }
-
-leader = {
-	name="Youjian Yuan"
-	date="1810.2.9"
-	type=sea
-	personality="balanced_p"
-	background="generals_aide"
-}
-
-leader = {
-	name="Yuanjie Tang"
-	date="1810.9.26"
-	type=land
-	personality="resolute"
-	background="cavalry_school"
-}
-
 
 #Armies
 army = {

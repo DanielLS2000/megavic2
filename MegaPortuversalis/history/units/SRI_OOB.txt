@@ -238,35 +238,19 @@ ZIM = {
 
 #Leaders
 leader = {
-	name="Kassapa III Warangalid"
-	date="1817.11.11"
+	name="Kami"
+	date="1795.10.13"
 	type=land
-	personality="resolute"
-	background="school_of_defense"
+	personality="defence_1.1"
+	background="attack_4.1"
 }
 
 leader = {
-	name="Dharmasena Jayaratne"
-	date="1811.7.25"
-	type=sea
-	personality="coolminded"
-	background="brownnoser"
-}
-
-leader = {
-	name="Agibuti Thilakaratne"
-	date="1812.4.5"
-	type=sea
-	personality="inspiring"
-	background="aristocrat"
-}
-
-leader = {
-	name="Achugi Warangalid"
-	date="1817.11.14"
+	name="Flame"
+	date="1795.10.13"
 	type=land
-	personality="intuitive"
-	background="generals_aide"
+	personality="defence_4.1"
+	background="attack_1.1"
 }
 
 

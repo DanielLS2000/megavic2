@@ -1,5 +1,13 @@
 capital = 958
 primary_culture = dynamic-hungarian-russian_culture-culture-num1
+culture = byelorussian
+culture = dynamic-khazar-russian_culture-culture-num1
+culture = kholodnovoynsky
+culture = novvymir
+culture = russian
+culture = smugly
+culture = ukrainian
+culture = yuzhny
 culture = zzz_religion_orthodox
 religion = orthodox
 government = prussian_constitutionalism

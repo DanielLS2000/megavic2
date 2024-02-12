@@ -1,4 +1,4 @@
-name = "Converted - MegaPortuversalis"
+name = "MegaPortuversalis"
 path = "mod/MegaPortuversalis"
 user_dir = "MegaPortuversalis"
 replace = "history/provinces"

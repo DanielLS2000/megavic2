@@ -301,99 +301,19 @@ ZIM = {
 
 #Leaders
 leader = {
-	name="Benjamin Arnswald"
-	date="1805.5.13"
+	name="Kami"
+	date="1795.10.13"
 	type=land
-	personality="resolute"
-	background="school_of_defense"
+	personality="defence_1.1"
+	background="attack_4.1"
 }
 
 leader = {
-	name="Rupprecht Schnittern"
-	date="1806.3.10"
+	name="Flame"
+	date="1795.10.13"
 	type=land
-	personality="coolminded"
-	background="school_of_defense"
-}
-
-leader = {
-	name="Manfred Riwotzki"
-	date="1807.8.7"
-	type=land
-	personality="coolminded"
-	background="generals_aide"
-}
-
-leader = {
-	name="Hartmann von Merckatz"
-	date="1807.8.10"
-	type=land
-	personality="chivalrous"
-	background="uncommonly_young"
-}
-
-leader = {
-	name="Ferdinand Ucklanski"
-	date="1811.5.7"
-	type=land
-	personality="unflinching"
-	background="cavalry_school"
-}
-
-leader = {
-	name="Wilhelm Friedrich Zitzwitz"
-	date="1811.5.10"
-	type=land
-	personality="coolminded"
-	background="brownnoser"
-}
-
-leader = {
-	name="Barthelemy Catharreny Joubert"
-	date="1812.2.15"
-	type=land
-	personality="resolute"
-	background="uncommonly_young"
-}
-
-leader = {
-	name="Oskar von Kyau"
-	date="1812.7.11"
-	type=land
-	personality="balanced_p"
-	background="generals_aide"
-}
-
-leader = {
-	name="Werner von Dossow"
-	date="1813.4.4"
-	type=land
-	personality="resolute"
-	background="uncommonly_young"
-}
-
-leader = {
-	name="Rudolf von Hohenzollern"
-	date="1816.5.7"
-	type=land
-	personality="unflinching"
-	background="cavalry_school"
-}
-
-leader = {
-	name="Oskar von Preußen"
-	date="1816.8.12"
-	type=land
-	personality="coolminded"
-	background="generals_aide"
-}
-
-leader = {
-	name="Werner Arnim"
-	date="1818.9.5"
-	type=land
-	personality="resolute"
-	background="cavalry_school"
+	personality="defence_4.1"
+	background="attack_1.1"
 }
 
 
@@ -452,12 +372,12 @@ army = {
 		home=536
 	}
 	regiment = {
-		name="1st Lüneburg Infantry"
+		name="1st LÃ¼neburg Infantry"
 		type=infantry
 		home=532
 	}
 	regiment = {
-		name="2nd Lüneburg Infantry"
+		name="2nd LÃ¼neburg Infantry"
 		type=infantry
 		home=532
 	}
@@ -467,7 +387,7 @@ army = {
 		home=553
 	}
 	regiment = {
-		name="1st Küstrin Infantry"
+		name="1st KÃ¼strin Infantry"
 		type=infantry
 		home=681
 	}
@@ -477,7 +397,7 @@ army = {
 		home=559
 	}
 	regiment = {
-		name="2nd Lübeck Infantry"
+		name="2nd LÃ¼beck Infantry"
 		type=infantry
 		home=530
 	}
@@ -497,7 +417,7 @@ army = {
 		home=531
 	}
 	regiment = {
-		name="1st Königsberg Infantry"
+		name="1st KÃ¶nigsberg Infantry"
 		type=infantry
 		home=695
 	}
@@ -507,7 +427,7 @@ army = {
 		home=553
 	}
 	regiment = {
-		name="2nd Königsberg Infantry"
+		name="2nd KÃ¶nigsberg Infantry"
 		type=infantry
 		home=695
 	}
@@ -532,12 +452,12 @@ army = {
 		home=529
 	}
 	regiment = {
-		name="1st Lübeck Artillery"
+		name="1st LÃ¼beck Artillery"
 		type=artillery
 		home=530
 	}
 	regiment = {
-		name="1st Göttingen Artillery"
+		name="1st GÃ¶ttingen Artillery"
 		type=artillery
 		home=537
 	}
@@ -583,7 +503,7 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="Kurfürst Friedrich Wilhelm"
+		name="KurfÃ¼rst Friedrich Wilhelm"
 		type=manowar
 	}
 	ship = {
@@ -627,11 +547,11 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="1st Lübeck Man'o'war"
+		name="1st LÃ¼beck Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="3rd Köslin Man'o'war"
+		name="3rd KÃ¶slin Man'o'war"
 		type=manowar
 	}
 }
@@ -705,7 +625,7 @@ army = {
 		home=555
 	}
 	regiment = {
-		name="1st Düsseldorf Infantry"
+		name="1st DÃ¼sseldorf Infantry"
 		type=infantry
 		home=578
 	}
@@ -860,7 +780,7 @@ army = {
 		home=531
 	}
 	regiment = {
-		name="1st Lüneburg Artillery"
+		name="1st LÃ¼neburg Artillery"
 		type=artillery
 		home=532
 	}
@@ -976,7 +896,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="Goldener Löwe"
+		name="Goldener LÃ¶we"
 		type=frigate
 	}
 	ship = {
@@ -988,7 +908,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="Rother Löwe"
+		name="Rother LÃ¶we"
 		type=frigate
 	}
 	ship = {
@@ -1016,7 +936,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="Blücher"
+		name="BlÃ¼cher"
 		type=frigate
 	}
 	ship = {
@@ -1056,7 +976,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="Hyäne"
+		name="HyÃ¤ne"
 		type=frigate
 	}
 	ship = {
@@ -1073,7 +993,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="Jäger"
+		name="JÃ¤ger"
 		type=frigate
 	}
 	ship = {
@@ -1149,7 +1069,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="3rd Lübeck Frigate"
+		name="3rd LÃ¼beck Frigate"
 		type=frigate
 	}
 	ship = {
@@ -1157,7 +1077,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="4th Lübeck Frigate"
+		name="4th LÃ¼beck Frigate"
 		type=frigate
 	}
 	ship = {
@@ -1189,7 +1109,7 @@ army = {
 		home=544
 	}
 	regiment = {
-		name="3rd Lüneburg Infantry"
+		name="3rd LÃ¼neburg Infantry"
 		type=infantry
 		home=532
 	}
@@ -1199,7 +1119,7 @@ army = {
 		home=550
 	}
 	regiment = {
-		name="1st Lübeck Infantry"
+		name="1st LÃ¼beck Infantry"
 		type=infantry
 		home=530
 	}
@@ -1214,7 +1134,7 @@ army = {
 	name="Polish 10.Corp"
 	location=539
 	regiment = {
-		name="2nd Küstrin Infantry"
+		name="2nd KÃ¼strin Infantry"
 		type=infantry
 		home=681
 	}
@@ -1264,7 +1184,7 @@ army = {
 		home=549
 	}
 	regiment = {
-		name="1st Münster Artillery"
+		name="1st MÃ¼nster Artillery"
 		type=artillery
 		home=581
 	}
@@ -1284,7 +1204,7 @@ army = {
 		home=545
 	}
 	regiment = {
-		name="3rd Lüneburg Artillery"
+		name="3rd LÃ¼neburg Artillery"
 		type=artillery
 		home=532
 	}
@@ -1324,7 +1244,7 @@ army = {
 		home=531
 	}
 	regiment = {
-		name="2nd Lüneburg Artillery"
+		name="2nd LÃ¼neburg Artillery"
 		type=artillery
 		home=532
 	}
@@ -1334,7 +1254,7 @@ army = {
 	name="1st Army"
 	location=534
 	regiment = {
-		name="4th Lüneburg Infantry"
+		name="4th LÃ¼neburg Infantry"
 		type=infantry
 		home=532
 	}
@@ -1354,7 +1274,7 @@ army = {
 		home=540
 	}
 	regiment = {
-		name="1st Osnabrück Infantry"
+		name="1st OsnabrÃ¼ck Infantry"
 		type=infantry
 		home=538
 	}
@@ -1374,7 +1294,7 @@ navy = {
 	name="4th Fleet"
 	location=546
 	ship = {
-		name="1st Königsberg Frigate"
+		name="1st KÃ¶nigsberg Frigate"
 		type=frigate
 	}
 	ship = {
@@ -1427,7 +1347,7 @@ army = {
 	name="Prussian Volunteer Army"
 	location=549
 	regiment = {
-		name="1st Köslin Infantry"
+		name="1st KÃ¶slin Infantry"
 		type=infantry
 		home=680
 	}
@@ -1519,7 +1439,7 @@ army = {
 }
 
 army = {
-	name="Doppelsöldner"
+	name="DoppelsÃ¶ldner"
 	location=551
 	regiment = {
 		name="3rd Posen Infantry"
@@ -1549,15 +1469,15 @@ army = {
 }
 
 army = {
-	name="Reisläufer"
+	name="ReislÃ¤ufer"
 	location=568
 	regiment = {
-		name="3rd Küstrin Infantry"
+		name="3rd KÃ¼strin Infantry"
 		type=infantry
 		home=681
 	}
 	regiment = {
-		name="4th Küstrin Infantry"
+		name="4th KÃ¼strin Infantry"
 		type=infantry
 		home=681
 	}

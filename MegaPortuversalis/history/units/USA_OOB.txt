@@ -259,43 +259,19 @@ ZIM = {
 
 #Leaders
 leader = {
-	name="Sven Schack"
-	date="1790.3.24"
+	name="Kami"
+	date="1795.10.13"
 	type=land
-	personality="chivalrous"
-	background="cavalry_school"
+	personality="defence_1.1"
+	background="attack_4.1"
 }
 
 leader = {
-	name="Tomas Pil"
-	date="1801.5.20"
-	type=sea
-	personality="balanced_p"
-	background="generals_aide"
-}
-
-leader = {
-	name="Karl Horn"
-	date="1818.6.18"
+	name="Flame"
+	date="1795.10.13"
 	type=land
-	personality="unflinching"
-	background="cavalry_school"
-}
-
-leader = {
-	name="Sigismund Daa"
-	date="1818.6.19"
-	type=land
-	personality="coolminded"
-	background="brownnoser"
-}
-
-leader = {
-	name="Gottfrid Kaas"
-	date="1818.10.21"
-	type=sea
-	personality="stalwart"
-	background="uncommonly_young"
+	personality="defence_4.1"
+	background="attack_1.1"
 }
 
 

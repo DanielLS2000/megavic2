@@ -247,35 +247,19 @@ ZIM = {
 
 #Leaders
 leader = {
-	name="Sulaym0n Badr Sh0h Mukhtar"
-	date="1788.4.12"
+	name="Kami"
+	date="1795.10.13"
 	type=land
-	personality="disciplined"
-	background="cavalry_school"
+	personality="defence_1.1"
+	background="attack_4.1"
 }
 
 leader = {
-	name="Riayat Shah Anwar"
-	date="1803.4.30"
+	name="Flame"
+	date="1795.10.13"
 	type=land
-	personality="coolminded"
-	background="school_of_defense"
-}
-
-leader = {
-	name="Muhammad Sh0h Amir"
-	date="1804.2.24"
-	type=land
-	personality="balanced_p"
-	background="generals_aide"
-}
-
-leader = {
-	name="Mans0r Sh0h Kyai"
-	date="1813.12.5"
-	type=sea
-	personality="stalwart"
-	background="generals_aide"
+	personality="defence_4.1"
+	background="attack_1.1"
 }
 
 

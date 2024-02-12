@@ -248,11 +248,19 @@ leader = {
 }
 
 leader = {
-	name="Bogdan Petryshyn"
-	date="1800.9.18"
+	name="Kami"
+	date="1795.10.13"
 	type=land
-	personality="resolute"
-	background="cavalry_school"
+	personality="defence_1.1"
+	background="attack_4.1"
+}
+
+leader = {
+	name="Flame"
+	date="1795.10.13"
+	type=land
+	personality="defence_4.1"
+	background="attack_1.1"
 }
 
 

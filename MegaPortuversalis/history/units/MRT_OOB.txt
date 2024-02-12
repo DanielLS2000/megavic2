@@ -258,45 +258,20 @@ ZIM = {
 
 #Leaders
 leader = {
-	name="Jhanjha Palkar"
-	date="1792.8.21"
+	name="Kami"
+	date="1795.10.13"
 	type=land
-	personality="coolminded"
-	background="brownnoser"
+	personality="defence_1.1"
+	background="attack_4.1"
 }
 
 leader = {
-	name="Indraraja Shinde"
-	date="1803.3.14"
+	name="Flame"
+	date="1795.10.13"
 	type=land
-	personality="stalwart"
-	background="bootlicker"
+	personality="defence_4.1"
+	background="attack_1.1"
 }
-
-leader = {
-	name="Kirtiraja Moray"
-	date="1816.3.1"
-	type=land
-	personality="coolminded"
-	background="school_of_defense"
-}
-
-leader = {
-	name="Rajaraja Holkar"
-	date="1816.4.15"
-	type=land
-	personality="stalwart"
-	background="uncommonly_young"
-}
-
-leader = {
-	name="Asaga Kaushal"
-	date="1817.11.10"
-	type=sea
-	personality="stalwart"
-	background="uncommonly_young"
-}
-
 
 #Armies
 navy = {

@@ -269,35 +269,19 @@ ZIM = {
 
 #Leaders
 leader = {
-	name="Heimrich Tellez-Girón"
-	date="1813.8.28"
+	name="Kami"
+	date="1795.10.13"
 	type=land
-	personality="soldierly"
-	background="war_college"
+	personality="defence_1.1"
+	background="attack_4.1"
 }
 
 leader = {
-	name="Christophoros de Guzmán"
-	date="1814.1.2"
-	type=sea
-	personality="chivalrous"
-	background="bootlicker"
-}
-
-leader = {
-	name="Manuel de Mendoza"
-	date="1814.7.4"
+	name="Flame"
+	date="1795.10.13"
 	type=land
-	personality="stalwart"
-	background="generals_aide"
-}
-
-leader = {
-	name="Heimrich de Andrade"
-	date="1819.1.7"
-	type=land
-	personality="soldierly"
-	background="war_college"
+	personality="defence_4.1"
+	background="attack_1.1"
 }
 
 

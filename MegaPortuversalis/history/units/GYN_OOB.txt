@@ -269,97 +269,25 @@ ZIM = {
 
 #Leaders
 leader = {
-	name="Karl Hildesheim"
-	date="1788.11.12"
+	name="Kami"
+	date="1795.10.13"
 	type=land
-	personality="unflinching"
-	background="cavalry_school"
+	personality="defence_1.1"
+	background="attack_4.1"
 }
 
 leader = {
-	name="Charles Detmold"
-	date="1789.7.18"
+	name="Flame"
+	date="1795.10.13"
 	type=land
-	personality="chivalrous"
-	background="uncommonly_young"
-}
-
-leader = {
-	name="Carloman Werden"
-	date="1792.2.27"
-	type=land
-	personality="resolute"
-	background="school_of_defense"
-}
-
-leader = {
-	name="Louis Hildesheim"
-	date="1800.11.14"
-	type=land
-	personality="chivalrous"
-	background="cavalry_school"
-}
-
-leader = {
-	name="Karl Aller"
-	date="1800.11.17"
-	type=land
-	personality="resolute"
-	background="uncommonly_young"
-}
-
-leader = {
-	name="Pepin Aller"
-	date="1800.11.21"
-	type=land
-	personality="chivalrous"
-	background="uncommonly_young"
-}
-
-leader = {
-	name="Carloman de la Tour"
-	date="1802.9.26"
-	type=land
-	personality="soldierly"
-	background="war_college"
-}
-
-leader = {
-	name="Eudes Aller"
-	date="1805.8.29"
-	type=land
-	personality="resolute"
-	background="uncommonly_young"
-}
-
-leader = {
-	name="Audoïn Detmold"
-	date="1807.7.3"
-	type=land
-	personality="resolute"
-	background="natural_born_leader"
-}
-
-leader = {
-	name="Ketilmundr Hamelm"
-	date="1808.4.10"
-	type=land
-	personality="resolute"
-	background="uncommonly_young"
-}
-
-leader = {
-	name="Ketilmundr Werden"
-	date="1808.10.15"
-	type=land
-	personality="stalwart"
-	background="artillerist"
+	personality="defence_4.1"
+	background="attack_1.1"
 }
 
 
 #Armies
 army = {
-	name="Reforço 1"
+	name="ReforÃ§o 1"
 	location=430
 	regiment = {
 		name="1st Toulon Infantry"
@@ -367,7 +295,7 @@ army = {
 		home=470
 	}
 	regiment = {
-		name="1st Angoulême Infantry"
+		name="1st AngoulÃªme Infantry"
 		type=infantry
 		home=444
 	}
@@ -469,7 +397,7 @@ army = {
 }
 
 army = {
-	name="Armée d'Albret"
+	name="ArmÃ©e d'Albret"
 	location=427
 	regiment = {
 		name="1st Rennes Infantry"
@@ -509,7 +437,7 @@ army = {
 }
 
 army = {
-	name="Armée de Looz"
+	name="ArmÃ©e de Looz"
 	location=431
 	regiment = {
 		name="1st Ghent Cavalry"
@@ -544,7 +472,7 @@ army = {
 }
 
 army = {
-	name="Armée d'Aquitaine"
+	name="ArmÃ©e d'Aquitaine"
 	location=1462
 	regiment = {
 		name="1st Rodez Infantry"
@@ -552,7 +480,7 @@ army = {
 		home=462
 	}
 	regiment = {
-		name="1st St Étienne Infantry"
+		name="1st St Ã‰tienne Infantry"
 		type=infantry
 		home=452
 	}
@@ -594,7 +522,7 @@ army = {
 }
 
 army = {
-	name="Armée de Berry"
+	name="ArmÃ©e de Berry"
 	location=438
 	regiment = {
 		name="1st Batavia Infantry"
@@ -619,7 +547,7 @@ army = {
 }
 
 army = {
-	name="Armée de Bordelais"
+	name="ArmÃ©e de Bordelais"
 	location=441
 	regiment = {
 		name="1st Auxerre Infantry"
@@ -627,7 +555,7 @@ army = {
 		home=429
 	}
 	regiment = {
-		name="2nd St Étienne Infantry"
+		name="2nd St Ã‰tienne Infantry"
 		type=infantry
 		home=452
 	}
@@ -657,14 +585,14 @@ army = {
 		home=436
 	}
 	regiment = {
-		name="1st Alençon Infantry"
+		name="1st AlenÃ§on Infantry"
 		type=infantry
 		home=417
 	}
 }
 
 army = {
-	name="Armée de Cambrï¿½sis"
+	name="ArmÃ©e de CambrÃ¯Â¿Â½sis"
 	location=1463
 	regiment = {
 		name="1st Paris Infantry"
@@ -714,7 +642,7 @@ army = {
 }
 
 army = {
-	name="Armée de Castillon"
+	name="ArmÃ©e de Castillon"
 	location=1462
 	regiment = {
 		name="1st Sitten Infantry"
@@ -747,19 +675,19 @@ army = {
 		home=433
 	}
 	regiment = {
-		name="1st Châteauroux Artillery"
+		name="1st ChÃ¢teauroux Artillery"
 		type=artillery
 		home=446
 	}
 	regiment = {
-		name="1st Orléans Artillery"
+		name="1st OrlÃ©ans Artillery"
 		type=artillery
 		home=438
 	}
 }
 
 army = {
-	name="Armée de l'Agenais"
+	name="ArmÃ©e de l'Agenais"
 	location=1463
 	regiment = {
 		name="1st Marseilles Infantry"
@@ -797,7 +725,7 @@ army = {
 		home=456
 	}
 	regiment = {
-		name="1st Châteauroux Infantry"
+		name="1st ChÃ¢teauroux Infantry"
 		type=infantry
 		home=446
 	}
@@ -809,7 +737,7 @@ army = {
 }
 
 army = {
-	name="Armée de Paris"
+	name="ArmÃ©e de Paris"
 	location=426
 	regiment = {
 		name="2nd Paris Artillery"
@@ -834,7 +762,7 @@ army = {
 }
 
 army = {
-	name="Armée de la Garonne"
+	name="ArmÃ©e de la Garonne"
 	location=410
 	regiment = {
 		name="2nd Limoges Infantry"
@@ -847,7 +775,7 @@ army = {
 		home=605
 	}
 	regiment = {
-		name="2nd Angoulême Infantry"
+		name="2nd AngoulÃªme Infantry"
 		type=infantry
 		home=444
 	}
@@ -884,7 +812,7 @@ army = {
 }
 
 army = {
-	name="Armée de Blaisois"
+	name="ArmÃ©e de Blaisois"
 	location=440
 	regiment = {
 		name="3rd Carcassonne Infantry"
@@ -934,7 +862,7 @@ army = {
 }
 
 army = {
-	name="Armée du Libournais"
+	name="ArmÃ©e du Libournais"
 	location=1462
 	regiment = {
 		name="1st Blois Infantry"
@@ -1120,7 +1048,7 @@ navy = {
 }
 
 army = {
-	name="Armï¿½e de Saraouaque"
+	name="ArmÃ¯Â¿Â½e de Saraouaque"
 	location=1463
 	regiment = {
 		name="1st Rouen Infantry"
@@ -1258,7 +1186,7 @@ navy = {
 }
 
 army = {
-	name="Armée du Bazadais"
+	name="ArmÃ©e du Bazadais"
 	location=426
 	regiment = {
 		name="1st Angers Infantry"
@@ -1291,7 +1219,7 @@ army = {
 		home=1413
 	}
 	regiment = {
-		name="1st Besançon Infantry"
+		name="1st BesanÃ§on Infantry"
 		type=infantry
 		home=432
 	}
@@ -1318,7 +1246,7 @@ army = {
 }
 
 army = {
-	name="Ejï¿½rcito de Alicante"
+	name="EjÃ¯Â¿Â½rcito de Alicante"
 	location=502
 	regiment = {
 		name="1st Balearic Islands Infantry"
@@ -1361,7 +1289,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="Sémiramis"
+		name="SÃ©miramis"
 		type=frigate
 	}
 }
@@ -1374,7 +1302,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="Circé"
+		name="CircÃ©"
 		type=frigate
 	}
 }
@@ -1432,7 +1360,7 @@ navy = {
 	name="1st Fleet"
 	location=2117
 	ship = {
-		name="Prince Jérôme"
+		name="Prince JÃ©rÃ´me"
 		type=manowar
 	}
 	ship = {

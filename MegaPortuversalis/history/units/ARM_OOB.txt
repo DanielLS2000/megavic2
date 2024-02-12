@@ -231,19 +231,19 @@ ZIM = {
 
 #Leaders
 leader = {
-	name="Atrnerseh Sadian"
-	date="1792.8.23"
+	name="Kami"
+	date="1795.10.13"
 	type=land
-	personality="resolute"
-	background="uncommonly_young"
+	personality="defence_1.1"
+	background="attack_4.1"
 }
 
 leader = {
-	name="Thoros Sadian"
-	date="1808.2.17"
+	name="Flame"
+	date="1795.10.13"
 	type=land
-	personality="resolute"
-	background="school_of_defense"
+	personality="defence_4.1"
+	background="attack_1.1"
 }
 
 

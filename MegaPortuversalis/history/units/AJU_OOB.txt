@@ -231,36 +231,21 @@ ZIM = {
 
 #Leaders
 leader = {
-	name="Kadhafo III Jid'ati"
-	date="1813.7.5"
+	name="Kami"
+	date="1795.10.13"
 	type=land
-	personality="coolminded"
-	background="brownnoser"
+	personality="defence_1.1"
+	background="attack_4.1"
 }
 
 leader = {
-	name="Hamar Mosa"
-	date="1788.2.7"
+	name="Flame"
+	date="1795.10.13"
 	type=land
-	personality="resolute"
-	background="generals_aide"
+	personality="defence_4.1"
+	background="attack_1.1"
 }
 
-leader = {
-	name="Kadhafo Abdikarim"
-	date="1791.4.11"
-	type=sea
-	personality="soldierly"
-	background="war_college"
-}
-
-leader = {
-	name="Kedafu Hassan"
-	date="1801.12.22"
-	type=land
-	personality="disciplined"
-	background="bootlicker"
-}
 
 
 #Armies

@@ -265,67 +265,19 @@ ZIM = {
 
 #Leaders
 leader = {
-	name="Yazid Bay"
-	date="1804.1.21"
+	name="Kami"
+	date="1795.10.13"
 	type=land
-	personality="unflinching"
-	background="cavalry_school"
+	personality="defence_1.1"
+	background="attack_4.1"
 }
 
 leader = {
-	name="Hussayn In‚l"
-	date="1804.1.22"
+	name="Flame"
+	date="1795.10.13"
 	type=land
-	personality="coolminded"
-	background="cavalry_school"
-}
-
-leader = {
-	name="Ahmad Sayfuddin"
-	date="1808.1.9"
-	type=land
-	personality="resolute"
-	background="cavalry_school"
-}
-
-leader = {
-	name="Abdul-Lateef Zangi"
-	date="1810.9.22"
-	type=land
-	personality="coolminded"
-	background="school_of_defense"
-}
-
-leader = {
-	name="Ya'qub Sayfuddin"
-	date="1811.9.19"
-	type=land
-	personality="unflinching"
-	background="cavalry_school"
-}
-
-leader = {
-	name="Biktor Kansur"
-	date="1814.3.21"
-	type=land
-	personality="unflinching"
-	background="cavalry_school"
-}
-
-leader = {
-	name="Fortun Bey"
-	date="1814.3.31"
-	type=land
-	personality="chivalrous"
-	background="uncommonly_young"
-}
-
-leader = {
-	name="Yazid In‚l"
-	date="1819.1.24"
-	type=sea
-	personality="disciplined"
-	background="uncommonly_young"
+	personality="defence_4.1"
+	background="attack_1.1"
 }
 
 
@@ -561,7 +513,7 @@ army = {
 }
 
 army = {
-	name="Corpo S„o Thiago"
+	name="Corpo S√£o Thiago"
 	location=1870
 	regiment = {
 		name="1st Fayyum Infantry"
@@ -606,7 +558,7 @@ army = {
 }
 
 army = {
-	name="Corpo S„o Sebasti„o"
+	name="Corpo S√£o Sebasti√£o"
 	location=1409
 	regiment = {
 		name="1st Makassar Infantry"
@@ -880,7 +832,7 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="1st M·laga Man'o'war"
+		name="1st M√°laga Man'o'war"
 		type=manowar
 	}
 	ship = {

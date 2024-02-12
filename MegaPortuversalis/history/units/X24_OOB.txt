@@ -298,27 +298,19 @@ leader = {
 }
 
 leader = {
-	name="Ado Pernstein"
-	date="1810.1.20"
+	name="Kami"
+	date="1795.10.13"
 	type=land
-	personality="stalwart"
-	background="brownnoser"
+	personality="defence_1.1"
+	background="attack_4.1"
 }
 
 leader = {
-	name="Ludwig von Uffeln"
-	date="1807.6.11"
+	name="Flame"
+	date="1795.10.13"
 	type=land
-	personality="stalwart"
-	background="generals_aide"
-}
-
-leader = {
-	name="Daniel von Babenberg"
-	date="1807.6.14"
-	type=land
-	personality="resolute"
-	background="uncommonly_young"
+	personality="defence_4.1"
+	background="attack_1.1"
 }
 
 
@@ -417,7 +409,7 @@ army = {
 		home=601
 	}
 	regiment = {
-		name="1st Tübingen Infantry"
+		name="1st TÃ¼bingen Infantry"
 		type=infantry
 		home=591
 	}
@@ -477,7 +469,7 @@ army = {
 		home=600
 	}
 	regiment = {
-		name="1st Tübingen Artillery"
+		name="1st TÃ¼bingen Artillery"
 		type=artillery
 		home=591
 	}
@@ -492,7 +484,7 @@ army = {
 		home=630
 	}
 	regiment = {
-		name="1st Würzburg Infantry"
+		name="1st WÃ¼rzburg Infantry"
 		type=infantry
 		home=597
 	}
@@ -597,7 +589,7 @@ army = {
 		home=621
 	}
 	regiment = {
-		name="1st Sankt Pölten Artillery"
+		name="1st Sankt PÃ¶lten Artillery"
 		type=artillery
 		home=620
 	}

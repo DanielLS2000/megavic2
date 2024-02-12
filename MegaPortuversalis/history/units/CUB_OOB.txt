@@ -276,35 +276,19 @@ ZIM = {
 
 #Leaders
 leader = {
-	name="Niccolò de Leiva"
-	date="1795.3.14"
+	name="Kami"
+	date="1795.10.13"
 	type=land
-	personality="stalwart"
-	background="generals_aide"
+	personality="defence_1.1"
+	background="attack_4.1"
 }
 
 leader = {
-	name="Nuñu Orellana"
-	date="1811.1.6"
+	name="Flame"
+	date="1795.10.13"
 	type=land
-	personality="balanced_p"
-	background="generals_aide"
-}
-
-leader = {
-	name="Alfonsu de Toledo"
-	date="1816.1.5"
-	type=sea
-	personality="soldierly"
-	background="war_college"
-}
-
-leader = {
-	name="Niccolò de Ayala"
-	date="1818.6.18"
-	type=sea
-	personality="disciplined"
-	background="war_college"
+	personality="defence_4.1"
+	background="attack_1.1"
 }
 
 
@@ -353,7 +337,7 @@ navy = {
 	name="8th Fleet"
 	location=2209
 	ship = {
-		name="Alísio"
+		name="AlÃ­sio"
 		type=manowar
 	}
 	ship = {
@@ -369,7 +353,7 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="Ambición"
+		name="AmbiciÃ³n"
 		type=clipper_transport
 	}
 	ship = {
@@ -406,19 +390,19 @@ navy = {
 	name="4th Fleet"
 	location=2217
 	ship = {
-		name="Calixto García"
+		name="Calixto GarcÃ­a"
 		type=frigate
 	}
 	ship = {
-		name="Constitución"
+		name="ConstituciÃ³n"
 		type=frigate
 	}
 	ship = {
-		name="Félix Varela"
+		name="FÃ©lix Varela"
 		type=frigate
 	}
 	ship = {
-		name="Joaquín Infante"
+		name="JoaquÃ­n Infante"
 		type=frigate
 	}
 }
@@ -435,7 +419,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="José F. Lemus"
+		name="JosÃ© F. Lemus"
 		type=frigate
 	}
 }

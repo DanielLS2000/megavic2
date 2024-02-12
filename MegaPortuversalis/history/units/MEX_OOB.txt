@@ -269,53 +269,20 @@ ZIM = {
 
 #Leaders
 leader = {
-	name="Charles Kapp"
-	date="1806.10.3"
-	type=sea
-	personality="inspiring"
-	background="aristocrat"
-}
-
-leader = {
-	name="Ludwig Oldenburg"
-	date="1812.1.15"
-	type=sea
-	personality="disciplined"
-	background="war_college"
-}
-
-leader = {
-	name="Alvar Oldenburg"
-	date="1812.4.2"
+	name="Kami"
+	date="1795.10.13"
 	type=land
-	personality="stalwart"
-	background="generals_aide"
+	personality="defence_1.1"
+	background="attack_4.1"
 }
 
 leader = {
-	name="Charles Minden"
-	date="1814.5.23"
-	type=sea
-	personality="coolminded"
-	background="generals_aide"
-}
-
-leader = {
-	name="Bermudo Salzgitter"
-	date="1814.6.17"
+	name="Flame"
+	date="1795.10.13"
 	type=land
-	personality="coolminded"
-	background="generals_aide"
+	personality="defence_4.1"
+	background="attack_1.1"
 }
-
-leader = {
-	name="Alvar Detmold"
-	date="1815.5.3"
-	type=land
-	personality="stalwart"
-	background="uncommonly_young"
-}
-
 
 #Armies
 navy = {
@@ -339,7 +306,7 @@ army = {
 	name="9th Army"
 	location=2172
 	regiment = {
-		name="1st Mazatl·n Infantry"
+		name="1st Mazatl√°n Infantry"
 		type=infantry
 		home=2156
 	}
@@ -369,7 +336,7 @@ army = {
 		home=2180
 	}
 	regiment = {
-		name="1st MÈrida Artillery"
+		name="1st M√©rida Artillery"
 		type=artillery
 		home=2183
 	}
@@ -424,7 +391,7 @@ army = {
 		home=2180
 	}
 	regiment = {
-		name="2nd MÈrida Artillery"
+		name="2nd M√©rida Artillery"
 		type=artillery
 		home=2183
 	}
@@ -434,7 +401,7 @@ army = {
 		home=2180
 	}
 	regiment = {
-		name="1st San Luis PotosÌ Artillery"
+		name="1st San Luis Potos√≠ Artillery"
 		type=artillery
 		home=2159
 	}
@@ -463,7 +430,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="Veracr˙z"
+		name="Veracr√∫z"
 		type=frigate
 	}
 	ship = {
@@ -475,7 +442,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="Camotl·n"
+		name="Camotl√°n"
 		type=frigate
 	}
 	ship = {
@@ -483,7 +450,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="RepulsiÛn"
+		name="Repulsi√≥n"
 		type=frigate
 	}
 	ship = {
@@ -509,7 +476,7 @@ navy = {
 	name="3rd Fleet"
 	location=2162
 	ship = {
-		name="MÈxico"
+		name="M√©xico"
 		type=manowar
 	}
 	ship = {
@@ -517,7 +484,7 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="Yucat·n"
+		name="Yucat√°n"
 		type=manowar
 	}
 	ship = {
@@ -529,7 +496,7 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="Nuevo LeÛn"
+		name="Nuevo Le√≥n"
 		type=manowar
 	}
 	ship = {
@@ -541,15 +508,15 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="JosÈ MarÌa Morelos"
+		name="Jos√© Mar√≠a Morelos"
 		type=manowar
 	}
 	ship = {
-		name="AgustÌn de It˙rbide"
+		name="Agust√≠n de It√∫rbide"
 		type=manowar
 	}
 	ship = {
-		name="XicotÈncatl"
+		name="Xicot√©ncatl"
 		type=manowar
 	}
 	ship = {
@@ -621,7 +588,7 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="2nd MÈrida Man'o'war"
+		name="2nd M√©rida Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -629,11 +596,11 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="3rd MÈrida Man'o'war"
+		name="3rd M√©rida Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="4th MÈrida Man'o'war"
+		name="4th M√©rida Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -649,11 +616,11 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="An·huac"
+		name="An√°huac"
 		type=frigate
 	}
 	ship = {
-		name="1st San JosÈ Frigate"
+		name="1st San Jos√© Frigate"
 		type=frigate
 	}
 	ship = {
@@ -673,11 +640,11 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st MÈrida Clipper Transport"
+		name="1st M√©rida Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd MÈrida Clipper Transport"
+		name="2nd M√©rida Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -693,15 +660,15 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Culiac·n Clipper Transport"
+		name="1st Culiac√°n Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Minatitl·n Clipper Transport"
+		name="1st Minatitl√°n Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd MÈrida Clipper Transport"
+		name="3rd M√©rida Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -725,7 +692,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="4th MÈrida Clipper Transport"
+		name="4th M√©rida Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -741,7 +708,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="5th MÈrida Clipper Transport"
+		name="5th M√©rida Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -757,7 +724,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="6th MÈrida Clipper Transport"
+		name="6th M√©rida Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -765,7 +732,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Culiac·n Clipper Transport"
+		name="2nd Culiac√°n Clipper Transport"
 		type=clipper_transport
 	}
 }
@@ -826,7 +793,7 @@ navy = {
 	name="1st Fleet"
 	location=2971
 	ship = {
-		name="3rd Minatitl·n Frigate"
+		name="3rd Minatitl√°n Frigate"
 		type=frigate
 	}
 	ship = {

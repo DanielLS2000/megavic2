@@ -264,51 +264,19 @@ ZIM = {
 
 #Leaders
 leader = {
-	name="Nuñu de Rojas"
-	date="1809.3.6"
+	name="Kami"
+	date="1795.10.13"
 	type=land
-	personality="balanced_p"
-	background="generals_aide"
+	personality="defence_1.1"
+	background="attack_4.1"
 }
 
 leader = {
-	name="Heimrich de la Vega"
-	date="1814.8.3"
-	type=sea
-	personality="coolminded"
-	background="generals_aide"
-}
-
-leader = {
-	name="Manuel de Velasco"
-	date="1814.8.5"
-	type=sea
-	personality="balanced_p"
-	background="generals_aide"
-}
-
-leader = {
-	name="Fruela de Ojeda"
-	date="1818.6.20"
+	name="Flame"
+	date="1795.10.13"
 	type=land
-	personality="coolminded"
-	background="cavalry_school"
-}
-
-leader = {
-	name="Gundemaru de Guzmán"
-	date="1818.6.18"
-	type=sea
-	personality="stalwart"
-	background="generals_aide"
-}
-
-leader = {
-	name="Fruela Pizarro"
-	date="1818.6.22"
-	type=land
-	personality="coolminded"
-	background="uncommonly_young"
+	personality="defence_4.1"
+	background="attack_1.1"
 }
 
 
@@ -317,12 +285,12 @@ army = {
 	name="2nd Army"
 	location=2282
 	regiment = {
-		name="1st Cúcuta Infantry"
+		name="1st CÃºcuta Infantry"
 		type=infantry
 		home=2251
 	}
 	regiment = {
-		name="1st Medellín Infantry"
+		name="1st MedellÃ­n Infantry"
 		type=infantry
 		home=2252
 	}
@@ -352,12 +320,12 @@ army = {
 		home=2256
 	}
 	regiment = {
-		name="1st Cúcuta Artillery"
+		name="1st CÃºcuta Artillery"
 		type=artillery
 		home=2251
 	}
 	regiment = {
-		name="1st Paraíba Infantry"
+		name="1st ParaÃ­ba Infantry"
 		type=infantry
 		home=2428
 	}
@@ -427,7 +395,7 @@ army = {
 		home=2255
 	}
 	regiment = {
-		name="1st Maceió Artillery"
+		name="1st MaceiÃ³ Artillery"
 		type=artillery
 		home=2434
 	}
@@ -452,7 +420,7 @@ navy = {
 	name="1st Fleet"
 	location=2962
 	ship = {
-		name="Antioquía"
+		name="AntioquÃ­a"
 		type=frigate
 	}
 	ship = {
@@ -486,7 +454,7 @@ navy = {
 	name="6th Fleet"
 	location=2967
 	ship = {
-		name="José Mª García y Toledo"
+		name="JosÃ© MÂª GarcÃ­a y Toledo"
 		type=frigate
 	}
 	ship = {
@@ -499,7 +467,7 @@ navy = {
 	name="7th Fleet"
 	location=2921
 	ship = {
-		name="Quitasueño"
+		name="QuitasueÃ±o"
 		type=frigate
 	}
 }
@@ -520,7 +488,7 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="Gran Bolívar"
+		name="Gran BolÃ­var"
 		type=manowar
 	}
 	ship = {
@@ -557,11 +525,11 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="2nd Cumaná Man'o'war"
+		name="2nd CumanÃ¡ Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="República"
+		name="RepÃºblica"
 		type=frigate
 	}
 	ship = {
@@ -589,7 +557,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="Caquetá"
+		name="CaquetÃ¡"
 		type=clipper_transport
 	}
 	ship = {
@@ -597,7 +565,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="Chocó"
+		name="ChocÃ³"
 		type=clipper_transport
 	}
 	ship = {
@@ -609,7 +577,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="Guainía"
+		name="GuainÃ­a"
 		type=clipper_transport
 	}
 	ship = {

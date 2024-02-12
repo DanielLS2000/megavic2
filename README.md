@@ -1,6 +1,5 @@
 # megavic2
 ## Todo
-- colocar aquele mod que mostra o ataque e defesa dos generais
 - usar uma coisa que outros mods tem de colocar o +1000 supply limit na capital. Ai da pra usar como rally point sem se preocupar de perder gente pro atrito
 - Pedidos do Thomas:
 3 - Adicionar alguma forma de aceitar a cultura Tatar, seja por alguma decisão etc (também pode por alguma forma de assimilação, mas eu não queria fazer genocidio tatar) O requisito poderia ser todos os estados Tatar serem considerado estados visto que alguns começam como colonia.
@@ -25,3 +24,4 @@ Sugestões gerais para o vic2:
 - Ajuste das culturas aceitas por Ruthenia, Franconia e GB
 - Persia Civilizada
 - 1 fabrica de machine parts nivel 1 adicionada em todas as GPs na provincia com carvão mais populosa (Começa totalmente sem empregados :P) 
+- Implantar Mod que mostra o ataque e defesa dos generais

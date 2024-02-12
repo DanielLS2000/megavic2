@@ -295,92 +295,21 @@ ZIM = {
 
 #Leaders
 leader = {
-	name="Fedir Tyutyunnikov"
+	name="Kami"
 	date="1795.10.13"
 	type=land
-	personality="stalwart"
-	background="generals_aide"
+	personality="defence_1.1"
+	background="attack_4.1"
 }
 
 leader = {
-	name="Stepan Samoilenko"
-	date="1796.4.22"
+	name="Flame"
+	date="1795.10.13"
 	type=land
-	personality="coolminded"
-	background="cavalry_school"
+	personality="defence_4.1"
+	background="attack_1.1"
 }
 
-leader = {
-	name="Borysko Horbachov"
-	date="1803.3.10"
-	type=land
-	personality="resolute"
-	background="cavalry_school"
-}
-
-leader = {
-	name="Dmytro Skorokhod"
-	date="1803.3.11"
-	type=land
-	personality="unflinching"
-	background="cavalry_school"
-}
-
-leader = {
-	name="Dmytro Skorokhod"
-	date="1803.3.12"
-	type=land
-	personality="unflinching"
-	background="cavalry_school"
-}
-
-leader = {
-	name="Oleksiy Shafarevich"
-	date="1803.3.14"
-	type=land
-	personality="unflinching"
-	background="cavalry_school"
-}
-
-leader = {
-	name="Dmytro Tyutyunnikov"
-	date="1804.11.3"
-	type=land
-	personality="unflinching"
-	background="school_of_defense"
-}
-
-leader = {
-	name="Pylip Bunyakovskii"
-	date="1807.4.23"
-	type=land
-	personality="resolute"
-	background="natural_born_leader"
-}
-
-leader = {
-	name="Mikhailo Sydorenko"
-	date="1808.7.22"
-	type=land
-	personality="chivalrous"
-	background="bootlicker"
-}
-
-leader = {
-	name="Olek Shatunovsky"
-	date="1809.3.30"
-	type=land
-	personality="coolminded"
-	background="school_of_defense"
-}
-
-leader = {
-	name="Yakiv Verkhovynets"
-	date="1811.9.8"
-	type=land
-	personality="unflinching"
-	background="cavalry_school"
-}
 
 
 #Armies

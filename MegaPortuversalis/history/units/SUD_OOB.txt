@@ -248,27 +248,19 @@ ZIM = {
 
 #Leaders
 leader = {
-	name="Christophoros Garang"
-	date="1796.4.2"
+	name="Kami"
+	date="1795.10.13"
 	type=land
-	personality="balanced_p"
-	background="generals_aide"
+	personality="defence_1.1"
+	background="attack_4.1"
 }
 
 leader = {
-	name="Hoassi Kayra"
-	date="1818.6.20"
+	name="Flame"
+	date="1795.10.13"
 	type=land
-	personality="soldierly"
-	background="war_college"
-}
-
-leader = {
-	name="Loua Kayra"
-	date="1818.6.22"
-	type=land
-	personality="soldierly"
-	background="war_college"
+	personality="defence_4.1"
+	background="attack_1.1"
 }
 
 

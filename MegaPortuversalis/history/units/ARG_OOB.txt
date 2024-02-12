@@ -264,35 +264,19 @@ ZIM = {
 
 #Leaders
 leader = {
-	name="Pepin Wernigerode"
-	date="1788.8.2"
-	type=sea
-	personality="stalwart"
-	background="generals_aide"
-}
-
-leader = {
-	name="Carloman Kapp"
-	date="1809.11.26"
+	name="Kami"
+	date="1795.10.13"
 	type=land
-	personality="soldierly"
-	background="war_college"
+	personality="defence_1.1"
+	background="attack_4.1"
 }
 
 leader = {
-	name="Ketilmundr Hildesheim"
-	date="1818.2.9"
+	name="Flame"
+	date="1795.10.13"
 	type=land
-	personality="stalwart"
-	background="generals_aide"
-}
-
-leader = {
-	name="Eudes Salzgitter"
-	date="1820.2.22"
-	type=sea
-	personality="stalwart"
-	background="uncommonly_young"
+	personality="defence_4.1"
+	background="attack_1.1"
 }
 
 
@@ -326,7 +310,7 @@ army = {
 		home=2348
 	}
 	regiment = {
-		name="1st Paysand˙ Cavalry"
+		name="1st Paysand√∫ Cavalry"
 		type=cavalry
 		home=2345
 	}
@@ -341,11 +325,11 @@ navy = {
 	name="1st Grande frota args"
 	location=2348
 	ship = {
-		name="ARA AmÈrica"
+		name="ARA Am√©rica"
 		type=manowar
 	}
 	ship = {
-		name="ARA AquÌles"
+		name="ARA Aqu√≠les"
 		type=manowar
 	}
 	ship = {
@@ -361,7 +345,7 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="ARA ¡guila"
+		name="ARA √Åguila"
 		type=clipper_transport
 	}
 	ship = {
@@ -369,7 +353,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="ARA Atl·ntida"
+		name="ARA Atl√°ntida"
 		type=clipper_transport
 	}
 	ship = {
@@ -381,11 +365,11 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="ARA CÛndor"
+		name="ARA C√≥ndor"
 		type=clipper_transport
 	}
 	ship = {
-		name="ARA HÈroe"
+		name="ARA H√©roe"
 		type=manowar
 	}
 }
@@ -423,11 +407,11 @@ navy = {
 	name="4th Fleet"
 	location=2399
 	ship = {
-		name="ARA HÈrcules"
+		name="ARA H√©rcules"
 		type=frigate
 	}
 	ship = {
-		name="ARA HeroÌna"
+		name="ARA Hero√≠na"
 		type=frigate
 	}
 	ship = {

@@ -241,67 +241,19 @@ ZIM = {
 
 #Leaders
 leader = {
-	name="Matthew Howe"
-	date="1813.4.6"
-	type=sea
-	personality="chivalrous"
-	background="cavalry_school"
-}
-
-leader = {
-	name="Joseph Rodney"
-	date="1815.11.4"
-	type=sea
-	personality="chivalrous"
-	background="uncommonly_young"
-}
-
-leader = {
-	name="Maximilian Uxbridge"
-	date="1816.3.24"
+	name="Kami"
+	date="1795.10.13"
 	type=land
-	personality="unflinching"
-	background="cavalry_school"
+	personality="defence_1.1"
+	background="attack_4.1"
 }
 
 leader = {
-	name="Arthur Burgoyne"
-	date="1818.2.8"
+	name="Flame"
+	date="1795.10.13"
 	type=land
-	personality="resolute"
-	background="school_of_defense"
-}
-
-leader = {
-	name="Octavius Anson"
-	date="1818.3.16"
-	type=land
-	personality="unflinching"
-	background="cavalry_school"
-}
-
-leader = {
-	name="Hugh Rooke"
-	date="1819.6.30"
-	type=sea
-	personality="unflinching"
-	background="cavalry_school"
-}
-
-leader = {
-	name="Nehemiah Clinton"
-	date="1820.6.8"
-	type=sea
-	personality="coolminded"
-	background="school_of_defense"
-}
-
-leader = {
-	name="Joseph Middleton"
-	date="1820.10.1"
-	type=sea
-	personality="resolute"
-	background="school_of_defense"
+	personality="defence_4.1"
+	background="attack_1.1"
 }
 
 
@@ -660,7 +612,7 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="2nd La Coruña Man'o'war"
+		name="2nd La CoruÃ±a Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -700,7 +652,7 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="1st Moçambique Man'o'war"
+		name="1st MoÃ§ambique Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -712,7 +664,7 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="3rd La Coruña Man'o'war"
+		name="3rd La CoruÃ±a Man'o'war"
 		type=manowar
 	}
 	ship = {

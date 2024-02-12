@@ -276,21 +276,20 @@ ZIM = {
 
 #Leaders
 leader = {
-	name="Al'a'addin Husainid"
-	date="1808.8.3"
+	name="Kami"
+	date="1795.10.13"
 	type=land
-	personality="balanced_p"
-	background="generals_aide"
+	personality="defence_1.1"
+	background="attack_4.1"
 }
 
 leader = {
-	name="Akutla II Muradid"
-	date="1820.9.29"
+	name="Flame"
+	date="1795.10.13"
 	type=land
-	personality="coolminded"
-	background="uncommonly_young"
+	personality="defence_4.1"
+	background="attack_1.1"
 }
-
 
 #Armies
 army = {

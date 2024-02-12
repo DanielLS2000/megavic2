@@ -248,69 +248,20 @@ ZIM = {
 
 #Leaders
 leader = {
-	name="Juan Bautista GÛmez"
-	date="1782.10.1"
-	type=sea
-	personality="disciplined"
-	background="cavalry_school"
-}
-
-leader = {
-	name="NuÒu de Baz·n"
-	date="1795.9.9"
+	name="Kami"
+	date="1795.10.13"
 	type=land
-	personality="resolute"
-	background="cavalry_school"
+	personality="defence_1.1"
+	background="attack_4.1"
 }
 
 leader = {
-	name="Fruela Pimentel"
-	date="1798.10.24"
+	name="Flame"
+	date="1795.10.13"
 	type=land
-	personality="resolute"
-	background="uncommonly_young"
+	personality="defence_4.1"
+	background="attack_1.1"
 }
-
-leader = {
-	name="Nicholas de Figueroa"
-	date="1811.1.9"
-	type=sea
-	personality="resolute"
-	background="uncommonly_young"
-}
-
-leader = {
-	name="Radelgar de la Cerda"
-	date="1811.3.24"
-	type=sea
-	personality="resolute"
-	background="uncommonly_young"
-}
-
-leader = {
-	name="Filippo Coronado"
-	date="1814.7.30"
-	type=land
-	personality="resolute"
-	background="uncommonly_young"
-}
-
-leader = {
-	name="Nicholas Cienfuegos"
-	date="1816.2.25"
-	type=land
-	personality="chivalrous"
-	background="uncommonly_young"
-}
-
-leader = {
-	name="Sayyid de Luna"
-	date="1818.1.13"
-	type=land
-	personality="unflinching"
-	background="cavalry_school"
-}
-
 
 #Armies
 navy = {
@@ -593,7 +544,7 @@ army = {
 		home=480
 	}
 	regiment = {
-		name="1st C·diz Artillery"
+		name="1st C√°diz Artillery"
 		type=artillery
 		home=512
 	}
@@ -608,7 +559,7 @@ army = {
 		home=487
 	}
 	regiment = {
-		name="1st CÛrdoba Infantry"
+		name="1st C√≥rdoba Infantry"
 		type=infantry
 		home=510
 	}
@@ -618,12 +569,12 @@ army = {
 		home=480
 	}
 	regiment = {
-		name="2nd CÛrdoba Infantry"
+		name="2nd C√≥rdoba Infantry"
 		type=infantry
 		home=510
 	}
 	regiment = {
-		name="1st JaÈn Infantry"
+		name="1st Ja√©n Infantry"
 		type=infantry
 		home=516
 	}
@@ -653,22 +604,22 @@ army = {
 		home=487
 	}
 	regiment = {
-		name="3rd CÛrdoba Infantry"
+		name="3rd C√≥rdoba Infantry"
 		type=infantry
 		home=510
 	}
 	regiment = {
-		name="1st …vora Infantry"
+		name="1st √âvora Infantry"
 		type=infantry
 		home=525
 	}
 	regiment = {
-		name="4th CÛrdoba Infantry"
+		name="4th C√≥rdoba Infantry"
 		type=infantry
 		home=510
 	}
 	regiment = {
-		name="1st C·ceres Infantry"
+		name="1st C√°ceres Infantry"
 		type=infantry
 		home=486
 	}
@@ -683,7 +634,7 @@ army = {
 		home=476
 	}
 	regiment = {
-		name="8th CÛrdoba Infantry"
+		name="8th C√≥rdoba Infantry"
 		type=infantry
 		home=510
 	}
@@ -703,7 +654,7 @@ army = {
 		home=521
 	}
 	regiment = {
-		name="2nd …vora Infantry"
+		name="2nd √âvora Infantry"
 		type=infantry
 		home=525
 	}
@@ -718,7 +669,7 @@ army = {
 		home=511
 	}
 	regiment = {
-		name="3rd …vora Infantry"
+		name="3rd √âvora Infantry"
 		type=infantry
 		home=525
 	}
@@ -728,12 +679,12 @@ army = {
 		home=521
 	}
 	regiment = {
-		name="2nd JaÈn Infantry"
+		name="2nd Ja√©n Infantry"
 		type=infantry
 		home=516
 	}
 	regiment = {
-		name="4th …vora Infantry"
+		name="4th √âvora Infantry"
 		type=infantry
 		home=525
 	}
@@ -753,7 +704,7 @@ army = {
 		home=484
 	}
 	regiment = {
-		name="1st CÛrdoba Artillery"
+		name="1st C√≥rdoba Artillery"
 		type=artillery
 		home=510
 	}
@@ -812,7 +763,7 @@ army = {
 		home=1776
 	}
 	regiment = {
-		name="1st La CoruÒa Infantry"
+		name="1st La Coru√±a Infantry"
 		type=infantry
 		home=474
 	}
@@ -822,7 +773,7 @@ army = {
 		home=518
 	}
 	regiment = {
-		name="2nd La CoruÒa Infantry"
+		name="2nd La Coru√±a Infantry"
 		type=infantry
 		home=474
 	}
@@ -837,27 +788,27 @@ army = {
 	name="Xiang Army"
 	location=1682
 	regiment = {
-		name="1st LeÛn Infantry"
+		name="1st Le√≥n Infantry"
 		type=infantry
 		home=477
 	}
 	regiment = {
-		name="2nd LeÛn Infantry"
+		name="2nd Le√≥n Infantry"
 		type=infantry
 		home=477
 	}
 	regiment = {
-		name="3rd LeÛn Infantry"
+		name="3rd Le√≥n Infantry"
 		type=infantry
 		home=477
 	}
 	regiment = {
-		name="1st LeÛn Artillery"
+		name="1st Le√≥n Artillery"
 		type=artillery
 		home=477
 	}
 	regiment = {
-		name="2nd LeÛn Artillery"
+		name="2nd Le√≥n Artillery"
 		type=artillery
 		home=477
 	}
@@ -872,7 +823,7 @@ army = {
 		home=524
 	}
 	regiment = {
-		name="5th …vora Infantry"
+		name="5th √âvora Infantry"
 		type=infantry
 		home=525
 	}
@@ -917,17 +868,17 @@ army = {
 		home=509
 	}
 	regiment = {
-		name="5th CÛrdoba Infantry"
+		name="5th C√≥rdoba Infantry"
 		type=infantry
 		home=510
 	}
 	regiment = {
-		name="6th CÛrdoba Infantry"
+		name="6th C√≥rdoba Infantry"
 		type=infantry
 		home=510
 	}
 	regiment = {
-		name="1st M·laga Infantry"
+		name="1st M√°laga Infantry"
 		type=infantry
 		home=514
 	}
@@ -947,7 +898,7 @@ army = {
 		home=1680
 	}
 	regiment = {
-		name="7th CÛrdoba Infantry"
+		name="7th C√≥rdoba Infantry"
 		type=infantry
 		home=510
 	}
@@ -978,7 +929,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st C·diz Clipper Transport"
+		name="1st C√°diz Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -1022,7 +973,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st M·laga Clipper Transport"
+		name="1st M√°laga Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -1184,7 +1135,7 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="4th La CoruÒa Man'o'war"
+		name="4th La Coru√±a Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -1276,7 +1227,7 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="3rd M·laga Man'o'war"
+		name="3rd M√°laga Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -1292,11 +1243,11 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="2nd AlmerÌa Man'o'war"
+		name="2nd Almer√≠a Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="5th La CoruÒa Man'o'war"
+		name="5th La Coru√±a Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -1304,7 +1255,7 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="6th La CoruÒa Man'o'war"
+		name="6th La Coru√±a Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -1324,7 +1275,7 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="1st C·diz Man'o'war"
+		name="1st C√°diz Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -1356,7 +1307,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="4th Cuman· Clipper Transport"
+		name="4th Cuman√° Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -1368,7 +1319,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st La CoruÒa Clipper Transport"
+		name="1st La Coru√±a Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -1384,7 +1335,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="5th Cuman· Clipper Transport"
+		name="5th Cuman√° Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -1424,7 +1375,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st AlmerÌa Clipper Transport"
+		name="1st Almer√≠a Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -1432,7 +1383,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd La CoruÒa Clipper Transport"
+		name="2nd La Coru√±a Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -1444,7 +1395,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd La CoruÒa Clipper Transport"
+		name="3rd La Coru√±a Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {

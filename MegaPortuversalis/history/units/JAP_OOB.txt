@@ -243,93 +243,20 @@ ZIM = {
 
 #Leaders
 leader = {
-	name="Ienari Akechi"
-	date="1784.9.18"
-	type=land
-	personality="coolminded"
-	background="uncommonly_young"
-}
-
-leader = {
-	name="Ieyoshi Maeda"
+	name="Kami"
 	date="1795.10.13"
 	type=land
-	personality="stalwart"
-	background="uncommonly_young"
+	personality="defence_1.1"
+	background="attack_4.1"
 }
 
 leader = {
-	name="Hideyori Ashikaga"
-	date="1803.3.1"
-	type=sea
-	personality="coolminded"
-	background="uncommonly_young"
-}
-
-leader = {
-	name="Yoshiakira Shoni"
-	date="1811.3.28"
+	name="Flame"
+	date="1795.10.13"
 	type=land
-	personality="intuitive"
-	background="war_college"
+	personality="defence_4.1"
+	background="attack_1.1"
 }
-
-leader = {
-	name="Yoshihide Shibata"
-	date="1812.7.1"
-	type=land
-	personality="resolute"
-	background="cavalry_school"
-}
-
-leader = {
-	name="Ieyoshi Matsunaga"
-	date="1813.2.10"
-	type=land
-	personality="resolute"
-	background="uncommonly_young"
-}
-
-leader = {
-	name="Morohito Hatakeyama"
-	date="1813.8.16"
-	type=sea
-	personality="chivalrous"
-	background="cavalry_school"
-}
-
-leader = {
-	name="Ieyasu Ashikaga"
-	date="1813.8.22"
-	type=sea
-	personality="chivalrous"
-	background="cavalry_school"
-}
-
-leader = {
-	name="Yoshiteru Toki"
-	date="1814.7.17"
-	type=land
-	personality="resolute"
-	background="natural_born_leader"
-}
-
-leader = {
-	name="Hideyoshi Mimura"
-	date="1815.5.13"
-	type=land
-	personality="stalwart"
-	background="bootlicker"
-}
-
-leader = {
-	name="Ieyoshi Hojo"
-	date="1815.5.21"
-	type=sea
-	personality="unflinching"
-	background="cavalry_school"
-}
-
 
 #Armies
 army = {
@@ -933,7 +860,7 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="4th Málaga Man'o'war"
+		name="4th MÃ¡laga Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -961,7 +888,7 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="5th Málaga Man'o'war"
+		name="5th MÃ¡laga Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -1029,7 +956,7 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="1st Quibdó Clipper Transport"
+		name="1st QuibdÃ³ Clipper Transport"
 		type=clipper_transport
 	}
 }

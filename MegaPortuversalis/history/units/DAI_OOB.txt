@@ -243,35 +243,19 @@ ZIM = {
 
 #Leaders
 leader = {
-	name="Ngoi I Pagan"
-	date="1809.7.13"
+	name="Kami"
+	date="1795.10.13"
 	type=land
-	personality="stalwart"
-	background="uncommonly_young"
+	personality="defence_1.1"
+	background="attack_4.1"
 }
 
 leader = {
-	name="Tranh Nguyen"
-	date="1797.12.8"
-	type=sea
-	personality="disciplined"
-	background="uncommonly_young"
-}
-
-leader = {
-	name="Duy Than Truong"
-	date="1802.2.21"
+	name="Flame"
+	date="1795.10.13"
 	type=land
-	personality="disciplined"
-	background="bootlicker"
-}
-
-leader = {
-	name="Nghi Dan Banh"
-	date="1807.8.6"
-	type=sea
-	personality="balanced_p"
-	background="generals_aide"
+	personality="defence_4.1"
+	background="attack_1.1"
 }
 
 leader = {
@@ -301,11 +285,11 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="Tran Khâm"
+		name="Tran KhÃ¢m"
 		type=manowar
 	}
 	ship = {
-		name="Tran Thuyên"
+		name="Tran ThuyÃªn"
 		type=manowar
 	}
 	ship = {
@@ -361,7 +345,7 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="Tran Kính"
+		name="Tran KÃ­nh"
 		type=frigate
 	}
 }

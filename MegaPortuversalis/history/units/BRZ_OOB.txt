@@ -264,36 +264,27 @@ ZIM = {
 
 #Leaders
 leader = {
-	name="Heimrich de Castilla"
-	date="1794.3.11"
+	name="Kami"
+	date="1795.10.13"
 	type=land
-	personality="stalwart"
-	background="generals_aide"
+	personality="defence_1.1"
+	background="attack_4.1"
 }
 
 leader = {
-	name="Lücæl de Zúñiga"
-	date="1816.1.18"
+	name="Flame"
+	date="1795.10.13"
 	type=land
-	personality="unflinching"
-	background="cavalry_school"
+	personality="defence_4.1"
+	background="attack_1.1"
 }
-
-leader = {
-	name="Lücæl de Ayala"
-	date="1817.11.9"
-	type=land
-	personality="stalwart"
-	background="generals_aide"
-}
-
 
 #Armies
 army = {
 	name="5th Army"
 	location=2446
 	regiment = {
-		name="1st Cuiabá Infantry"
+		name="1st CuiabÃ¡ Infantry"
 		type=infantry
 		home=2418
 	}
@@ -343,7 +334,7 @@ army = {
 	name="13th Army"
 	location=2417
 	regiment = {
-		name="1st São Paulo Infantry"
+		name="1st SÃ£o Paulo Infantry"
 		type=infantry
 		home=2450
 	}
@@ -402,7 +393,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="Niterói"
+		name="NiterÃ³i"
 		type=frigate
 	}
 	ship = {

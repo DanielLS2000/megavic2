@@ -256,59 +256,19 @@ ZIM = {
 
 #Leaders
 leader = {
-	name="Ratchis Pico"
-	date="1807.11.1"
+	name="Kami"
+	date="1795.10.13"
 	type=land
-	personality="chivalrous"
-	background="cavalry_school"
+	personality="defence_1.1"
+	background="attack_4.1"
 }
 
 leader = {
-	name="Louis della Rovere"
-	date="1807.11.30"
+	name="Flame"
+	date="1795.10.13"
 	type=land
-	personality="resolute"
-	background="school_of_defense"
-}
-
-leader = {
-	name="Ulfo della Rovere"
-	date="1816.12.4"
-	type=land
-	personality="balanced_p"
-	background="generals_aide"
-}
-
-leader = {
-	name="Ljudevit di Farnese"
-	date="1816.12.6"
-	type=land
-	personality="unflinching"
-	background="cavalry_school"
-}
-
-leader = {
-	name="Grimoald de' Medici"
-	date="1818.12.7"
-	type=land
-	personality="resolute"
-	background="uncommonly_young"
-}
-
-leader = {
-	name="Alboin Galilei"
-	date="1819.2.20"
-	type=land
-	personality="unflinching"
-	background="cavalry_school"
-}
-
-leader = {
-	name="Garipald della Torre"
-	date="1819.2.24"
-	type=land
-	personality="unflinching"
-	background="cavalry_school"
+	personality="defence_4.1"
+	background="attack_1.1"
 }
 
 
@@ -1712,7 +1672,7 @@ army = {
 }
 
 army = {
-	name="Reisl‰ufer"
+	name="Reisl√§ufer"
 	location=741
 	regiment = {
 		name="5th Parma Infantry"

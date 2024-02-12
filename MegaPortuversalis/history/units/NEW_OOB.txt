@@ -266,35 +266,19 @@ ZIM = {
 
 #Leaders
 leader = {
-	name="Audoïn Hildesheim"
-	date="1802.5.9"
-	type=sea
-	personality="inspiring"
-	background="aristocrat"
+	name="Kami"
+	date="1795.10.13"
+	type=land
+	personality="defence_1.1"
+	background="attack_4.1"
 }
 
 leader = {
-	name="Karl Werden"
-	date="1809.11.29"
+	name="Flame"
+	date="1795.10.13"
 	type=land
-	personality="disciplined"
-	background="uncommonly_young"
-}
-
-leader = {
-	name="Audoïn Werden"
-	date="1817.6.30"
-	type=land
-	personality="balanced_p"
-	background="generals_aide"
-}
-
-leader = {
-	name="Audoïn Hildesheim"
-	date="1817.9.24"
-	type=land
-	personality="coolminded"
-	background="cavalry_school"
+	personality="defence_4.1"
+	background="attack_1.1"
 }
 
 
@@ -388,7 +372,7 @@ army = {
 	name="8th Army"
 	location=74
 	regiment = {
-		name="1st Trois-Rivières Infantry"
+		name="1st Trois-RiviÃ¨res Infantry"
 		type=infantry
 		home=64
 	}
@@ -434,7 +418,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Sept-Îles Clipper Transport"
+		name="1st Sept-ÃŽles Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -446,11 +430,11 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Sept-Îles Clipper Transport"
+		name="2nd Sept-ÃŽles Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Sept-Îles Clipper Transport"
+		name="3rd Sept-ÃŽles Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -482,7 +466,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="4th Sept-Îles Clipper Transport"
+		name="4th Sept-ÃŽles Clipper Transport"
 		type=clipper_transport
 	}
 }

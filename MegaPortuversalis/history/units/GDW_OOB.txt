@@ -243,19 +243,19 @@ ZIM = {
 
 #Leaders
 leader = {
-	name="Krishnadevaraya Raksel"
-	date="1812.7.10"
-	type=sea
-	personality="soldierly"
-	background="war_college"
+	name="Kami"
+	date="1795.10.13"
+	type=land
+	personality="defence_1.1"
+	background="attack_4.1"
 }
 
 leader = {
-	name="Nayapala Deogadhi"
-	date="1817.8.11"
+	name="Flame"
+	date="1795.10.13"
 	type=land
-	personality="chivalrous"
-	background="uncommonly_young"
+	personality="defence_4.1"
+	background="attack_1.1"
 }
 
 

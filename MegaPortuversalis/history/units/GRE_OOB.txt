@@ -237,43 +237,19 @@ ZIM = {
 
 #Leaders
 leader = {
-	name="Konstantinos III Machairas"
-	date="1808.3.2"
+	name="Kami"
+	date="1795.10.13"
 	type=land
-	personality="chivalrous"
-	background="bootlicker"
+	personality="defence_1.1"
+	background="attack_4.1"
 }
 
 leader = {
-	name="Dionysos Stamatelopoulos"
-	date="1811.10.19"
+	name="Flame"
+	date="1795.10.13"
 	type=land
-	personality="balanced_p"
-	background="generals_aide"
-}
-
-leader = {
-	name="Chrysanthos Mavrokordatos"
-	date="1819.2.4"
-	type=land
-	personality="unflinching"
-	background="cavalry_school"
-}
-
-leader = {
-	name="Tasos Mavrokordatos"
-	date="1819.8.11"
-	type=sea
-	personality="balanced_p"
-	background="generals_aide"
-}
-
-leader = {
-	name="Skantarios Makris"
-	date="1820.6.20"
-	type=sea
-	personality="disciplined"
-	background="bootlicker"
+	personality="defence_4.1"
+	background="attack_1.1"
 }
 
 

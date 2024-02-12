@@ -253,19 +253,19 @@ ZIM = {
 
 #Leaders
 leader = {
-	name="Oleksiy Shafarevich"
-	date="1803.2.6"
+	name="Kami"
+	date="1795.10.13"
 	type=land
-	personality="stalwart"
-	background="generals_aide"
+	personality="defence_1.1"
+	background="attack_4.1"
 }
 
 leader = {
-	name="Mecheslav Tyutyunnikov"
-	date="1811.10.17"
+	name="Flame"
+	date="1795.10.13"
 	type=land
-	personality="unflinching"
-	background="cavalry_school"
+	personality="defence_4.1"
+	background="attack_1.1"
 }
 
 

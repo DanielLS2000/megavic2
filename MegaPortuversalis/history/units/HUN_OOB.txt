@@ -237,11 +237,19 @@ ZIM = {
 
 #Leaders
 leader = {
-	name="Boldizs0r äubic'"
-	date="1809.4.28"
+	name="Kami"
+	date="1795.10.13"
 	type=land
-	personality="resolute"
-	background="uncommonly_young"
+	personality="defence_1.1"
+	background="attack_4.1"
+}
+
+leader = {
+	name="Flame"
+	date="1795.10.13"
+	type=land
+	personality="defence_4.1"
+	background="attack_1.1"
 }
 
 
@@ -260,7 +268,7 @@ army = {
 		home=2538
 	}
 	regiment = {
-		name="1st SzÈkesfehÈrv·r Cavalry"
+		name="1st Sz√©kesfeh√©rv√°r Cavalry"
 		type=cavalry
 		home=643
 	}
@@ -285,7 +293,7 @@ army = {
 		home=2538
 	}
 	regiment = {
-		name="2nd SzÈkesfehÈrv·r Cavalry"
+		name="2nd Sz√©kesfeh√©rv√°r Cavalry"
 		type=cavalry
 		home=643
 	}
@@ -315,7 +323,7 @@ army = {
 		home=639
 	}
 	regiment = {
-		name="1st Kaposv·r Artillery"
+		name="1st Kaposv√°r Artillery"
 		type=artillery
 		home=644
 	}
@@ -335,7 +343,7 @@ army = {
 		home=642
 	}
 	regiment = {
-		name="1st SzÈkesfehÈrv·r Artillery"
+		name="1st Sz√©kesfeh√©rv√°r Artillery"
 		type=artillery
 		home=643
 	}

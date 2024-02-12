@@ -269,35 +269,19 @@ ZIM = {
 
 #Leaders
 leader = {
-	name="Erik Fleming"
-	date="1807.9.4"
+	name="Kami"
+	date="1795.10.13"
 	type=land
-	personality="stalwart"
-	background="uncommonly_young"
+	personality="defence_1.1"
+	background="attack_4.1"
 }
 
 leader = {
-	name="Johan Grip"
-	date="1807.9.6"
+	name="Flame"
+	date="1795.10.13"
 	type=land
-	personality="resolute"
-	background="uncommonly_young"
-}
-
-leader = {
-	name="Magnus Adlercreutz"
-	date="1812.8.27"
-	type=land
-	personality="stalwart"
-	background="generals_aide"
-}
-
-leader = {
-	name="Ulrik Königsmarck"
-	date="1816.12.14"
-	type=sea
-	personality="defiant"
-	background="school_of_defense"
+	personality="defence_4.1"
+	background="attack_1.1"
 }
 
 
@@ -366,7 +350,7 @@ army = {
 		home=313
 	}
 	regiment = {
-		name="2nd Malmö Cavalry"
+		name="2nd MalmÃ¶ Cavalry"
 		type=cavalry
 		home=334
 	}
@@ -381,12 +365,12 @@ army = {
 	name="1st Army"
 	location=367
 	regiment = {
-		name="1st Norrköping Infantry"
+		name="1st NorrkÃ¶ping Infantry"
 		type=infantry
 		home=325
 	}
 	regiment = {
-		name="2nd Norrköping Infantry"
+		name="2nd NorrkÃ¶ping Infantry"
 		type=infantry
 		home=325
 	}
@@ -396,7 +380,7 @@ army = {
 		home=323
 	}
 	regiment = {
-		name="1st Örebro Artillery"
+		name="1st Ã–rebro Artillery"
 		type=artillery
 		home=327
 	}
@@ -406,12 +390,12 @@ army = {
 		home=323
 	}
 	regiment = {
-		name="1st Gävle Artillery"
+		name="1st GÃ¤vle Artillery"
 		type=artillery
 		home=317
 	}
 	regiment = {
-		name="3rd Norrköping Infantry"
+		name="3rd NorrkÃ¶ping Infantry"
 		type=infantry
 		home=325
 	}
@@ -421,7 +405,7 @@ army = {
 	name="2nd Army"
 	location=332
 	regiment = {
-		name="1st Växjö Infantry"
+		name="1st VÃ¤xjÃ¶ Infantry"
 		type=infantry
 		home=333
 	}
@@ -441,12 +425,12 @@ army = {
 		home=335
 	}
 	regiment = {
-		name="2nd Växjö Infantry"
+		name="2nd VÃ¤xjÃ¶ Infantry"
 		type=infantry
 		home=333
 	}
 	regiment = {
-		name="1st Borås Artillery"
+		name="1st BorÃ¥s Artillery"
 		type=artillery
 		home=330
 	}
@@ -461,7 +445,7 @@ army = {
 		home=372
 	}
 	regiment = {
-		name="1st Växjö Artillery"
+		name="1st VÃ¤xjÃ¶ Artillery"
 		type=artillery
 		home=333
 	}
@@ -486,27 +470,27 @@ army = {
 		home=335
 	}
 	regiment = {
-		name="3rd Växjö Infantry"
+		name="3rd VÃ¤xjÃ¶ Infantry"
 		type=infantry
 		home=333
 	}
 	regiment = {
-		name="2nd Borås Artillery"
+		name="2nd BorÃ¥s Artillery"
 		type=artillery
 		home=330
 	}
 	regiment = {
-		name="2nd Växjö Artillery"
+		name="2nd VÃ¤xjÃ¶ Artillery"
 		type=artillery
 		home=333
 	}
 	regiment = {
-		name="3rd Växjö Artillery"
+		name="3rd VÃ¤xjÃ¶ Artillery"
 		type=artillery
 		home=333
 	}
 	regiment = {
-		name="3rd Borås Artillery"
+		name="3rd BorÃ¥s Artillery"
 		type=artillery
 		home=330
 	}
@@ -541,22 +525,22 @@ army = {
 		home=315
 	}
 	regiment = {
-		name="1st Västerås Artillery"
+		name="1st VÃ¤sterÃ¥s Artillery"
 		type=artillery
 		home=326
 	}
 	regiment = {
-		name="4th Växjö Artillery"
+		name="4th VÃ¤xjÃ¶ Artillery"
 		type=artillery
 		home=333
 	}
 	regiment = {
-		name="2nd Örebro Artillery"
+		name="2nd Ã–rebro Artillery"
 		type=artillery
 		home=327
 	}
 	regiment = {
-		name="1st Malmö Cavalry"
+		name="1st MalmÃ¶ Cavalry"
 		type=cavalry
 		home=334
 	}
@@ -570,7 +554,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="Svarta Örn"
+		name="Svarta Ã–rn"
 		type=frigate
 	}
 	ship = {
@@ -590,7 +574,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="4th Luleå Frigate"
+		name="4th LuleÃ¥ Frigate"
 		type=frigate
 	}
 }
@@ -603,11 +587,11 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="Växjö"
+		name="VÃ¤xjÃ¶"
 		type=frigate
 	}
 	ship = {
-		name="Gävle"
+		name="GÃ¤vle"
 		type=frigate
 	}
 	ship = {
@@ -656,7 +640,7 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="Försiktigheten"
+		name="FÃ¶rsiktigheten"
 		type=manowar
 	}
 	ship = {
@@ -692,7 +676,7 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="Ørnen"
+		name="Ã˜rnen"
 		type=manowar
 	}
 	ship = {
@@ -760,7 +744,7 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="1st Göteborg Man'o'war"
+		name="1st GÃ¶teborg Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -780,7 +764,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="Søridder"
+		name="SÃ¸ridder"
 		type=frigate
 	}
 	ship = {
@@ -796,7 +780,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="Sjælland"
+		name="SjÃ¦lland"
 		type=frigate
 	}
 	ship = {
@@ -824,7 +808,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="3rd Pärnu Frigate"
+		name="3rd PÃ¤rnu Frigate"
 		type=frigate
 	}
 	ship = {
@@ -841,7 +825,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Göteborg Frigate"
+		name="1st GÃ¶teborg Frigate"
 		type=frigate
 	}
 	ship = {
@@ -923,7 +907,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Göteborg Clipper Transport"
+		name="1st GÃ¶teborg Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -936,7 +920,7 @@ army = {
 	name="7th Army"
 	location=328
 	regiment = {
-		name="1st Hämeenlinna Infantry"
+		name="1st HÃ¤meenlinna Infantry"
 		type=infantry
 		home=344
 	}
@@ -946,17 +930,17 @@ army = {
 		home=323
 	}
 	regiment = {
-		name="1st Örebro Infantry"
+		name="1st Ã–rebro Infantry"
 		type=infantry
 		home=327
 	}
 	regiment = {
-		name="4th Växjö Infantry"
+		name="4th VÃ¤xjÃ¶ Infantry"
 		type=infantry
 		home=333
 	}
 	regiment = {
-		name="1st Luleå Infantry"
+		name="1st LuleÃ¥ Infantry"
 		type=infantry
 		home=321
 	}
@@ -981,7 +965,7 @@ army = {
 		home=305
 	}
 	regiment = {
-		name="1st Göteborg Artillery"
+		name="1st GÃ¶teborg Artillery"
 		type=artillery
 		home=329
 	}
@@ -996,12 +980,12 @@ army = {
 		home=343
 	}
 	regiment = {
-		name="1st Malmö Artillery"
+		name="1st MalmÃ¶ Artillery"
 		type=artillery
 		home=334
 	}
 	regiment = {
-		name="2nd Malmö Artillery"
+		name="2nd MalmÃ¶ Artillery"
 		type=artillery
 		home=334
 	}

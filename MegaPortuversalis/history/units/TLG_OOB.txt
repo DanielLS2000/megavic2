@@ -275,43 +275,19 @@ ZIM = {
 
 #Leaders
 leader = {
-	name="Venkatadri Damerla"
-	date="1812.8.13"
-	type=sea
-	personality="stalwart"
-	background="uncommonly_young"
-}
-
-leader = {
-	name="Ramaraya Malraju"
-	date="1815.9.4"
+	name="Kami"
+	date="1795.10.13"
 	type=land
-	personality="stalwart"
-	background="uncommonly_young"
+	personality="defence_1.1"
+	background="attack_4.1"
 }
 
 leader = {
-	name="Ekoji Gona"
-	date="1815.9.7"
+	name="Flame"
+	date="1795.10.13"
 	type=land
-	personality="disciplined"
-	background="cavalry_school"
-}
-
-leader = {
-	name="Venkatadri Malraju"
-	date="1815.9.9"
-	type=land
-	personality="soldierly"
-	background="war_college"
-}
-
-leader = {
-	name="Venkatadri Suryavamsa"
-	date="1820.3.11"
-	type=sea
-	personality="soldierly"
-	background="war_college"
+	personality="defence_4.1"
+	background="attack_1.1"
 }
 
 

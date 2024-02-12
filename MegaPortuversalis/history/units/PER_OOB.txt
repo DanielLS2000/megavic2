@@ -272,91 +272,19 @@ ZIM = {
 
 #Leaders
 leader = {
-	name="Shahqoli Sabiri"
-	date="1784.4.27"
+	name="Kami"
+	date="1795.10.13"
 	type=land
-	personality="resolute"
-	background="generals_aide"
+	personality="defence_1.1"
+	background="attack_4.1"
 }
 
 leader = {
-	name="Rajab Ali Daei"
-	date="1801.11.1"
+	name="Flame"
+	date="1795.10.13"
 	type=land
-	personality="resolute"
-	background="school_of_defense"
-}
-
-leader = {
-	name="Mohammad S0diq Sabiri"
-	date="1806.2.27"
-	type=land
-	personality="chivalrous"
-	background="cavalry_school"
-}
-
-leader = {
-	name="N0der Fatemi"
-	date="1810.6.24"
-	type=land
-	personality="coolminded"
-	background="uncommonly_young"
-}
-
-leader = {
-	name="Hosayn Dalwand"
-	date="1810.7.10"
-	type=land
-	personality="resolute"
-	background="school_of_defense"
-}
-
-leader = {
-	name="'Ali Mor0d Dalwand"
-	date="1810.8.10"
-	type=land
-	personality="coolminded"
-	background="uncommonly_young"
-}
-
-leader = {
-	name="N0der Mirza Fatemi"
-	date="1810.9.30"
-	type=land
-	personality="coolminded"
-	background="school_of_defense"
-}
-
-leader = {
-	name="Hosayn Sabet"
-	date="1812.3.2"
-	type=land
-	personality="disciplined"
-	background="bootlicker"
-}
-
-leader = {
-	name="Fath Al0 Azizi"
-	date="1815.4.27"
-	type=land
-	personality="resolute"
-	background="generals_aide"
-}
-
-leader = {
-	name="Aga Muhammad Azizi"
-	date="1816.5.11"
-	type=land
-	personality="resolute"
-	background="school_of_defense"
-}
-
-leader = {
-	name="Aga Muhammad Azizi"
-	date="1816.5.12"
-	type=land
-	personality="coolminded"
-	background="school_of_defense"
+	personality="defence_4.1"
+	background="attack_1.1"
 }
 
 

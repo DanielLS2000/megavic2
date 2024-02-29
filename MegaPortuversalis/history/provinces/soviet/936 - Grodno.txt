@@ -1,5 +1,5 @@
-owner=LIT
-controller=LIT
+owner=UKR
+controller=UKR
 add_core=LIT
 add_core=UKR
 trade_goods = grain
